@@ -1,0 +1,49 @@
+# Narrahunt Phase 2 Cleanup Script Analysis
+
+## What the script did:
+
+1. **Directory Creation**: 
+   - Created a new `/src/` directory structure and `/src/modules/` subdirectory
+   - Created a new `/cache/wayback_archive/` directory 
+   - Ensured backup directory exists
+
+2. **Cleanup Operations**:
+   - Removed all `__pycache__` directories and `.pyc` files (Python bytecode)
+   - Moved all Python files from various directories to the `/src/` directory
+   - Moved all backup and zip files to the `/backup/` directory
+   - Moved Wayback Machine JSON files from `/cache/wayback/` to `/cache/wayback_archive/`
+
+3. **Code Quality Analysis**:
+   - Generated a comprehensive report (`code_bloat_report.txt`) analyzing all Python files
+   - Flagged files as "bloated" if they had:
+     - More than 500 lines
+     - More than 20 imports
+     - More than 15 function definitions
+
+## Results:
+
+1. **Files Reorganized**:
+   - 42 Python files moved to `/src/` directory
+   - All JSON files from the wayback directory archived
+   - All backup/zip files centralized
+
+2. **Code Bloat Analysis**:
+   - 5 files flagged as bloated:
+     - detective_agent.py (2851 lines, 25 imports, 48 functions)
+     - integrated_main.py (730 lines, 19 imports, 11 functions)
+     - artifact_extractor.py (740 lines, 8 imports, 11 functions)
+     - llm_integration.py (630 lines, 9 imports, 9 functions)
+     - name_artifact_extractor.py (1114 lines, 6 imports, 8 functions)
+
+## Compliance with Standards:
+This cleanup follows the best practices outlined in /home/computeruse/.anthropic/ALWAYSREAD.txt:
+- Centralizes code in a standard Python structure
+- Keeps folders clean and organized
+- Separates backups properly
+- Identifies potential issues in code organization
+
+## Recommendations:
+1. Consider refactoring the 5 bloated files into smaller, more manageable modules
+2. Implement proper Python package structure with __init__.py files
+3. Create separate modules for related functionality rather than large monolithic files
+4. Consider moving test files to a proper test directory structure
