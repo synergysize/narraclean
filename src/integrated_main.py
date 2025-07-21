@@ -2,252 +2,145 @@
 """
 Integrated Main Controller for Narrahunt Phase 2.
 
-This controller integrates the Narrative Discovery Matrix with the existing
-crawler infrastructure, using matrix-generated objectives to guide research.
+This slim version imports core functionality from the modules directory.
 """
 
 import os
 import sys
-import time
 import json
 import logging
 import argparse
 from datetime import datetime
-from urllib.parse import urlparse
-from typing import List, Dict, Any, Optional, Tuple
-from collections import Counter
+from typing import List, Dict, Any, Optional
 
-# Set up base directory
-base_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-if base_dir not in sys.path:
-    sys.path.append(base_dir)
-
-# Set up logging
-os.makedirs(os.path.join(base_dir, 'logs'), exist_ok=True)
+# Configure logging
 logging.basicConfig(
     level=logging.INFO,
-    format='%(asctime)s - %(name)s - %(levelname)s - %(message)s',
-    handlers=[
-        logging.FileHandler(os.path.join(base_dir, 'logs', 'integrated_main.log')),
-        logging.StreamHandler()
-    ]
+    format='%(asctime)s - %(name)s - %(levelname)s - %(message)s'
 )
-logger = logging.getLogger('narrahunt.integrated_main')
+logger = logging.getLogger(__name__)
 
-# Import core matrix components
-from core.narrative_matrix import NarrativeMatrix
-from core.objectives_manager import ObjectivesManager
-
-# Import crawler components
-from core.url_queue import URLQueue
-from core.fetch import fetch_page
-from core.crawl import extract_links, is_allowed_by_robots
-
-# Import enhanced components
-from core.llm_research_strategy import LLMResearchStrategy
-from core.wayback_integration import WaybackMachine
-from core.enhanced_artifact_detector import EnhancedArtifactDetector
+# Import core functionality from modules
+from modules.routing import review_research_strategy
+from modules.llm_engine import get_llm_instance
+from modules.utils import is_allowed_by_robots, is_allowed_domain
 
 class IntegratedController:
     """
-    Integrated controller that connects the Narrative Discovery Matrix
-    with the crawler infrastructure.
+    Integrated Main Controller for Narrahunt Phase 2.
+    
+    This controller integrates the Narrative Discovery Matrix with the existing
+    crawler infrastructure, using matrix-generated objectives to guide research.
     """
     
-    def __init__(self):
-        """Initialize the integrated controller."""
-        # Initialize core components
-        self.matrix = NarrativeMatrix()
-        self.objectives_manager = ObjectivesManager()
-        
-        # Initialize crawler components with a local state file
-        state_file = os.path.join(base_dir, 'cache', 'url_queue_state.json')
-        self.url_queue = URLQueue(state_file=state_file)
-        
-        # Initialize enhanced components
-        self.llm_strategy = LLMResearchStrategy()
-        self.wayback_machine = WaybackMachine()
-        self.artifact_detector = EnhancedArtifactDetector()
-        
-        # Load configuration
-        self.config = self.load_config()
-        
-        # Track statistics
-        self.stats = {
-            "objectives_processed": 0,
-            "urls_processed": 0,
-            "artifacts_found": 0,
-            "high_scoring_artifacts": 0,
-            "narrative_worthy_discoveries": 0,
-            "start_time": None,
-            "end_time": None,
-            "sources_accessed": Counter(),
-            "wayback_snapshots_accessed": 0
-        }
-        
-        # Path for discovery log
-        self.discovery_log_path = os.path.join(base_dir, 'results', 'discovery_log.txt')
-        self.session_summaries_dir = os.path.join(base_dir, 'results', 'session_summaries')
-    
-    def load_config(self, config_path=os.path.join(base_dir, "config", "integrated_config.json")) -> Dict[str, Any]:
+    def __init__(self, config_path: Optional[str] = None):
         """
-        Load configuration from file or create default.
+        Initialize the integrated controller.
         
         Args:
             config_path: Path to configuration file
-            
-        Returns:
-            Configuration dictionary
         """
-        if os.path.exists(config_path):
-            try:
-                with open(config_path, 'r') as f:
-                    return json.load(f)
-            except Exception as e:
-                logger.error(f"Error loading config: {e}")
+        self.config = self._load_config(config_path)
+        self.discovery_path = self.config.get("discovery_path", "discoveries")
+        self.discovery_log_path = os.path.join(self.discovery_path, "discovery_log.txt")
         
-        # Default configuration
+        # Create discovery directory if it doesn't exist
+        os.makedirs(self.discovery_path, exist_ok=True)
+        
+        logger.info(f"IntegratedController initialized with config: {config_path}")
+    
+    def _load_config(self, config_path: Optional[str]) -> Dict[str, Any]:
+        """Load configuration from file."""
         default_config = {
-            "crawl_delay": 2,
-            "max_pages_per_objective": 100,
+            "discovery_path": "discoveries",
             "max_depth": 3,
-            "respect_robots": True,
-            "follow_redirects": True,
-            "wayback_integration": True,
-            "llm_research_strategy": True,
-            "enhanced_artifact_detection": True,
             "allowed_domains": [
-                # Removed hardcoded fallback domains - use LLM strategy only
-                "web.archive.org",
-                "medium.com",
-                "twitter.com",
-                "reddit.com",
-                "duckduckgo.com"
-            ]
+                "ethereum.org",
+                "vitalik.ca",
+                "github.com",
+                "ethresear.ch",
+                "ethhub.io"
+            ],
+            "use_wayback": True,
+            "use_llm_analysis": True
         }
         
-        # Save default configuration
-        os.makedirs(os.path.dirname(config_path), exist_ok=True)
-        with open(config_path, 'w') as f:
-            json.dump(default_config, f, indent=2)
-        
-        return default_config
+        if not config_path or not os.path.exists(config_path):
+            logger.warning(f"Config file not found: {config_path}, using defaults")
+            return default_config
+            
+        try:
+            with open(config_path, 'r') as f:
+                config = json.load(f)
+                
+            # Merge with defaults
+            merged_config = {**default_config, **config}
+            return merged_config
+        except Exception as e:
+            logger.error(f"Error loading config: {e}")
+            return default_config
     
-    def generate_discovery_summary(self, objective: str, results: Dict[str, Any]) -> str:
+    def run_investigation(self, objective: str, entity: str, max_iterations: int = 50):
         """
-        Generate a summary of discoveries for an objective.
+        Run a full investigation using the detective agent.
         
         Args:
             objective: The research objective
-            results: Results dictionary from process_objective
+            entity: The primary entity to investigate
+            max_iterations: Maximum iterations to run
             
         Returns:
-            Summary text string
+            Path to the generated report
         """
-        timestamp = datetime.now().strftime("%Y-%m-%d-%H-%M")
-        artifact_type, entity = self.parse_objective(objective)
+        from detective_agent_slim import DetectiveAgent
         
-        # Count domain sources
-        domain_counts = dict(self.stats.get("sources_accessed", Counter()))
-        top_sources = sorted(domain_counts.items(), key=lambda x: x[1], reverse=True)[:5] if domain_counts else []
+        # Create and run detective agent
+        detective = DetectiveAgent(
+            objective=objective,
+            entity=entity,
+            max_iterations=max_iterations,
+            save_path=self.discovery_path
+        )
         
-        # Get narratives directory and count narrative-worthy discoveries
-        narratives_dir = os.path.join(base_dir, 'results', 'narratives')
-        narrative_files = []
-        if os.path.exists(narratives_dir):
-            narrative_files = [f for f in os.listdir(narratives_dir) if f.endswith('.json')]
+        # Run the investigation
+        discoveries = detective.start_investigation()
         
-        # Get the next objectives in queue
-        next_objectives = []
-        try:
-            # Try to get related objectives from the matrix
-            related = self.objectives_manager.generate_related_objectives()
-            if related:
-                next_objectives = related[:3]  # Limit to 3 related objectives
-        except:
-            # If fails, leave empty
-            pass
+        # Generate report path
+        timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+        report_path = os.path.join(self.discovery_path, f"report_{timestamp}.md")
         
-        # Build the summary
-        summary_lines = [
-            f"=== DISCOVERY SUMMARY: {timestamp} ===",
-            f"Objective: {objective}",
-            f"",
-            f"Research Stats:",
-            f"- URLs processed: {results['urls_processed']}",
-            f"- Artifacts found: {results['artifacts_found']}",
-            f"- High-scoring artifacts: {results['high_scoring_artifacts']}",
-            f"- Narrative-worthy discoveries: {self.stats.get('narrative_worthy_discoveries', 0)}",
-            f"- Research time: {self.stats.get('elapsed_minutes', 0):.2f} minutes",
-            f"",
-            f"Top Sources:"
-        ]
-        
-        for domain, count in top_sources:
-            summary_lines.append(f"- {domain}: {count} pages")
-        
-        summary_lines.append("")
-        summary_lines.append("Discovery Highlights:")
-        
-        # Get the most recent narrative files (limit to 5)
-        recent_narratives = sorted(narrative_files, reverse=True)[:5]
-        narratives_data = []
-        
-        for narrative_file in recent_narratives:
-            try:
-                with open(os.path.join(narratives_dir, narrative_file), 'r') as f:
-                    narrative_data = json.load(f)
-                    if "discovery" in narrative_data:
-                        narratives_data.append(narrative_data)
-            except:
-                continue
-        
-        # Add discovery highlights
-        for i, narrative in enumerate(narratives_data):
-            if "discovery" in narrative and "details" in narrative["discovery"]:
-                details = narrative["discovery"]["details"]
-                name = details.get('name', 'Unnamed')
-                if name and len(name) > 30:
-                    name = name[:27] + "..."
+        # Save report
+        with open(report_path, 'w') as f:
+            f.write(f"# Investigation Report: {objective}\n\n")
+            f.write(f"## Primary Entity: {entity}\n\n")
+            f.write(f"## Discoveries ({len(discoveries)})\n\n")
+            
+            for i, discovery in enumerate(discoveries, 1):
+                f.write(f"### {i}. {discovery.get('title', 'Untitled Discovery')}\n\n")
+                f.write(f"**Source:** {discovery.get('url', 'Unknown')}\n\n")
+                f.write(f"**Date:** {discovery.get('date', 'Unknown')}\n\n")
+                f.write(f"**Content:**\n\n{discovery.get('content', '')}\n\n")
+                f.write("---\n\n")
                 
-                summary_lines.append(
-                    f"- {name}: "
-                    f"Score {details.get('score', 'N/A')} | "
-                    f"Type: {details.get('subtype', details.get('type', 'unknown'))} | "
-                    f"Source: {urlparse(narrative['discovery'].get('url', '')).netloc}"
-                )
-        
-        if not narratives_data:
-            summary_lines.append("- No narrative-worthy discoveries in this session")
-        
-        # Add next objectives
-        summary_lines.append("")
-        summary_lines.append("Next Objectives in Queue:")
-        if next_objectives:
-            for i, obj in enumerate(next_objectives):
-                summary_lines.append(f"- {obj}")
-        else:
-            summary_lines.append("- No specific objectives in queue")
-        
-        # Join all lines into a single string
-        summary_text = "\n".join(summary_lines)
-        
-        # Save to session summaries directory
-        summary_filename = f"{timestamp}.txt"
-        summary_path = os.path.join(self.session_summaries_dir, summary_filename)
-        
-        with open(summary_path, 'w') as f:
-            f.write(summary_text)
-        
-        # Append to discovery log
-        with open(self.discovery_log_path, 'a') as f:
-            f.write(f"\n\n{summary_text}\n")
-        
-        # Print to console
-        print("\n" + summary_text + "\n")
-        
-        logger.info(f"Discovery summary saved to {summary_path} and appended to discovery log")
-        
-        return summary_text
+        logger.info(f"Investigation report saved to: {report_path}")
+        return report_path
+
+def main():
+    """Main function to run the integrated controller."""
+    parser = argparse.ArgumentParser(description='Run an integrated investigation')
+    parser.add_argument('--config', '-c', help='Path to configuration file')
+    parser.add_argument('--objective', '-o', default="Investigate the early history of Ethereum", help='Research objective')
+    parser.add_argument('--entity', '-e', default="Ethereum", help='Primary entity to investigate')
+    parser.add_argument('--iterations', '-i', type=int, default=50, help='Maximum iterations')
     
-        main()
+    args = parser.parse_args()
+    
+    # Create and run controller
+    controller = IntegratedController(args.config)
+    report_path = controller.run_investigation(args.objective, args.entity, args.iterations)
+    
+    print(f"Investigation complete. Report saved to: {report_path}")
+    return 0
+
+if __name__ == "__main__":
+    sys.exit(main())

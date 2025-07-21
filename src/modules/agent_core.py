@@ -15,6 +15,46 @@ from urllib.parse import urlparse, urljoin
 # Configure logger
 logger = logging.getLogger(__name__)
 
+# Import required functions from other modules
+from modules.routing import review_research_strategy, extract_leads_from_discovery
+
+def initialize_research(agent):
+    """Initialize the research strategy for the agent."""
+    logger.info("Initializing research strategy...")
+    
+    # Create research strategy if not already initialized
+    if agent.research_strategy is None:
+        from modules.research_strategy import ResearchStrategy
+        agent.research_strategy = ResearchStrategy()
+        
+    # Initialize with basic search targets
+    initial_targets = [
+        {
+            'type': 'search',
+            'query': f"{agent.entity} history",
+            'priority': 10,
+            'rationale': "Initial search for entity history"
+        },
+        {
+            'type': 'search',
+            'query': f"{agent.entity} origins",
+            'priority': 9,
+            'rationale': "Search for origins of the entity"
+        },
+        {
+            'type': 'search',
+            'query': f"{agent.entity} early development",
+            'priority': 8,
+            'rationale': "Search for early development history"
+        }
+    ]
+    
+    # Add the initial targets to the strategy
+    agent.research_strategy.add_targets(initial_targets)
+    
+    # Log the initialization
+    logger.info(f"Research strategy initialized with {len(initial_targets)} targets")
+
 def start_investigation(agent):
     """Start the investigation process using focused, depth-first exploration."""
     logger.info("Starting investigation with focused exploration strategy...")
@@ -156,7 +196,7 @@ def execute_investigation(agent, target: Dict[str, Any]) -> List[Dict[str, Any]]
     else:
         logger.warning(f"Unknown target type: {target_type}")
         return []
-        
+
     # Check if this domain is now fully exhausted
     if target_type in ['website', 'github', 'wayback']:
         domain = extract_domain(target.get('url', ''))
@@ -200,10 +240,153 @@ def is_target_exhausted(agent, domain: str) -> bool:
             
     return True
 
+def investigate_website(agent, target: Dict[str, Any]) -> List[Dict[str, Any]]:
+    """
+    Investigate a website target.
+    
+    Args:
+        agent: The detective agent instance
+        target: The target to investigate
+        
+    Returns:
+        List of discoveries
+    """
+    logger.info(f"Investigating website: {target.get('url', 'unknown')}")
+    
+    # This is a stub implementation
+    # In a real implementation, this would use crawl.py or fetch.py to get the page content
+    # For now, just return an empty list to avoid errors
+    
+    # TODO: Implement actual website investigation using modules/crawler.py
+    return []
+    
+def execute_search(agent, target: Dict[str, Any]) -> List[Dict[str, Any]]:
+    """
+    Execute a search query.
+    
+    Args:
+        agent: The detective agent instance
+        target: The target to investigate
+        
+    Returns:
+        List of discoveries
+    """
+    logger.info(f"Executing search query: {target.get('query', 'unknown')}")
+    
+    # This is a stub implementation
+    # In a real implementation, this would use a search API to get results
+    # For now, just return an empty list to avoid errors
+    
+    # TODO: Implement actual search execution
+    return []
+    
+def investigate_wayback(agent, target: Dict[str, Any]) -> List[Dict[str, Any]]:
+    """
+    Investigate a Wayback Machine target.
+    
+    Args:
+        agent: The detective agent instance
+        target: The target to investigate
+        
+    Returns:
+        List of discoveries
+    """
+    logger.info(f"Investigating Wayback Machine: {target.get('url', 'unknown')}")
+    
+    # This is a stub implementation
+    # In a real implementation, this would use wayback_integration.py to get archived content
+    # For now, just return an empty list to avoid errors
+    
+    # TODO: Implement actual Wayback investigation using modules/wayback_integration.py
+    return []
+    
+def investigate_github(agent, target: Dict[str, Any]) -> List[Dict[str, Any]]:
+    """
+    Investigate a GitHub repository.
+    
+    Args:
+        agent: The detective agent instance
+        target: The target to investigate
+        
+    Returns:
+        List of discoveries
+    """
+    logger.info(f"Investigating GitHub repository: {target.get('url', 'unknown')}")
+    
+    # This is a stub implementation
+    # In a real implementation, this would use GitHub API to get repository content
+    # For now, just return an empty list to avoid errors
+    
+    # TODO: Implement actual GitHub investigation
+    return []
+
+def save_state(agent):
+    """Save the current state of the investigation."""
+    logger.info("Saving investigation state...")
+    
+    # Create state object
+    state = {
+        'objective': agent.objective,
+        'entity': agent.entity,
+        'current_iteration': agent.current_iteration,
+        'discoveries': agent.discoveries,
+        'iteration_discoveries': agent.iteration_discoveries,
+    }
+    
+    # Save to file
+    import os
+    import json
+    
+    state_dir = os.path.join(agent.save_path, 'state')
+    os.makedirs(state_dir, exist_ok=True)
+    
+    state_file = os.path.join(state_dir, 'investigation_state.json')
+    with open(state_file, 'w') as f:
+        json.dump(state, f, indent=2)
+    
+    logger.info(f"State saved to {state_file}")
+
+def log_investigation_results(agent, target, discoveries, new_leads):
+    """Log the results of investigating a target."""
+    logger.info(f"Investigation of {target.get('type')} target completed")
+    logger.info(f"Discoveries: {len(discoveries)}")
+    
+    # Add discoveries to agent's collection
+    for discovery in discoveries:
+        if discovery not in agent.discoveries:
+            agent.discoveries.append(discovery)
+
+def generate_investigation_report(agent):
+    """Generate a final report for the investigation."""
+    logger.info("Generating investigation report...")
+    
+    # Create report structure
+    report = {
+        'objective': agent.objective,
+        'entity': agent.entity,
+        'iterations': agent.current_iteration,
+        'discoveries_count': len(agent.discoveries),
+        'summary': "Investigation completed successfully.",
+        'discoveries': agent.discoveries,
+    }
+    
+    # Save report to file
+    import os
+    import json
+    
+    report_dir = os.path.join(agent.save_path, 'reports')
+    os.makedirs(report_dir, exist_ok=True)
+    
+    report_file = os.path.join(report_dir, 'investigation_report.json')
+    with open(report_file, 'w') as f:
+        json.dump(report, f, indent=2)
+    
+    logger.info(f"Report saved to {report_file}")
+
 # Main function to initialize and run the detective agent
 def main(objective=None, entity=None, max_iterations=50):
     """Main function to run the detective agent."""
-    from src.detective_agent import DetectiveAgent
+    from detective_agent import DetectiveAgent
     
     if not objective:
         # If no objective specified, use command line arguments or default

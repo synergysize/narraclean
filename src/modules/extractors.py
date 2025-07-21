@@ -279,6 +279,134 @@ def generate_hash(content):
     """Generate a hash for artifact deduplication."""
     return hashlib.sha256(content.encode('utf-8')).hexdigest()
 
+def extract_json_keystores(soup, url, date, artifact_hashes):
+    """Extract JSON keystores from HTML."""
+    artifacts = []
+    
+    # Regular expression for JSON keystores (simplified)
+    keystore_pattern = re.compile(r'{"crypto":{.*?"ciphertext":.*?}', re.DOTALL)
+    
+    # Look in <pre>, <code>, and text nodes for JSON keystores
+    for element in soup.find_all(['pre', 'code']):
+        text = element.get_text()
+        
+        # Look for JSON keystores
+        for match in keystore_pattern.finditer(text):
+            keystore_text = match.group(0)
+            
+            # Generate hash to avoid duplicates
+            artifact_hash = generate_hash(keystore_text)
+            
+            if artifact_hash in artifact_hashes:
+                continue
+                
+            artifact_hashes.add(artifact_hash)
+            
+            # Score the artifact
+            score = score_artifact(url, keystore_text, date)
+            
+            # Create artifact object
+            artifact = {
+                'type': 'json_keystore',
+                'content': keystore_text,
+                'url': url,
+                'date': date.isoformat() if date else None,
+                'score': score,
+                'hash': artifact_hash,
+                'location': find_location(soup, keystore_text)
+            }
+            
+            artifacts.append(artifact)
+    
+    return artifacts
+
+def extract_seed_phrases(soup, url, date, artifact_hashes):
+    """Extract seed phrases from HTML."""
+    artifacts = []
+    
+    # Regular expression for seed phrases (12-24 words)
+    # This is a simplified version - real detection would be more sophisticated
+    seed_pattern = re.compile(r'\b([a-z]{3,8}\s+){11,23}[a-z]{3,8}\b', re.IGNORECASE)
+    
+    # Extract text from the soup
+    text = soup.get_text()
+    
+    # Look for seed phrases
+    for match in seed_pattern.finditer(text):
+        seed_phrase = match.group(0)
+        
+        # Generate hash to avoid duplicates
+        artifact_hash = generate_hash(seed_phrase)
+        
+        if artifact_hash in artifact_hashes:
+            continue
+            
+        artifact_hashes.add(artifact_hash)
+        
+        # Score the artifact
+        score = score_artifact(url, seed_phrase, date)
+        
+        # Create artifact object
+        artifact = {
+            'type': 'seed_phrase',
+            'content': seed_phrase,
+            'url': url,
+            'date': date.isoformat() if date else None,
+            'score': score,
+            'hash': artifact_hash,
+            'location': find_location(soup, seed_phrase)
+        }
+        
+        artifacts.append(artifact)
+    
+    return artifacts
+
+def extract_api_keys(soup, url, date, artifact_hashes):
+    """Extract API keys from HTML."""
+    artifacts = []
+    
+    # Patterns for different API key formats
+    patterns = {
+        'eth_api_key': re.compile(r'eth_apikey[=:]\s*([A-Za-z0-9]{32,})'),
+        'etherscan_api_key': re.compile(r'etherscan[_-]?api[_-]?key[=:]\s*([A-Za-z0-9]{32,})'),
+        'infura_api_key': re.compile(r'infura[_-]?api[_-]?key[=:]\s*([A-Za-z0-9]{32,})'),
+        'general_api_key': re.compile(r'api[_-]?key[=:]\s*([A-Za-z0-9]{16,})')
+    }
+    
+    # Extract text from the soup
+    text = soup.get_text()
+    
+    # Extract API keys of each type
+    for key_type, pattern in patterns.items():
+        for match in pattern.finditer(text):
+            api_key = match.group(1)
+            
+            # Generate hash to avoid duplicates
+            artifact_hash = generate_hash(api_key)
+            
+            if artifact_hash in artifact_hashes:
+                continue
+                
+            artifact_hashes.add(artifact_hash)
+            
+            # Score the artifact
+            score = score_artifact(url, api_key, date)
+            
+            # Create artifact object
+            artifact = {
+                'type': key_type,
+                'content': api_key,
+                'url': url,
+                'date': date.isoformat() if date else None,
+                'score': score,
+                'hash': artifact_hash,
+                'location': find_location(soup, api_key)
+            }
+            
+            artifacts.append(artifact)
+    
+    return artifacts
+
 def extract_names_from_text(text):
     """
     Extract potential person names from text.
