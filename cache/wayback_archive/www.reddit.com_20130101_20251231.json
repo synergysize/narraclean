@@ -1,0 +1,802 @@
+[
+  {
+    "original": "http://www.reddit.com:80/r/ethereum",
+    "timestamp": "20140114214708",
+    "digest": "TIFVGFKDJCUB6CUDFMIHVH5EASAPQ7IK",
+    "mimetype": "text/html",
+    "statuscode": "200",
+    "wayback_url": "https://web.archive.org/web/20140114214708/http://www.reddit.com:80/r/ethereum"
+  },
+  {
+    "original": "http://www.reddit.com/r/ethereum",
+    "timestamp": "20150112093334",
+    "digest": "RB2OB56HDGJIJWW2BQASX4ID4IRHSLYI",
+    "mimetype": "text/html",
+    "statuscode": "200",
+    "wayback_url": "https://web.archive.org/web/20150112093334/http://www.reddit.com/r/ethereum"
+  },
+  {
+    "original": "https://www.reddit.com/r/ethereum",
+    "timestamp": "20160106184844",
+    "digest": "G7XL56NXX7HVARQJHGNM37MAMJYNK5QE",
+    "mimetype": "text/html",
+    "statuscode": "200",
+    "wayback_url": "https://web.archive.org/web/20160106184844/https://www.reddit.com/r/ethereum"
+  },
+  {
+    "original": "http://www.reddit.com/r/ethereum",
+    "timestamp": "20170101021220",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "warc/revisit",
+    "statuscode": "-",
+    "wayback_url": "https://web.archive.org/web/20170101021220/http://www.reddit.com/r/ethereum"
+  },
+  {
+    "original": "https://www.reddit.com/r/ethereum",
+    "timestamp": "20180103202441",
+    "digest": "CE44X6GC4VI2E4IQOMIK5YNJKQSF4D7D",
+    "mimetype": "warc/revisit",
+    "statuscode": "-",
+    "wayback_url": "https://web.archive.org/web/20180103202441/https://www.reddit.com/r/ethereum"
+  },
+  {
+    "original": "https://www.reddit.com/r/ethereum/",
+    "timestamp": "20190103154316",
+    "digest": "ZNW7T3MCQ5DMPVRABEV63BO4R6X6PWM6",
+    "mimetype": "text/html",
+    "statuscode": "200",
+    "wayback_url": "https://web.archive.org/web/20190103154316/https://www.reddit.com/r/ethereum/"
+  },
+  {
+    "original": "http://reddit.com:80/r/ethereum",
+    "timestamp": "20200108035914",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "text/plain",
+    "statuscode": "301",
+    "wayback_url": "https://web.archive.org/web/20200108035914/http://reddit.com:80/r/ethereum"
+  },
+  {
+    "original": "https://www.reddit.com/r/ethereum/",
+    "timestamp": "20210102051009",
+    "digest": "IYLFBPP254WC56AQLCPDPI72XLXXRFFJ",
+    "mimetype": "text/html",
+    "statuscode": "200",
+    "wayback_url": "https://web.archive.org/web/20210102051009/https://www.reddit.com/r/ethereum/"
+  },
+  {
+    "original": "https://www.reddit.com/r/ethereum/",
+    "timestamp": "20220102021034",
+    "digest": "3YHGNYM6S2BDBXP7Q246PH7ZYROXFAZP",
+    "mimetype": "text/html",
+    "statuscode": "200",
+    "wayback_url": "https://web.archive.org/web/20220102021034/https://www.reddit.com/r/ethereum/"
+  },
+  {
+    "original": "https://www.reddit.com/r/ethereum/",
+    "timestamp": "20230101070910",
+    "digest": "QPLCPJDUHAZVQW6AFGPL72PHDAWJ5PQC",
+    "mimetype": "text/html",
+    "statuscode": "200",
+    "wayback_url": "https://web.archive.org/web/20230101070910/https://www.reddit.com/r/ethereum/"
+  },
+  {
+    "original": "https://reddit.com/r/ethereum",
+    "timestamp": "20240101043532",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "unk",
+    "statuscode": "301",
+    "wayback_url": "https://web.archive.org/web/20240101043532/https://reddit.com/r/ethereum"
+  },
+  {
+    "original": "https://www.reddit.com/r/ethereum",
+    "timestamp": "20250101020713",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "unk",
+    "statuscode": "301",
+    "wayback_url": "https://web.archive.org/web/20250101020713/https://www.reddit.com/r/ethereum"
+  },
+  {
+    "original": "http://reddit.com/r/ethereum%20as%20BokkyPooBah",
+    "timestamp": "20220709054412",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "unk",
+    "statuscode": "301",
+    "wayback_url": "https://web.archive.org/web/20220709054412/http://reddit.com/r/ethereum%20as%20BokkyPooBah"
+  },
+  {
+    "original": "https://www.reddit.com/r/ethereum&q;,&q;label&q;:&q;&q",
+    "timestamp": "20230408045153",
+    "digest": "WXIU6OTFXMQUHUL3W7PK5J6IVIQ2TAKY",
+    "mimetype": "text/html",
+    "statuscode": "200",
+    "wayback_url": "https://web.archive.org/web/20230408045153/https://www.reddit.com/r/ethereum&q;,&q;label&q;:&q;&q"
+  },
+  {
+    "original": "https://www.reddit.com/r/Ethereum&size=16",
+    "timestamp": "20220502015700",
+    "digest": "KWQABDCDFNLD6ZPRIK4LKPS72HOHHANM",
+    "mimetype": "text/html",
+    "statuscode": "200",
+    "wayback_url": "https://web.archive.org/web/20220502015700/https://www.reddit.com/r/Ethereum&size=16"
+  },
+  {
+    "original": "https://www.reddit.com/r/ethereum)",
+    "timestamp": "20250314021640",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "unk",
+    "statuscode": "301",
+    "wayback_url": "https://web.archive.org/web/20250314021640/https://www.reddit.com/r/ethereum)"
+  },
+  {
+    "original": "https://www.reddit.com/r/ethereum)%5Cn*",
+    "timestamp": "20230626175445",
+    "digest": "JWBRCX42LDYP7TVVL5HMNMDVCFTGSSLD",
+    "mimetype": "text/html",
+    "statuscode": "200",
+    "wayback_url": "https://web.archive.org/web/20230626175445/https://www.reddit.com/r/ethereum)%5Cn*"
+  },
+  {
+    "original": "https://reddit.com/r/ethereum-pro",
+    "timestamp": "20210624061723",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "unk",
+    "statuscode": "301",
+    "wayback_url": "https://web.archive.org/web/20210624061723/https://reddit.com/r/ethereum-pro"
+  },
+  {
+    "original": "https://reddit.com/r/ethereum-pro",
+    "timestamp": "20230524081548",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "unk",
+    "statuscode": "301",
+    "wayback_url": "https://web.archive.org/web/20230524081548/https://reddit.com/r/ethereum-pro"
+  },
+  {
+    "original": "https://www.reddit.com/r/ethereum.embed",
+    "timestamp": "20220329180854",
+    "digest": "ZRW5SXKJPFDUD632G4QXJVXCJFJLULNC",
+    "mimetype": "text/javascript",
+    "statuscode": "200",
+    "wayback_url": "https://web.archive.org/web/20220329180854/https://www.reddit.com/r/ethereum.embed"
+  },
+  {
+    "original": "https://www.reddit.com/r/ethereum.embed?limit=20&t=all",
+    "timestamp": "20190826160124",
+    "digest": "E2ZYIEGMMEAPBS25L5HOK6IUXO4M2LVA",
+    "mimetype": "text/javascript",
+    "statuscode": "200",
+    "wayback_url": "https://web.archive.org/web/20190826160124/https://www.reddit.com/r/ethereum.embed?limit=20&t=all"
+  },
+  {
+    "original": "https://www.reddit.com/r/ethereum.embed?limit=20&t=all",
+    "timestamp": "20220329180852",
+    "digest": "XVRKO3IU2JBU5VWTAYATSVYJQRYLHVG6",
+    "mimetype": "text/javascript",
+    "statuscode": "200",
+    "wayback_url": "https://web.archive.org/web/20220329180852/https://www.reddit.com/r/ethereum.embed?limit=20&t=all"
+  },
+  {
+    "original": "https://reddit.com/r/ethereum.embed?limit=20&t=all",
+    "timestamp": "20250117140008",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "unk",
+    "statuscode": "301",
+    "wayback_url": "https://web.archive.org/web/20250117140008/https://reddit.com/r/ethereum.embed?limit=20&t=all"
+  },
+  {
+    "original": "https://www.reddit.com/r/Ethereum.embed?limit=5",
+    "timestamp": "20201228180455",
+    "digest": "GZIHE4HWI7YEVMSGZBDTO4A5VCCKPMY7",
+    "mimetype": "text/javascript",
+    "statuscode": "200",
+    "wayback_url": "https://web.archive.org/web/20201228180455/https://www.reddit.com/r/Ethereum.embed?limit=5"
+  },
+  {
+    "original": "https://www.reddit.com/r/Ethereum.embed?limit=5",
+    "timestamp": "20211101084935",
+    "digest": "O5KB5C5IPXNBRCXBAAZ6YAWFGABKWEWG",
+    "mimetype": "text/javascript",
+    "statuscode": "200",
+    "wayback_url": "https://web.archive.org/web/20211101084935/https://www.reddit.com/r/Ethereum.embed?limit=5"
+  },
+  {
+    "original": "https://www.reddit.com/r/Ethereum.embed?limit=5",
+    "timestamp": "20220828055810",
+    "digest": "VLWNXREW7BUDQI3NQBT2U5VOVX7BWTKD",
+    "mimetype": "text/javascript",
+    "statuscode": "200",
+    "wayback_url": "https://web.archive.org/web/20220828055810/https://www.reddit.com/r/Ethereum.embed?limit=5"
+  },
+  {
+    "original": "http://www.reddit.com/r/ethereum.embed?limit=9",
+    "timestamp": "20150809180051",
+    "digest": "X4SF2277R6QISNHI6TU2HFJXHWOYTO2I",
+    "mimetype": "text/javascript",
+    "statuscode": "200",
+    "wayback_url": "https://web.archive.org/web/20150809180051/http://www.reddit.com/r/ethereum.embed?limit=9"
+  },
+  {
+    "original": "http://www.reddit.com/r/ethereum.embed?limit=9",
+    "timestamp": "20160219121514",
+    "digest": "BIQMDBCUWL4W5GV2XVHKHKESZJTO7INS",
+    "mimetype": "text/javascript",
+    "statuscode": "200",
+    "wayback_url": "https://web.archive.org/web/20160219121514/http://www.reddit.com/r/ethereum.embed?limit=9"
+  },
+  {
+    "original": "https://www.reddit.com/r/ethereum.embed?limit=9",
+    "timestamp": "20170331094420",
+    "digest": "EQLVYHXYOY3JNH7CWUBTGZJHIST4JRJ3",
+    "mimetype": "text/javascript",
+    "statuscode": "200",
+    "wayback_url": "https://web.archive.org/web/20170331094420/https://www.reddit.com/r/ethereum.embed?limit=9"
+  },
+  {
+    "original": "https://www.reddit.com/r/ethereum.embed?limit=9",
+    "timestamp": "20180109134334",
+    "digest": "EIEVRZPND7MKT2HE7LRW63HY6JXAPJOP",
+    "mimetype": "text/javascript",
+    "statuscode": "200",
+    "wayback_url": "https://web.archive.org/web/20180109134334/https://www.reddit.com/r/ethereum.embed?limit=9"
+  },
+  {
+    "original": "https://www.reddit.com/r/ethereum.embed?limit=9",
+    "timestamp": "20190418090748",
+    "digest": "GI5FS22QPSADYNQBN74CD7C2TGZQY6RC",
+    "mimetype": "text/javascript",
+    "statuscode": "200",
+    "wayback_url": "https://web.archive.org/web/20190418090748/https://www.reddit.com/r/ethereum.embed?limit=9"
+  },
+  {
+    "original": "https://www.reddit.com/r/ethereum.embed?limit=9",
+    "timestamp": "20220107125733",
+    "digest": "AGC72WC466I7WEFMD3M62RNGESPCV4PH",
+    "mimetype": "text/javascript",
+    "statuscode": "200",
+    "wayback_url": "https://web.archive.org/web/20220107125733/https://www.reddit.com/r/ethereum.embed?limit=9"
+  },
+  {
+    "original": "https://www.reddit.com/r/ethereum.json",
+    "timestamp": "20230611221412",
+    "digest": "QISEDJN5D55KAF5UC22U7P4RJ7AJU6AJ",
+    "mimetype": "application/json",
+    "statuscode": "200",
+    "wayback_url": "https://web.archive.org/web/20230611221412/https://www.reddit.com/r/ethereum.json"
+  },
+  {
+    "original": "https://www.reddit.com/r/ethereum.json?limit=6",
+    "timestamp": "20210129142326",
+    "digest": "YHYAGRHKJHDL6JPZDEVFFDWVBWRPLKV4",
+    "mimetype": "application/json",
+    "statuscode": "200",
+    "wayback_url": "https://web.archive.org/web/20210129142326/https://www.reddit.com/r/ethereum.json?limit=6"
+  },
+  {
+    "original": "https://www.reddit.com/r/ethereum/%22,%22community_creation%22:%221387037735%22,%22posts_per_day%22:%2227.61%22,%22name%22:%22ethereum%22,%22subscribers%22:500798,%22Points%22:505138",
+    "timestamp": "20201207162839",
+    "digest": "2SB2YXCLTMMWJ2DDN4FS7GICX6ZQYL3I",
+    "mimetype": "text/html",
+    "statuscode": "404",
+    "wayback_url": "https://web.archive.org/web/20201207162839/https://www.reddit.com/r/ethereum/%22,%22community_creation%22:%221387037735%22,%22posts_per_day%22:%2227.61%22,%22name%22:%22ethereum%22,%22subscribers%22:500798,%22Points%22:505138"
+  },
+  {
+    "original": "https://www.reddit.com/r/ethereum/%22//b.thumbs.redditmedia.com/aj2E0GeUCkVhSroVZXPlYutbTx_B0i-HYGQD2hzke3Q.jpg%22",
+    "timestamp": "20221006131242",
+    "digest": "VQSPZPQ2QY3B6DJVJWP6LSTDESZZTSTM",
+    "mimetype": "text/html",
+    "statuscode": "404",
+    "wayback_url": "https://web.archive.org/web/20221006131242/https://www.reddit.com/r/ethereum/%22//b.thumbs.redditmedia.com/aj2E0GeUCkVhSroVZXPlYutbTx_B0i-HYGQD2hzke3Q.jpg%22"
+  },
+  {
+    "original": "https://www.reddit.com/r/ethereum/%22//b.thumbs.redditmedia.com/k67fTfCyLlXOQ2TVfCp5v0g-1XMMnR0BLasMQ0SbD1Q.jpg%22",
+    "timestamp": "20211108194735",
+    "digest": "O7466KMHOS3TEHXZLR6RAQQQ2GW5SLAV",
+    "mimetype": "text/html",
+    "statuscode": "404",
+    "wayback_url": "https://web.archive.org/web/20211108194735/https://www.reddit.com/r/ethereum/%22//b.thumbs.redditmedia.com/k67fTfCyLlXOQ2TVfCp5v0g-1XMMnR0BLasMQ0SbD1Q.jpg%22"
+  },
+  {
+    "original": "https://www.reddit.com/r/ethereum/%22//b.thumbs.redditmedia.com/UzYWbRI3bRcpuGmpWSWffIc7PR-E5TVwp_Y6QUC4UyI.jpg%22",
+    "timestamp": "20190603171817",
+    "digest": "QU64UNDOLXEU74TJEH5IE7FI2XV6YP3R",
+    "mimetype": "text/html",
+    "statuscode": "404",
+    "wayback_url": "https://web.archive.org/web/20190603171817/https://www.reddit.com/r/ethereum/%22//b.thumbs.redditmedia.com/UzYWbRI3bRcpuGmpWSWffIc7PR-E5TVwp_Y6QUC4UyI.jpg%22"
+  },
+  {
+    "original": "https://www.reddit.com/r/ethereum/%22//b.thumbs.redditmedia.com/VD_RqybChWEc9YE6NwmwWBv7havWh4qzQwiYAhuwrSo.jpg%22",
+    "timestamp": "20210725070241",
+    "digest": "Z2UAR4XULNKELGW7XK5EW6MOKBFDFKDP",
+    "mimetype": "text/html",
+    "statuscode": "404",
+    "wayback_url": "https://web.archive.org/web/20210725070241/https://www.reddit.com/r/ethereum/%22//b.thumbs.redditmedia.com/VD_RqybChWEc9YE6NwmwWBv7havWh4qzQwiYAhuwrSo.jpg%22"
+  },
+  {
+    "original": "https://www.reddit.com/r/ethereum/%22/r/ergonauts/comments/ybjr1z/a_better_vision_for_blockchain_gaming_and_the/%22",
+    "timestamp": "20221028060353",
+    "digest": "TCDFXHMD3BAF3VEC24LSCEDJ5SKDDM5M",
+    "mimetype": "text/html",
+    "statuscode": "404",
+    "wayback_url": "https://web.archive.org/web/20221028060353/https://www.reddit.com/r/ethereum/%22/r/ergonauts/comments/ybjr1z/a_better_vision_for_blockchain_gaming_and_the/%22"
+  },
+  {
+    "original": "https://www.reddit.com/r/ethereum/%22//www.redditmedia.com/mediaembed/11nv8ll%22",
+    "timestamp": "20230312042148",
+    "digest": "EBJQSM655UJKZTHWPJPAB6Q4Z4UYW6FT",
+    "mimetype": "text/html",
+    "statuscode": "404",
+    "wayback_url": "https://web.archive.org/web/20230312042148/https://www.reddit.com/r/ethereum/%22//www.redditmedia.com/mediaembed/11nv8ll%22"
+  },
+  {
+    "original": "https://www.reddit.com/r/ethereum/%22//www.redditmedia.com/mediaembed/t991qs%22",
+    "timestamp": "20220309212602",
+    "digest": "6T2CZX7QVGEXQMM6AET5AKGIJN33PSDD",
+    "mimetype": "text/html",
+    "statuscode": "404",
+    "wayback_url": "https://web.archive.org/web/20220309212602/https://www.reddit.com/r/ethereum/%22//www.redditmedia.com/mediaembed/t991qs%22"
+  },
+  {
+    "original": "https://www.reddit.com/r/ethereum/%22//www.redditstatic.com/media-galleries.PCvLxhNnbZs.js%22%3E%3C/script%3E",
+    "timestamp": "20211026013428",
+    "digest": "ZOKZVHUJMEVDUKLQXY3ECUF647JQLDF4",
+    "mimetype": "text/html",
+    "statuscode": "404",
+    "wayback_url": "https://web.archive.org/web/20211026013428/https://www.reddit.com/r/ethereum/%22//www.redditstatic.com/media-galleries.PCvLxhNnbZs.js%22%3E%3C/script%3E"
+  },
+  {
+    "original": "https://www.reddit.com/r/ethereum/%22//www.redditstatic.com/media-galleries.PCvLxhNnbZs.js%22%3E%3C/script%3E",
+    "timestamp": "20220309212558",
+    "digest": "IBW3JTR52LTLX5MEVZACZGZNZM4CKXUS",
+    "mimetype": "text/html",
+    "statuscode": "404",
+    "wayback_url": "https://web.archive.org/web/20220309212558/https://www.reddit.com/r/ethereum/%22//www.redditstatic.com/media-galleries.PCvLxhNnbZs.js%22%3E%3C/script%3E"
+  },
+  {
+    "original": "https://www.reddit.com/r/ethereum/%22//www.redditstatic.com/video-collapse.svg%22%3E'",
+    "timestamp": "20210422154229",
+    "digest": "5FXDEZAYKAEI7VCVC6XTLX4XHRSQMYNQ",
+    "mimetype": "text/html",
+    "statuscode": "404",
+    "wayback_url": "https://web.archive.org/web/20210422154229/https://www.reddit.com/r/ethereum/%22//www.redditstatic.com/video-collapse.svg%22%3E'"
+  },
+  {
+    "original": "https://www.reddit.com/r/ethereum/%22//www.redditstatic.com/video-collapse.svg%22%3E'",
+    "timestamp": "20220309212602",
+    "digest": "2R76KP3YFMNXLWHKUWYCL24FFF4YP4OF",
+    "mimetype": "text/html",
+    "statuscode": "404",
+    "wayback_url": "https://web.archive.org/web/20220309212602/https://www.reddit.com/r/ethereum/%22//www.redditstatic.com/video-collapse.svg%22%3E'"
+  },
+  {
+    "original": "https://www.reddit.com/r/ethereum/%22//www.redditstatic.com/video-expand.svg%22%3E'",
+    "timestamp": "20210422144918",
+    "digest": "XT4JKHEMMQZZQK3QTEP34HNRHSZLL63V",
+    "mimetype": "text/html",
+    "statuscode": "404",
+    "wayback_url": "https://web.archive.org/web/20210422144918/https://www.reddit.com/r/ethereum/%22//www.redditstatic.com/video-expand.svg%22%3E'"
+  },
+  {
+    "original": "https://www.reddit.com/r/ethereum/%22//www.redditstatic.com/video-expand.svg%22%3E'",
+    "timestamp": "20220309212601",
+    "digest": "HW37XWYXGYTVS5PFTRLC7WUMVAHUSKAS",
+    "mimetype": "text/html",
+    "statuscode": "404",
+    "wayback_url": "https://web.archive.org/web/20220309212601/https://www.reddit.com/r/ethereum/%22//www.redditstatic.com/video-expand.svg%22%3E'"
+  },
+  {
+    "original": "https://www.reddit.com/r/ethereum/%22//www.redditstatic.com/video-mute.svg%22%3E'",
+    "timestamp": "20210421051408",
+    "digest": "RTZBBGZMDAZMPC6XYLJBEI5VSPQQDZTO",
+    "mimetype": "text/html",
+    "statuscode": "404",
+    "wayback_url": "https://web.archive.org/web/20210421051408/https://www.reddit.com/r/ethereum/%22//www.redditstatic.com/video-mute.svg%22%3E'"
+  },
+  {
+    "original": "https://www.reddit.com/r/ethereum/%22//www.redditstatic.com/video-mute.svg%22%3E'",
+    "timestamp": "20220309212600",
+    "digest": "LYESMAHFOTN74OJ2KVYEXU3KRU7NLT7F",
+    "mimetype": "text/html",
+    "statuscode": "404",
+    "wayback_url": "https://web.archive.org/web/20220309212600/https://www.reddit.com/r/ethereum/%22//www.redditstatic.com/video-mute.svg%22%3E'"
+  },
+  {
+    "original": "https://www.reddit.com/r/ethereum/%22//www.redditstatic.com/video-refresh.svg%22",
+    "timestamp": "20210422144916",
+    "digest": "Y76PQKIL2NGG7CP37N742HACNWID5CU3",
+    "mimetype": "text/html",
+    "statuscode": "404",
+    "wayback_url": "https://web.archive.org/web/20210422144916/https://www.reddit.com/r/ethereum/%22//www.redditstatic.com/video-refresh.svg%22"
+  },
+  {
+    "original": "https://www.reddit.com/r/ethereum/%22//www.redditstatic.com/video-refresh.svg%22",
+    "timestamp": "20220309212559",
+    "digest": "4YXULJ52T7N3TGSGOWTIKVA3QTG3LZBQ",
+    "mimetype": "text/html",
+    "statuscode": "404",
+    "wayback_url": "https://web.archive.org/web/20220309212559/https://www.reddit.com/r/ethereum/%22//www.redditstatic.com/video-refresh.svg%22"
+  },
+  {
+    "original": "https://www.reddit.com/r/ethereum/%22//www.redditstatic.com/video-settings-open.svg%22%3E'",
+    "timestamp": "20210421231850",
+    "digest": "IEHCC75ARS5QSY7JU7WFMM4XWDRX5XUA",
+    "mimetype": "text/html",
+    "statuscode": "404",
+    "wayback_url": "https://web.archive.org/web/20210421231850/https://www.reddit.com/r/ethereum/%22//www.redditstatic.com/video-settings-open.svg%22%3E'"
+  },
+  {
+    "original": "https://www.reddit.com/r/ethereum/%22//www.redditstatic.com/video-settings-open.svg%22%3E'",
+    "timestamp": "20220309212601",
+    "digest": "OWYO7JWCKVIJZGCPRP35ZKZR6DYR4NAG",
+    "mimetype": "text/html",
+    "statuscode": "404",
+    "wayback_url": "https://web.archive.org/web/20220309212601/https://www.reddit.com/r/ethereum/%22//www.redditstatic.com/video-settings-open.svg%22%3E'"
+  },
+  {
+    "original": "https://www.reddit.com/r/ethereum/%22//www.redditstatic.com/video-settings.svg%22%3E'",
+    "timestamp": "20210421051401",
+    "digest": "GH4NF2MXE34YORSE7PP3KNTEFIDPFDCU",
+    "mimetype": "text/html",
+    "statuscode": "404",
+    "wayback_url": "https://web.archive.org/web/20210421051401/https://www.reddit.com/r/ethereum/%22//www.redditstatic.com/video-settings.svg%22%3E'"
+  },
+  {
+    "original": "https://www.reddit.com/r/ethereum/%22//www.redditstatic.com/video-settings.svg%22%3E'",
+    "timestamp": "20220309212600",
+    "digest": "667AAHXAWJJEM7BESIK4EDTZLIFL4O7X",
+    "mimetype": "text/html",
+    "statuscode": "404",
+    "wayback_url": "https://web.archive.org/web/20220309212600/https://www.reddit.com/r/ethereum/%22//www.redditstatic.com/video-settings.svg%22%3E'"
+  },
+  {
+    "original": "https://www.reddit.com/r/ethereum/%22//www.redditstatic.com/video-snoo.svg%22",
+    "timestamp": "20210422154228",
+    "digest": "YFYY36ZIM426WGQ6R2F7TQSYL5FEINLH",
+    "mimetype": "text/html",
+    "statuscode": "404",
+    "wayback_url": "https://web.archive.org/web/20210422154228/https://www.reddit.com/r/ethereum/%22//www.redditstatic.com/video-snoo.svg%22"
+  },
+  {
+    "original": "https://www.reddit.com/r/ethereum/%22//www.redditstatic.com/video-snoo.svg%22",
+    "timestamp": "20220309212559",
+    "digest": "GDEBJAZMPG6HD6BQXZFEIHILF4S566TT",
+    "mimetype": "text/html",
+    "statuscode": "404",
+    "wayback_url": "https://web.archive.org/web/20220309212559/https://www.reddit.com/r/ethereum/%22//www.redditstatic.com/video-snoo.svg%22"
+  },
+  {
+    "original": "https://www.reddit.com/r/ethereum/%22//www.redditstatic.com/video-volume.svg%22%3E'",
+    "timestamp": "20210422005334",
+    "digest": "J45LFDU7QOXDYXDBD4H7HCO4BE32VGBN",
+    "mimetype": "text/html",
+    "statuscode": "404",
+    "wayback_url": "https://web.archive.org/web/20210422005334/https://www.reddit.com/r/ethereum/%22//www.redditstatic.com/video-volume.svg%22%3E'"
+  },
+  {
+    "original": "https://www.reddit.com/r/ethereum/%22//www.redditstatic.com/video-volume.svg%22%3E'",
+    "timestamp": "20220131173308",
+    "digest": "6JVRMCBDAGHUKC4AMSQSUVFI73LJMCQ3",
+    "mimetype": "text/html",
+    "statuscode": "404",
+    "wayback_url": "https://web.archive.org/web/20220131173308/https://www.reddit.com/r/ethereum/%22//www.redditstatic.com/video-volume.svg%22%3E'"
+  },
+  {
+    "original": "https://www.reddit.com/r/ethereum/%22https://preview.redd.it/3hxjjtju82d71.jpg?width=768&amp;auto=webp&amp;s=df6e38adeadc924b430906a5208fe1f1dbd4e1cb%22",
+    "timestamp": "20210727093911",
+    "digest": "7YAPB7VEVYP5G33TE4HJI3RO3TSFSRKU",
+    "mimetype": "text/html",
+    "statuscode": "404",
+    "wayback_url": "https://web.archive.org/web/20210727093911/https://www.reddit.com/r/ethereum/%22https://preview.redd.it/3hxjjtju82d71.jpg?width=768&amp;auto=webp&amp;s=df6e38adeadc924b430906a5208fe1f1dbd4e1cb%22"
+  },
+  {
+    "original": "https://www.reddit.com/r/ethereum/%22https://preview.redd.it/3iwf90xth0m81.gif?width=108&amp;crop=smart&amp;format=png8&amp;s=392ed5b5d65ff345aac1e9838571f00a7797d297%22",
+    "timestamp": "20220309212557",
+    "digest": "ZK2Q2QTN62XKGOTVW3UJ5CB4YCU7YEXG",
+    "mimetype": "text/html",
+    "statuscode": "404",
+    "wayback_url": "https://web.archive.org/web/20220309212557/https://www.reddit.com/r/ethereum/%22https://preview.redd.it/3iwf90xth0m81.gif?width=108&amp;crop=smart&amp;format=png8&amp;s=392ed5b5d65ff345aac1e9838571f00a7797d297%22"
+  },
+  {
+    "original": "https://www.reddit.com/r/ethereum/%22https://preview.redd.it/5lngg6c7vvu71.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=0df16efcf7605b7695e29ff046d15af38f3f2c9b%22",
+    "timestamp": "20211026092729",
+    "digest": "4I62HKNXAKR2QVL4BYOOB5JSI3OEF7BZ",
+    "mimetype": "text/html",
+    "statuscode": "404",
+    "wayback_url": "https://web.archive.org/web/20211026092729/https://www.reddit.com/r/ethereum/%22https://preview.redd.it/5lngg6c7vvu71.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=0df16efcf7605b7695e29ff046d15af38f3f2c9b%22"
+  },
+  {
+    "original": "https://www.reddit.com/r/ethereum/%22https://preview.redd.it/65u6l8fn9ev81.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=ba97d056599d05f882b44f11d91149fc0694158a%22",
+    "timestamp": "20220424041720",
+    "digest": "BZSMW2EA4V2L4KZUXSEUSS5V5S4FWSQ2",
+    "mimetype": "text/html",
+    "statuscode": "404",
+    "wayback_url": "https://web.archive.org/web/20220424041720/https://www.reddit.com/r/ethereum/%22https://preview.redd.it/65u6l8fn9ev81.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=ba97d056599d05f882b44f11d91149fc0694158a%22"
+  },
+  {
+    "original": "https://www.reddit.com/r/ethereum/%22https://preview.redd.it/ah68ontl11v71.png?width=108&amp;crop=smart&amp;auto=webp&amp;s=17217850b4805932c0b5c22fbb1dddcb673a074b%22",
+    "timestamp": "20211022165730",
+    "digest": "YNNJ7RJLWVLMPH4PUVAN6WD2FP2GLOKA",
+    "mimetype": "image/png",
+    "statuscode": "404",
+    "wayback_url": "https://web.archive.org/web/20211022165730/https://www.reddit.com/r/ethereum/%22https://preview.redd.it/ah68ontl11v71.png?width=108&amp;crop=smart&amp;auto=webp&amp;s=17217850b4805932c0b5c22fbb1dddcb673a074b%22"
+  },
+  {
+    "original": "https://www.reddit.com/r/ethereum/%22https://preview.redd.it/award_images/t5_22cerq/kqr00h8b7q161_BurningCash.png?width=48&amp;height=48&amp;auto=webp&amp;s=786cf9e11fd170c638b5c643b7ded488da4385b1%22",
+    "timestamp": "20220129024840",
+    "digest": "YNNJ7RJLWVLMPH4PUVAN6WD2FP2GLOKA",
+    "mimetype": "image/png",
+    "statuscode": "404",
+    "wayback_url": "https://web.archive.org/web/20220129024840/https://www.reddit.com/r/ethereum/%22https://preview.redd.it/award_images/t5_22cerq/kqr00h8b7q161_BurningCash.png?width=48&amp;height=48&amp;auto=webp&amp;s=786cf9e11fd170c638b5c643b7ded488da4385b1%22"
+  },
+  {
+    "original": "https://www.reddit.com/r/ethereum/%22https://preview.redd.it/award_images/t5_q0gj4/ks45ij6w05f61_oldHugz.png?width=48&amp;height=48&amp;auto=webp&amp;s=ca487311563425e195699a4d7e4c57a98cbfde8b%22",
+    "timestamp": "20211108200555",
+    "digest": "YNNJ7RJLWVLMPH4PUVAN6WD2FP2GLOKA",
+    "mimetype": "image/png",
+    "statuscode": "404",
+    "wayback_url": "https://web.archive.org/web/20211108200555/https://www.reddit.com/r/ethereum/%22https://preview.redd.it/award_images/t5_q0gj4/ks45ij6w05f61_oldHugz.png?width=48&amp;height=48&amp;auto=webp&amp;s=ca487311563425e195699a4d7e4c57a98cbfde8b%22"
+  },
+  {
+    "original": "https://www.reddit.com/r/ethereum/%22https://preview.redd.it/award_images/t5_q0gj4/p4yzxkaed5f61_oldtakemyenergy.png?width=48&amp;height=48&amp;auto=webp&amp;s=b15d030fdfbbe4af4a5b34ab9dc90a174df40a23%22",
+    "timestamp": "20220309212602",
+    "digest": "YNNJ7RJLWVLMPH4PUVAN6WD2FP2GLOKA",
+    "mimetype": "image/png",
+    "statuscode": "404",
+    "wayback_url": "https://web.archive.org/web/20220309212602/https://www.reddit.com/r/ethereum/%22https://preview.redd.it/award_images/t5_q0gj4/p4yzxkaed5f61_oldtakemyenergy.png?width=48&amp;height=48&amp;auto=webp&amp;s=b15d030fdfbbe4af4a5b34ab9dc90a174df40a23%22"
+  },
+  {
+    "original": "https://www.reddit.com/r/ethereum/%22https://preview.redd.it/m21vczdvgw581.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=2b5e75d39e3574fa7b23b09a65edfc47d40afd13%22",
+    "timestamp": "20211217085835",
+    "digest": "6UUD5BUSZG2Y3S5TKCK3B5Z6BOQA3ILM",
+    "mimetype": "text/html",
+    "statuscode": "404",
+    "wayback_url": "https://web.archive.org/web/20211217085835/https://www.reddit.com/r/ethereum/%22https://preview.redd.it/m21vczdvgw581.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=2b5e75d39e3574fa7b23b09a65edfc47d40afd13%22"
+  },
+  {
+    "original": "https://www.reddit.com/r/ethereum/%22https://preview.redd.it/mhsrc0xth0m81.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=3536d441002c999cec6ea9369fb22bb7f13e0a37%22",
+    "timestamp": "20220309212557",
+    "digest": "ZHMNDBHWPCN26XKBJBHRR7CX42INNUC5",
+    "mimetype": "text/html",
+    "statuscode": "404",
+    "wayback_url": "https://web.archive.org/web/20220309212557/https://www.reddit.com/r/ethereum/%22https://preview.redd.it/mhsrc0xth0m81.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=3536d441002c999cec6ea9369fb22bb7f13e0a37%22"
+  },
+  {
+    "original": "https://www.reddit.com/r/ethereum/%22https://preview.redd.it/p6ak0zdvgw581.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=13a5e91599e6b22f312bf7c1d122b425d1b6f27c%22",
+    "timestamp": "20211217085825",
+    "digest": "IWOKL3A446FXP3NZ4B7KHTXMP2ZOPYXV",
+    "mimetype": "text/html",
+    "statuscode": "404",
+    "wayback_url": "https://web.archive.org/web/20211217085825/https://www.reddit.com/r/ethereum/%22https://preview.redd.it/p6ak0zdvgw581.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=13a5e91599e6b22f312bf7c1d122b425d1b6f27c%22"
+  },
+  {
+    "original": "https://www.reddit.com/r/ethereum/%22https://preview.redd.it/vcisj8fn9ev81.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=8df147df345f95e85214b614b0e84066076f0eab%22",
+    "timestamp": "20220424041724",
+    "digest": "6GPA2AH4BPPZPJRQUEWJ6S3SPRHS7KLL",
+    "mimetype": "text/html",
+    "statuscode": "404",
+    "wayback_url": "https://web.archive.org/web/20220424041724/https://www.reddit.com/r/ethereum/%22https://preview.redd.it/vcisj8fn9ev81.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=8df147df345f95e85214b614b0e84066076f0eab%22"
+  },
+  {
+    "original": "https://www.reddit.com/r/ethereum/%22https://preview.redd.it/yhp0uydvgw581.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=408634092bab726c93293e6384e5e6865ea7e3c3%22",
+    "timestamp": "20211217085810",
+    "digest": "STI7JPOCDMY55KSPC4Y7HZEK2VAXMQGV",
+    "mimetype": "text/html",
+    "statuscode": "404",
+    "wayback_url": "https://web.archive.org/web/20211217085810/https://www.reddit.com/r/ethereum/%22https://preview.redd.it/yhp0uydvgw581.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=408634092bab726c93293e6384e5e6865ea7e3c3%22"
+  },
+  {
+    "original": "https://www.reddit.com/r/ethereum/%22https://www.reddit.com/r/ergonauts/%22",
+    "timestamp": "20221028071418",
+    "digest": "Y2WCZDF4J6VX3IRSW7DFWKSD432GUUGX",
+    "mimetype": "text/html",
+    "statuscode": "404",
+    "wayback_url": "https://web.archive.org/web/20221028071418/https://www.reddit.com/r/ethereum/%22https://www.reddit.com/r/ergonauts/%22"
+  },
+  {
+    "original": "https://www.reddit.com/r/ethereum/%22https://www.redditstatic.com/gold/awards/icon/silver_48.png%22",
+    "timestamp": "20211108194734",
+    "digest": "TGEDIOT5LCY44K4KBHX4FDJAGVCPPRPE",
+    "mimetype": "text/html",
+    "statuscode": "404",
+    "wayback_url": "https://web.archive.org/web/20211108194734/https://www.reddit.com/r/ethereum/%22https://www.redditstatic.com/gold/awards/icon/silver_48.png%22"
+  },
+  {
+    "original": "https://www.reddit.com/r/ethereum/%22https://www.redditstatic.com/gold/awards/icon/silver_48.png%22",
+    "timestamp": "20220527090212",
+    "digest": "HZKE3MJFOADZD3K76WZEIAQ63CBNBHLW",
+    "mimetype": "text/html",
+    "statuscode": "404",
+    "wayback_url": "https://web.archive.org/web/20220527090212/https://www.reddit.com/r/ethereum/%22https://www.redditstatic.com/gold/awards/icon/silver_48.png%22"
+  },
+  {
+    "original": "http://www.reddit.com/r/ethereum/%C2%A0(accessed%C2%A0on%C2%A010%C2%A0January%C2%A02019",
+    "timestamp": "20240717132249",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "unk",
+    "statuscode": "301",
+    "wayback_url": "https://web.archive.org/web/20240717132249/http://www.reddit.com/r/ethereum/%C2%A0(accessed%C2%A0on%C2%A010%C2%A0January%C2%A02019"
+  },
+  {
+    "original": "https://www.reddit.com/r/ethereum/(less",
+    "timestamp": "20250114214236",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "unk",
+    "statuscode": "301",
+    "wayback_url": "https://web.archive.org/web/20250114214236/https://www.reddit.com/r/ethereum/(less"
+  },
+  {
+    "original": "https://www.reddit.com/r/ethereum/--color-neutral-border-weak",
+    "timestamp": "20240905161610",
+    "digest": "SDV4QUFCBAPH7OJBB6UBW44HB2T6K57A",
+    "mimetype": "warc/revisit",
+    "statuscode": "-",
+    "wayback_url": "https://web.archive.org/web/20240905161610/https://www.reddit.com/r/ethereum/--color-neutral-border-weak"
+  },
+  {
+    "original": "https://www.reddit.com/r/ethereum//.embed",
+    "timestamp": "20221023145807",
+    "digest": "VWRJEUVYW24ZBVP5TV5FD7W452YMS65C",
+    "mimetype": "text/javascript",
+    "statuscode": "200",
+    "wayback_url": "https://web.archive.org/web/20221023145807/https://www.reddit.com/r/ethereum//.embed"
+  },
+  {
+    "original": "https://www.reddit.com/r/ethereum/.embed?_style=off",
+    "timestamp": "20211101133835",
+    "digest": "KLAP4X76UBFPPGYPHSS5UTQHCCE5FMKL",
+    "mimetype": "text/javascript",
+    "statuscode": "200",
+    "wayback_url": "https://web.archive.org/web/20211101133835/https://www.reddit.com/r/ethereum/.embed?_style=off"
+  },
+  {
+    "original": "https://www.reddit.com/r/ethereum/.embed?_style=off",
+    "timestamp": "20220413014022",
+    "digest": "6ET4E3LS2SLPPDMAYT4OY7BLORGA6THD",
+    "mimetype": "text/javascript",
+    "statuscode": "200",
+    "wayback_url": "https://web.archive.org/web/20220413014022/https://www.reddit.com/r/ethereum/.embed?_style=off"
+  },
+  {
+    "original": "http://www.reddit.com:80/r/ethereum/.embed?limit=10&t=all",
+    "timestamp": "20171107032131",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "text/plain",
+    "statuscode": "301",
+    "wayback_url": "https://web.archive.org/web/20171107032131/http://www.reddit.com:80/r/ethereum/.embed?limit=10&t=all"
+  },
+  {
+    "original": "http://www.reddit.com/r/ethereum/.embed?limit=20&t=all",
+    "timestamp": "20160516041239",
+    "digest": "WGQSG7YOLMWOYTNT6MHQKHSTIU2YQFEY",
+    "mimetype": "text/javascript",
+    "statuscode": "200",
+    "wayback_url": "https://web.archive.org/web/20160516041239/http://www.reddit.com/r/ethereum/.embed?limit=20&t=all"
+  },
+  {
+    "original": "https://www.reddit.com/r/ethereum/.embed?limit=20&t=all",
+    "timestamp": "20170613134103",
+    "digest": "MBJFIE3WEKH3A3XSDSCJFCXMCG5FCGAM",
+    "mimetype": "text/javascript",
+    "statuscode": "200",
+    "wayback_url": "https://web.archive.org/web/20170613134103/https://www.reddit.com/r/ethereum/.embed?limit=20&t=all"
+  },
+  {
+    "original": "https://www.reddit.com/r/ethereum/.embed?limit=20&t=all",
+    "timestamp": "20180807125237",
+    "digest": "44B2UMTO4X47Y3237E6MAE75YIRMB45M",
+    "mimetype": "text/javascript",
+    "statuscode": "200",
+    "wayback_url": "https://web.archive.org/web/20180807125237/https://www.reddit.com/r/ethereum/.embed?limit=20&t=all"
+  },
+  {
+    "original": "https://www.reddit.com/r/ethereum/.embed?limit=20&t=all",
+    "timestamp": "20190128021900",
+    "digest": "2SWIZR7WHCF5VSXG6KXU7F7CEF37DLW5",
+    "mimetype": "text/javascript",
+    "statuscode": "200",
+    "wayback_url": "https://web.archive.org/web/20190128021900/https://www.reddit.com/r/ethereum/.embed?limit=20&t=all"
+  },
+  {
+    "original": "http://www.reddit.com/r/ethereum/.embed?limit=5",
+    "timestamp": "20141203034203",
+    "digest": "ZDVK2AK5J26ZUKLI2M3JRVQ25FJR4TCZ",
+    "mimetype": "text/javascript",
+    "statuscode": "200",
+    "wayback_url": "https://web.archive.org/web/20141203034203/http://www.reddit.com/r/ethereum/.embed?limit=5"
+  },
+  {
+    "original": "https://www.reddit.com/r/ethereum/.embed?limit=5",
+    "timestamp": "20170601095119",
+    "digest": "JEDXIBSQHIJKDPEMAXNTSEFKRGWI6RBO",
+    "mimetype": "text/javascript",
+    "statuscode": "200",
+    "wayback_url": "https://web.archive.org/web/20170601095119/https://www.reddit.com/r/ethereum/.embed?limit=5"
+  },
+  {
+    "original": "https://www.reddit.com/r/ethereum/.embed?limit=5",
+    "timestamp": "20220108063405",
+    "digest": "MC6LLUHBCFXPTURJTOMMR3Q3H5TYERBA",
+    "mimetype": "text/javascript",
+    "statuscode": "200",
+    "wayback_url": "https://web.archive.org/web/20220108063405/https://www.reddit.com/r/ethereum/.embed?limit=5"
+  },
+  {
+    "original": "https://www.reddit.com/r/ethereum/.embed?limit=5&t=all",
+    "timestamp": "20190408035428",
+    "digest": "G4UCWQMMV3GEYVUICVJ3UQQXM2H7ZZTM",
+    "mimetype": "text/javascript",
+    "statuscode": "200",
+    "wayback_url": "https://web.archive.org/web/20190408035428/https://www.reddit.com/r/ethereum/.embed?limit=5&t=all"
+  },
+  {
+    "original": "https://www.reddit.com/r/ethereum//.embed?limit=50&t=all",
+    "timestamp": "20201227025219",
+    "digest": "JCEBFISWRUWZ2EJ3U5DDSMTJOBLES7XJ",
+    "mimetype": "text/javascript",
+    "statuscode": "200",
+    "wayback_url": "https://web.archive.org/web/20201227025219/https://www.reddit.com/r/ethereum//.embed?limit=50&t=all"
+  },
+  {
+    "original": "https://www.reddit.com/r/ethereum//.embed?limit=50&t=all",
+    "timestamp": "20221023145810",
+    "digest": "MLOJBSV6YEJWXFLFYIZCAIK54QMHLTAC",
+    "mimetype": "text/javascript",
+    "statuscode": "200",
+    "wayback_url": "https://web.archive.org/web/20221023145810/https://www.reddit.com/r/ethereum//.embed?limit=50&t=all"
+  },
+  {
+    "original": "https://www.reddit.com/r/ethereum//.embed?limit=50&t=all",
+    "timestamp": "20240710070309",
+    "digest": "NTOOOPDZUI2IPJTTIGVNSYGX6W2SLLBD",
+    "mimetype": "text/javascript",
+    "statuscode": "200",
+    "wayback_url": "https://web.archive.org/web/20240710070309/https://www.reddit.com/r/ethereum//.embed?limit=50&t=all"
+  },
+  {
+    "original": "https://www.reddit.com/r/ethereum/.json",
+    "timestamp": "20200913234606",
+    "digest": "3AAJZH7DZVL6O6ZLTCAUYYYWK2QS5ZJC",
+    "mimetype": "application/json",
+    "statuscode": "200",
+    "wayback_url": "https://web.archive.org/web/20200913234606/https://www.reddit.com/r/ethereum/.json"
+  },
+  {
+    "original": "https://www.reddit.com/r/ethereum/.json",
+    "timestamp": "20230106205607",
+    "digest": "LAEETHRSJBF4WAJXMDDAEL7MKGE777JH",
+    "mimetype": "application/json",
+    "statuscode": "200",
+    "wayback_url": "https://web.archive.org/web/20230106205607/https://www.reddit.com/r/ethereum/.json"
+  },
+  {
+    "original": "http://www.reddit.com/r/ethereum/.rss",
+    "timestamp": "20140824204116",
+    "digest": "UUOQLMPRVOTYCMVMW327LHDREA2A62QH",
+    "mimetype": "text/xml",
+    "statuscode": "200",
+    "wayback_url": "https://web.archive.org/web/20140824204116/http://www.reddit.com/r/ethereum/.rss"
+  },
+  {
+    "original": "https://www.reddit.com/r/ethereum/.rss",
+    "timestamp": "20150824131202",
+    "digest": "MFJWUXZLWZYGV5JICGWKYYOYZ75WPMPF",
+    "mimetype": "text/xml",
+    "statuscode": "200",
+    "wayback_url": "https://web.archive.org/web/20150824131202/https://www.reddit.com/r/ethereum/.rss"
+  },
+  {
+    "original": "http://www.reddit.com/r/ethereum/.rss",
+    "timestamp": "20160106075334",
+    "digest": "E5FWYV3RDB7Z323LCLPMKVXRXJATM6ZC",
+    "mimetype": "text/xml",
+    "statuscode": "200",
+    "wayback_url": "https://web.archive.org/web/20160106075334/http://www.reddit.com/r/ethereum/.rss"
+  },
+  {
+    "original": "https://www.reddit.com/r/ethereum/.rss",
+    "timestamp": "20170407122244",
+    "digest": "4CW77QY4IYMDJVYOMP7FCXZJP3MQIHPZ",
+    "mimetype": "application/atom+xml",
+    "statuscode": "200",
+    "wayback_url": "https://web.archive.org/web/20170407122244/https://www.reddit.com/r/ethereum/.rss"
+  }
+]

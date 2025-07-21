@@ -1,0 +1,1889 @@
+{
+  "pending": {
+    "63252bff74dd0d6292b529187f400262": {
+      "url": "https://ethereum.org/en/developers/tutorials/waffle-dynamic-mocking-and-testing-calls/",
+      "depth": 3,
+      "added": 1753044338.6691875
+    },
+    "0db701be4c1465d4a464ac8fa8631836": {
+      "url": "https://ethereum.org/en/developers/tutorials/waffle-say-hello-world-with-hardhat-and-ethers/",
+      "depth": 3,
+      "added": 1753044338.6691942
+    },
+    "1d240c72cd365a896177d9cda059356a": {
+      "url": "https://ethereum.org/content/staking/dvt/dvt-cluster.png",
+      "depth": 3,
+      "added": 1753044349.5957744
+    },
+    "f436e6ac32df36c0e7d3eedfbed23cea": {
+      "url": "https://ethereum.org/get-eth/",
+      "depth": 3,
+      "added": 1753044359.9835856
+    }
+  },
+  "visited": {
+    "fe17874d83c0293bb42230543edbbf10": {
+      "url": "https://ethereum.org/en/",
+      "visited": 1753043733.2320385
+    },
+    "5779b8d810b25dd940460ec8d78bd64a": {
+      "url": "https://ethereum.org/en/10years/",
+      "visited": 1753043735.799568
+    },
+    "8bd90f50a86e4a63c9c9d095dbf3d90b": {
+      "url": "https://ethereum.org/en/wallets/find-wallet/",
+      "visited": 1753043738.6039813
+    },
+    "a8cf368f5afc036f83c8e1f22cd69d9f": {
+      "url": "https://ethereum.org/en/get-eth/",
+      "visited": 1753043741.3388772
+    },
+    "eaad828cb8d9a927ee0b8490001a9dad": {
+      "url": "https://ethereum.org/en/dapps/",
+      "visited": 1753043743.8147535
+    },
+    "0755711dcfcfabb8289c002463bdf70e": {
+      "url": "https://ethereum.org/en/developers/",
+      "visited": 1753043746.5836866
+    },
+    "cfa93a216c24c233f2b625b0eaaebd58": {
+      "url": "https://ethereum.org/en/stablecoins/",
+      "visited": 1753043749.297528
+    },
+    "14ad0d0eb5f6ccd8f1152c7ccb6e55ea": {
+      "url": "https://ethereum.org/en/defi/",
+      "visited": 1753043752.0593584
+    },
+    "d5f6a3db5a53f63c90a40c62493a5427": {
+      "url": "https://ethereum.org/en/layer-2/",
+      "visited": 1753043754.5713406
+    },
+    "c8beed544b4e421bfd2a8583df8670c9": {
+      "url": "https://ethereum.org/en/nft/",
+      "visited": 1753043757.070592
+    },
+    "e917a1fafbfd769ad89d8b4b4b1a524e": {
+      "url": "https://ethereum.org/en/enterprise/",
+      "visited": 1753043759.5476897
+    },
+    "091bffde72d4c569405d16571494fd53": {
+      "url": "https://ethereum.org/en/resources/",
+      "visited": 1753043764.5127282
+    },
+    "6de11160987736a5f3d5c029fde76ad6": {
+      "url": "https://ethereum.org/en/what-is-ethereum/",
+      "visited": 1753043767.3748393
+    },
+    "64cf99356b14f0c7654ba647556c79ad": {
+      "url": "https://ethereum.org/en/wallets/",
+      "visited": 1753043770.1583858
+    },
+    "262495828a6409b4d4f07cfcca4c39fa": {
+      "url": "https://ethereum.org/en/guides/",
+      "visited": 1753043772.8636208
+    },
+    "63723ce47023afb4817f7dfbc5b9d95f": {
+      "url": "https://ethereum.org/en/whitepaper/",
+      "visited": 1753043775.2883456
+    },
+    "a9236ed36a85fb924105e9c0be7ff21b": {
+      "url": "https://ethereum.org/en/roadmap/",
+      "visited": 1753043777.8430152
+    },
+    "f64f6e1b4fe641b88577819bbd9e5b11": {
+      "url": "https://ethereum.org/en/learn/",
+      "visited": 1753043780.4484665
+    },
+    "e243be45adc37ed9f49ea5dded8a12eb": {
+      "url": "https://ethereum.org/en/developers/docs/",
+      "visited": 1753043783.1638498
+    },
+    "95d960eacdbd1045d8bcb75c8c57768c": {
+      "url": "https://ethereum.org/en/community/",
+      "visited": 1753043785.691385
+    },
+    "f02e5d3bd97480845a5e9a5e11d002ae": {
+      "url": "https://ethereum.org/discord/",
+      "visited": 1753043788.5278068
+    },
+    "c7ebac1b31dd83269fd6d18b9b597b11": {
+      "url": "https://ethereum.org/en/community/events/",
+      "visited": 1753043791.287687
+    },
+    "07af4ed2b4a051e024344a318b8c4690": {
+      "url": "https://ethereum.org/en/contributing/",
+      "visited": 1753043793.8809335
+    },
+    "41c29fd94549527d852cf38032906541": {
+      "url": "https://ethereum.org/en/eth/",
+      "visited": 1753043796.5256028
+    },
+    "3ea0ee0ed956f82cf99eef490cf06042": {
+      "url": "https://ethereum.org/en/web3/",
+      "visited": 1753043799.2311184
+    },
+    "d3da2433dc1cdc4c86d292efd19f851c": {
+      "url": "https://ethereum.org/en/smart-contracts/",
+      "visited": 1753043801.7883694
+    },
+    "d27f3ebdd538cd0e4b89bbfe0d4922c3": {
+      "url": "https://ethereum.org/en/gas/",
+      "visited": 1753043804.3007848
+    },
+    "312e6f2053f21a34cfd8ff3695ec25e4": {
+      "url": "https://ethereum.org/en/run-a-node/",
+      "visited": 1753043807.0914283
+    },
+    "1407a15a06aa2663514816f0f8856219": {
+      "url": "https://ethereum.org/en/security/",
+      "visited": 1753043809.8495395
+    },
+    "71b82d2b9eaae2019d14c02b4a6f16c8": {
+      "url": "https://ethereum.org/en/quizzes/",
+      "visited": 1753043812.360686
+    },
+    "54bd8c0e51e95644adb51bd215e65953": {
+      "url": "https://ethereum.org/en/glossary/",
+      "visited": 1753043815.0176592
+    },
+    "ff828aa25c2551db4a45f744987d7303": {
+      "url": "https://ethereum.org/en/dao/",
+      "visited": 1753043817.6816685
+    },
+    "cb67bc2beb3a93dbd3cc694fe7e35365": {
+      "url": "https://ethereum.org/en/decentralized-identity/",
+      "visited": 1753043820.2413342
+    },
+    "b40a5ecc9d3b70eecfa2ce67b92d1ddc": {
+      "url": "https://ethereum.org/en/staking/",
+      "visited": 1753043822.77326
+    },
+    "bbaf3068a8adcecfc34791ebb2f51825": {
+      "url": "https://ethereum.org/en/developers/tutorials/",
+      "visited": 1753043825.5582852
+    },
+    "b6d7404bf42322d0332ef770508ef361": {
+      "url": "https://ethereum.org/en/developers/learning-tools/",
+      "visited": 1753043829.1377041
+    },
+    "40380ec40dec8fe3432df4b51a4e22aa": {
+      "url": "https://ethereum.org/en/developers/local-environment/",
+      "visited": 1753043831.8272605
+    },
+    "aca40fed80417d7e2cec8c98821df46e": {
+      "url": "https://ethereum.org/en/community/grants/",
+      "visited": 1753043834.381241
+    },
+    "128ace8f37c1fc007068f45942e42140": {
+      "url": "https://ethereum.org/en/developers/docs/intro-to-ethereum/",
+      "visited": 1753043836.869551
+    },
+    "f7be20feb7fefd2fcd2b5eab32923736": {
+      "url": "https://ethereum.org/en/developers/docs/design-and-ux/",
+      "visited": 1753043839.4198081
+    },
+    "1ae4b97730e98e426bcc7dadd7cfcaa4": {
+      "url": "https://ethereum.org/en/community/online/",
+      "visited": 1753043842.0381904
+    },
+    "41825ee3729345637a2357918476fede": {
+      "url": "https://ethereum.org/en/contributing/translation-program/",
+      "visited": 1753043844.5597494
+    },
+    "b25c8e441f542675edfedaa7403995f0": {
+      "url": "https://ethereum.org/en/bug-bounty/",
+      "visited": 1753043847.0986283
+    },
+    "cc9b645564c7334db5e7084c62681c87": {
+      "url": "https://ethereum.org/en/foundation/",
+      "visited": 1753043850.171141
+    },
+    "a459e293832793c8e8ca3f9b9c28e351": {
+      "url": "https://ethereum.org/en/roadmap/security/",
+      "visited": 1753043852.7152255
+    },
+    "e129d584d9ffcf3dcee7745c91eddf67": {
+      "url": "https://ethereum.org/en/history/",
+      "visited": 1753043855.267463
+    },
+    "2305c6c0402720692ba3c28788020a1f": {
+      "url": "https://ethereum.org/en/community/research/",
+      "visited": 1753043857.905849
+    },
+    "5282585f311c54277565f1d7b912cf0d": {
+      "url": "https://ethereum.org/en/eips/",
+      "visited": 1753043860.578772
+    },
+    "460e7379911b901e1d6b991bfe9269f6": {
+      "url": "https://ethereum.org/en/governance/",
+      "visited": 1753043863.1074743
+    },
+    "a10f4d002008fc793a945679ec707714": {
+      "url": "https://ethereum.org/en/trillion-dollar-security/",
+      "visited": 1753043865.5903947
+    },
+    "2fa0fe8b29bc9014687fead79bd4b123": {
+      "url": "https://ethereum.org/en/about/",
+      "visited": 1753043868.30453
+    },
+    "a0f4ee08e2829f99e2ae96e956ca5d78": {
+      "url": "https://ethereum.org/en/assets/",
+      "visited": 1753043870.8290892
+    },
+    "321ca1fbfaefb6f4c55bc2f40b83001f": {
+      "url": "https://ethereum.org/en/community/code-of-conduct/",
+      "visited": 1753043873.580965
+    },
+    "e682d79dfbf77d7ca2cd57898e571250": {
+      "url": "https://ethereum.org/en/privacy-policy/",
+      "visited": 1753043876.1132176
+    },
+    "ada8384a6be435ba650fcde91062cdd1": {
+      "url": "https://ethereum.org/en/terms-of-use/",
+      "visited": 1753043878.683196
+    },
+    "3e905166ef929c609f88d5c0733cc634": {
+      "url": "https://ethereum.org/en/cookie-policy/",
+      "visited": 1753043881.2862372
+    },
+    "da7df50652909a9a397570b70b5fd2fc": {
+      "url": "https://ethereum.org/en/energy-consumption/",
+      "visited": 1753043883.8458858
+    },
+    "70bf7c9c7c5eb19cc66fb93902e5c3b7": {
+      "url": "https://ethereum.org/en/wrapped-eth/",
+      "visited": 1753043886.4535818
+    },
+    "9b0212eb4896f998473c9f592dfa3c90": {
+      "url": "https://ethereum.org/en/developers/docs/dapps/",
+      "visited": 1753043888.9960365
+    },
+    "0b406dfd4c03cbdd734d13b8d60c5c85": {
+      "url": "https://ethereum.org/en/developers/docs/smart-contracts/",
+      "visited": 1753043891.6492305
+    },
+    "6b6cc3978f6a602639a366b72132bd23": {
+      "url": "https://ethereum.org/en/developers/docs/intro-to-ether/",
+      "visited": 1753043894.2418098
+    },
+    "e5f0dfd8ede7e675e9d44ece1caee753": {
+      "url": "https://ethereum.org/en/developers/docs/ethereum-stack/",
+      "visited": 1753043896.87173
+    },
+    "0c4e05f11dce186dcbf5660493d915b1": {
+      "url": "https://ethereum.org/en/developers/docs/web2-vs-web3/",
+      "visited": 1753043899.5445905
+    },
+    "e8acfade6622dffe1ec87b2f5643e3ea": {
+      "url": "https://ethereum.org/en/developers/docs/programming-languages/",
+      "visited": 1753043902.0769966
+    },
+    "87725c423157fe170f45e521a596a480": {
+      "url": "https://ethereum.org/en/developers/docs/accounts/",
+      "visited": 1753043904.7071586
+    },
+    "794ee1c270bafac0cfc4e6f6ffb98c84": {
+      "url": "https://ethereum.org/en/developers/docs/transactions/",
+      "visited": 1753043907.290942
+    },
+    "4d3339d70097cce81f85a36053385b80": {
+      "url": "https://ethereum.org/en/developers/docs/blocks/",
+      "visited": 1753043909.936943
+    },
+    "ab839cdd7b5c352b206902b7f975c3ec": {
+      "url": "https://ethereum.org/en/developers/docs/evm/",
+      "visited": 1753043912.5327046
+    },
+    "3ff219a5eb52310e0a2c9433c9d7e4f4": {
+      "url": "https://ethereum.org/en/developers/docs/gas/",
+      "visited": 1753043915.1058042
+    },
+    "4b85a1e899af4f59c93fc3358390441b": {
+      "url": "https://ethereum.org/en/developers/docs/nodes-and-clients/",
+      "visited": 1753043917.6287632
+    },
+    "309e3d22231803877207e981d7273a61": {
+      "url": "https://ethereum.org/en/developers/docs/networks/",
+      "visited": 1753043920.1871119
+    },
+    "f45f4cd3d0b3838f84ec5f85b4cef296": {
+      "url": "https://ethereum.org/en/developers/docs/frameworks/",
+      "visited": 1753043922.8655667
+    },
+    "9ef3af485f2b60b2aad2b104bbd1e590": {
+      "url": "https://ethereum.org/en/developers/docs/apis/javascript/",
+      "visited": 1753043925.3830917
+    },
+    "1dc526fedd33dfd2270c3cc4a09dfb7c": {
+      "url": "https://ethereum.org/en/developers/docs/apis/backend/",
+      "visited": 1753043928.0536
+    },
+    "9e784b9464264baff3512d95534fbcd4": {
+      "url": "https://ethereum.org/en/developers/docs/data-and-analytics/block-explorers/",
+      "visited": 1753043930.6513286
+    },
+    "c172cd7b8b851878df38b27bd6eb5815": {
+      "url": "https://ethereum.org/en/developers/docs/smart-contracts/security/",
+      "visited": 1753043933.2926118
+    },
+    "51ebb2f4f35a54d94c979ceefb59327c": {
+      "url": "https://ethereum.org/en/developers/docs/storage/",
+      "visited": 1753043936.061243
+    },
+    "b75758375d2fcb6ad5be21abec1ae8e7": {
+      "url": "https://ethereum.org/en/developers/docs/ides/",
+      "visited": 1753043938.652408
+    },
+    "e05c9c53bdb850acc7298d4b063765c6": {
+      "url": "https://ethereum.org/en/dapps/?category=finance",
+      "visited": 1753043941.2044477
+    },
+    "9a404d877f889606b733990dedcaff99": {
+      "url": "https://ethereum.org/en/layer-2/networks/",
+      "visited": 1753043943.9788315
+    },
+    "b1f6313e26b801ebc99d542ebee93ebe": {
+      "url": "https://ethereum.org/en/layer-2/learn/",
+      "visited": 1753043946.8509705
+    },
+    "97260c2a9a3300c59b7b71b14991956f": {
+      "url": "https://ethereum.org/en/dapps/?category=collectibles",
+      "visited": 1753043949.626136
+    },
+    "3fe0077eb1fd5c7f15e682bd3fece516": {
+      "url": "https://ethereum.org/content/nft/poap.png",
+      "visited": 1753043952.8530936
+    },
+    "bec57aa2732db5b48dceb49d2f1ad344": {
+      "url": "https://ethereum.org/en/developers/docs/standards/tokens/erc-721/",
+      "visited": 1753043955.6031828
+    },
+    "4582ecf9a1ed83d4dafae4901e4584e4": {
+      "url": "https://ethereum.org/en/developers/docs/standards/tokens/erc-1155/",
+      "visited": 1753043958.3232965
+    },
+    "3f680485eee96655b90970c391f937b4": {
+      "url": "https://ethereum.org/en/enterprise/use-cases/",
+      "visited": 1753043960.8965704
+    },
+    "dc3825922a358805d42df22d26084199": {
+      "url": "https://ethereum.org/en/roadmap/merge/",
+      "visited": 1753043963.4810624
+    },
+    "143fc56f87c3c5782722731beed8416a": {
+      "url": "https://ethereum.org/en/guides/how-to-create-an-ethereum-account/",
+      "visited": 1753043966.1248884
+    },
+    "ef33169d3c2bff4d8bca16cd827753cb": {
+      "url": "https://ethereum.org/en/guides/how-to-use-a-wallet/",
+      "visited": 1753043968.7098298
+    },
+    "8ff33ac99264d2ab3d0a0ef7b8c8d7a8": {
+      "url": "https://ethereum.org/en/guides/how-to-revoke-token-access/",
+      "visited": 1753043971.2423303
+    },
+    "b7a3b46145f1231c0fc9916c56f5dcb9": {
+      "url": "https://ethereum.org/en/guides/how-to-id-scam-tokens/",
+      "visited": 1753043973.721839
+    },
+    "92d45e5d7f18a5b37875c97370049b44": {
+      "url": "https://ethereum.org/en/guides/how-to-use-a-bridge/",
+      "visited": 1753043976.2681277
+    },
+    "ec346b5f01b0ffdc8e17fedc43ea0a0a": {
+      "url": "https://ethereum.org/en/guides/how-to-swap-tokens/",
+      "visited": 1753043978.8013675
+    },
+    "12f2d53fc034cde42890eab26975808f": {
+      "url": "https://ethereum.org/content/whitepaper/whitepaper-pdf/Ethereum_Whitepaper_-_Buterin_2014.pdf",
+      "visited": 1753043981.3629587
+    },
+    "300b039368357e4ea78acecf05657c4f": {
+      "url": "https://ethereum.org/content/whitepaper/ethereum-state-transition.png",
+      "visited": 1753043984.5304153
+    },
+    "2f28ff4f2b1736948d91b529af9d1dc8": {
+      "url": "https://ethereum.org/content/whitepaper/ethereum-blocks.png",
+      "visited": 1753043986.9520578
+    },
+    "5f7596e1041179eb80467536c7193b2c": {
+      "url": "https://ethereum.org/content/whitepaper/spv-bitcoin.png",
+      "visited": 1753043989.3799539
+    },
+    "3490a41fe04dc4c96bcc0f073dea0901": {
+      "url": "https://ethereum.org/content/whitepaper/ether-state-transition.png",
+      "visited": 1753043991.7667334
+    },
+    "cad2040ee5d5095d1330385cf73333af": {
+      "url": "https://ethereum.org/content/whitepaper/ethereum-apply-block-diagram.png",
+      "visited": 1753043994.2884688
+    },
+    "5b80f3409ba491a04775b267c39f6df6": {
+      "url": "https://ethereum.org/content/whitepaper/ethereum-inflation.png",
+      "visited": 1753043996.7442553
+    },
+    "d5d56222b1484a02a6dcdd8355d2cc79": {
+      "url": "https://ethereum.org/en/upgrades/merge/",
+      "visited": 1753043999.104808
+    },
+    "5ce00702819c0a259d86dab599862e99": {
+      "url": "https://ethereum.org/en/staking/withdrawals/",
+      "visited": 1753044001.7222402
+    },
+    "81054e80c9094aaedc5cddd5be1d5afd": {
+      "url": "https://ethereum.org/en/roadmap/dencun/",
+      "visited": 1753044004.2470744
+    },
+    "6b1cded00c21d05675bafe5f866a4e68": {
+      "url": "https://ethereum.org/en/roadmap/pectra/",
+      "visited": 1753044006.7228565
+    },
+    "84ea18b6b0ed5e9ccbb198063ab8b9d3": {
+      "url": "https://ethereum.org/en/roadmap/scaling/",
+      "visited": 1753044009.313029
+    },
+    "07dc786c29fdb050c241f61559a3d2ef": {
+      "url": "https://ethereum.org/en/roadmap/user-experience/",
+      "visited": 1753044011.9272318
+    },
+    "5e5d7f76fdd15891b2943da2f5ff4c0d": {
+      "url": "https://ethereum.org/en/roadmap/future-proofing/",
+      "visited": 1753044014.4619234
+    },
+    "cdd649ffd5ff8477cb97395114f0cf1b": {
+      "url": "https://ethereum.org/en/roadmap/danksharding/",
+      "visited": 1753044017.02452
+    },
+    "85d5c8beaa6fa3b4a4384cd8df36d664": {
+      "url": "https://ethereum.org/en/roadmap/single-slot-finality/",
+      "visited": 1753044019.4897776
+    },
+    "2373d37ec33c801d135377d362cbb4af": {
+      "url": "https://ethereum.org/en/roadmap/account-abstraction/",
+      "visited": 1753044021.9618182
+    },
+    "b4d0e1c676759e7fb50264bd04646c12": {
+      "url": "https://ethereum.org/en/roadmap/statelessness/",
+      "visited": 1753044024.5084364
+    },
+    "f10117502a8bb154b404a84086fbf069": {
+      "url": "https://ethereum.org/en/social-networks/",
+      "visited": 1753044027.0698202
+    },
+    "f2f0ad359054289d2b04f5250448c6e4": {
+      "url": "https://ethereum.org/en/desci/",
+      "visited": 1753044029.5670347
+    },
+    "4e15b77ba2f87fc5d038b6231043832b": {
+      "url": "https://ethereum.org/en/developers/docs/consensus-mechanisms/",
+      "visited": 1753044032.1774158
+    },
+    "acb4aa63ac68e34e0243799e6e309ea5": {
+      "url": "https://ethereum.org/en/community/get-involved/",
+      "visited": 1753044034.72076
+    },
+    "8a76ad405e92cefe01096cf10c1edcaa": {
+      "url": "https://ethereum.org/en/developers/docs/evm/opcodes/",
+      "visited": 1753044037.3070326
+    },
+    "f5a994cc6373f3e618d59a3998e139dd": {
+      "url": "https://ethereum.org/en/developers/docs/nodes-and-clients/run-a-node/",
+      "visited": 1753044040.0185647
+    },
+    "0cc9a33e43790cf63aa1da2c899db0bc": {
+      "url": "https://ethereum.org/en/developers/docs/nodes-and-clients/client-diversity/",
+      "visited": 1753044042.676362
+    },
+    "bcc3c28b33451cc407b82858dfb7e5b9": {
+      "url": "https://ethereum.org/en/developers/docs/nodes-and-clients/nodes-as-a-service/",
+      "visited": 1753044045.3045459
+    },
+    "17a04220b667647092e99ee1edcef604": {
+      "url": "https://ethereum.org/en/developers/docs/nodes-and-clients/node-architecture/",
+      "visited": 1753044047.8905451
+    },
+    "340be551c83dfa38902b63b846d33473": {
+      "url": "https://ethereum.org/en/developers/docs/nodes-and-clients/light-clients/",
+      "visited": 1753044050.5305545
+    },
+    "f457e605d6ccea2205ef3b88f6323a32": {
+      "url": "https://ethereum.org/en/developers/docs/nodes-and-clients/archive-nodes/",
+      "visited": 1753044053.1627953
+    },
+    "f1a8f5a52fd5448baa248fd548066343": {
+      "url": "https://ethereum.org/en/developers/docs/nodes-and-clients/bootnodes/",
+      "visited": 1753044055.7840261
+    },
+    "b400b4bdcb3406c39d7e6fdec06095f4": {
+      "url": "https://ethereum.org/en/developers/docs/consensus-mechanisms/pos/",
+      "visited": 1753044058.3270943
+    },
+    "b0f57f7df6663322cabedad4b1991b53": {
+      "url": "https://ethereum.org/en/developers/docs/consensus-mechanisms/pos/gasper/",
+      "visited": 1753044060.9037511
+    },
+    "d36e0ed7c7d107da6160593f9062e18e": {
+      "url": "https://ethereum.org/en/developers/docs/consensus-mechanisms/pos/weak-subjectivity/",
+      "visited": 1753044063.4289577
+    },
+    "cde004e5caa51103b101f14bcd33850c": {
+      "url": "https://ethereum.org/en/developers/docs/consensus-mechanisms/pos/attestations/",
+      "visited": 1753044065.988752
+    },
+    "8f3f19c2eaf8ac78111a9a3aec9827a4": {
+      "url": "https://ethereum.org/en/developers/docs/consensus-mechanisms/pos/rewards-and-penalties/",
+      "visited": 1753044068.5126855
+    },
+    "d24fa4aeea9111476e7c9db70b36690c": {
+      "url": "https://ethereum.org/en/developers/docs/consensus-mechanisms/pos/attack-and-defense/",
+      "visited": 1753044071.0767736
+    },
+    "193ccdcd9a0e03a8febb5890ca176d57": {
+      "url": "https://ethereum.org/en/developers/docs/consensus-mechanisms/pos/keys/",
+      "visited": 1753044073.6284037
+    },
+    "457dd32a22cfa452d028805c2e935c2c": {
+      "url": "https://ethereum.org/en/developers/docs/consensus-mechanisms/pos/pos-vs-pow/",
+      "visited": 1753044076.1929595
+    },
+    "4513e49de8108d39ae2916cfb581828b": {
+      "url": "https://ethereum.org/en/developers/docs/consensus-mechanisms/pos/block-proposal/",
+      "visited": 1753044078.7759562
+    },
+    "5ff6d55a3268935825ea9a162909f171": {
+      "url": "https://ethereum.org/en/developers/docs/consensus-mechanisms/pos/faqs/",
+      "visited": 1753044081.324856
+    },
+    "5f3f81ba5ecc2f5acafb6dc9497ccdbb": {
+      "url": "https://ethereum.org/en/developers/docs/consensus-mechanisms/pow/",
+      "visited": 1753044083.882322
+    },
+    "3efc0a089600a5337b518d39204cef5b": {
+      "url": "https://ethereum.org/en/developers/docs/consensus-mechanisms/pow/mining/",
+      "visited": 1753044086.4387412
+    },
+    "54831d0ce404b53cffe8a34a8694f92d": {
+      "url": "https://ethereum.org/en/developers/docs/consensus-mechanisms/pow/mining/mining-algorithms/",
+      "visited": 1753044088.9337633
+    },
+    "422bcf14cd3a634961eb5f0947bed038": {
+      "url": "https://ethereum.org/en/developers/docs/consensus-mechanisms/pow/mining/mining-algorithms/dagger-hashimoto/",
+      "visited": 1753044091.512024
+    },
+    "8a621582bf6e5d38793eadb0bb1a1584": {
+      "url": "https://ethereum.org/en/developers/docs/consensus-mechanisms/pow/mining/mining-algorithms/ethash/",
+      "visited": 1753044094.1883354
+    },
+    "3f9495e9a9b894f663c24b2145b02361": {
+      "url": "https://ethereum.org/en/developers/docs/consensus-mechanisms/poa/",
+      "visited": 1753044097.803722
+    },
+    "68289f971152a874c86defa25becb50f": {
+      "url": "https://ethereum.org/en/developers/docs/smart-contracts/languages/",
+      "visited": 1753044100.348026
+    },
+    "854011825b01af40afa893b7fc2de747": {
+      "url": "https://ethereum.org/en/developers/docs/smart-contracts/anatomy/",
+      "visited": 1753044103.0048358
+    },
+    "50a0794a6b065d6c9232289b6368eee9": {
+      "url": "https://ethereum.org/en/developers/docs/smart-contracts/libraries/",
+      "visited": 1753044105.9161887
+    },
+    "ee0e479beede7d878ca3e9089cc266ea": {
+      "url": "https://ethereum.org/en/developers/docs/smart-contracts/testing/",
+      "visited": 1753044108.4236426
+    },
+    "0040d3d079f3d2e1bf13c81e1231685b": {
+      "url": "https://ethereum.org/en/developers/docs/smart-contracts/compiling/",
+      "visited": 1753044111.0741994
+    },
+    "55bc56c922f6404e26c4a73d02c1d994": {
+      "url": "https://ethereum.org/en/developers/docs/smart-contracts/deploying/",
+      "visited": 1753044113.7904172
+    },
+    "0a968e9d726eddbce3b0234a0787de83": {
+      "url": "https://ethereum.org/en/developers/docs/smart-contracts/verifying/",
+      "visited": 1753044116.3712254
+    },
+    "c9ffaa4fe2fa8cffe3bfd4cae9ee18ec": {
+      "url": "https://ethereum.org/en/developers/docs/smart-contracts/upgrading/",
+      "visited": 1753044118.933159
+    },
+    "8e04406da50e75e0b1c904757030a0af": {
+      "url": "https://ethereum.org/en/developers/docs/smart-contracts/formal-verification/",
+      "visited": 1753044121.5485337
+    },
+    "d6c0b10691c2722f48aab8252eca7fbf": {
+      "url": "https://ethereum.org/en/developers/docs/smart-contracts/composability/",
+      "visited": 1753044124.1324856
+    },
+    "45813a7cf8df0f639a5f9de0ea2c08de": {
+      "url": "https://ethereum.org/en/developers/docs/development-networks/",
+      "visited": 1753044126.6978486
+    },
+    "b27376067029f830f4d3ca3603cb72e9": {
+      "url": "https://ethereum.org/en/developers/docs/apis/json-rpc/",
+      "visited": 1753044129.2466898
+    },
+    "9484527eae3298d16385d56225550a9e": {
+      "url": "https://ethereum.org/en/developers/docs/data-and-analytics/",
+      "visited": 1753044133.127277
+    },
+    "ea09ddd60c961ba3c8662c07062ea554": {
+      "url": "https://ethereum.org/en/developers/docs/programming-languages/dart/",
+      "visited": 1753044135.7332902
+    },
+    "9712f8cc6012bb475d3a74bd79d552ce": {
+      "url": "https://ethereum.org/en/developers/docs/programming-languages/delphi/",
+      "visited": 1753044138.3091912
+    },
+    "8ab20a4e75119eb5d79d80fdeeb9c920": {
+      "url": "https://ethereum.org/en/developers/docs/programming-languages/dot-net/",
+      "visited": 1753044140.9391077
+    },
+    "f9bca870bb8ac91845d694a2a449c2ad": {
+      "url": "https://ethereum.org/en/developers/docs/programming-languages/elixir/",
+      "visited": 1753044143.5135312
+    },
+    "dae0099960b29a8523a11ce5db893a35": {
+      "url": "https://ethereum.org/en/developers/docs/programming-languages/golang/",
+      "visited": 1753044146.0719342
+    },
+    "005a08f079704fbd412055cb3d4cb032": {
+      "url": "https://ethereum.org/en/developers/docs/programming-languages/java/",
+      "visited": 1753044148.6572242
+    },
+    "364657f4854d837bc467eb80fe73bf2a": {
+      "url": "https://ethereum.org/en/developers/docs/programming-languages/javascript/",
+      "visited": 1753044151.3222673
+    },
+    "e2a3763af9ce62269166ed0380bfd424": {
+      "url": "https://ethereum.org/en/developers/docs/programming-languages/python/",
+      "visited": 1753044153.9299276
+    },
+    "57b2154e2eb0b8808a694d9a03ab9235": {
+      "url": "https://ethereum.org/en/developers/docs/programming-languages/ruby/",
+      "visited": 1753044156.5810714
+    },
+    "4cde34dbf5d3e47520f72ed4f8a312a5": {
+      "url": "https://ethereum.org/en/developers/docs/programming-languages/rust/",
+      "visited": 1753044159.1436725
+    },
+    "565baf2bfd5bf23cd8cb6e5cd5c15523": {
+      "url": "https://ethereum.org/en/developers/docs/bridges/",
+      "visited": 1753044161.7346745
+    },
+    "83dd987032b2cd6953e857e960b32522": {
+      "url": "https://ethereum.org/en/developers/docs/standards/",
+      "visited": 1753044164.3501112
+    },
+    "24d57d179180b6528f811693241ce85f": {
+      "url": "https://ethereum.org/en/developers/docs/standards/tokens/",
+      "visited": 1753044166.9395761
+    },
+    "7d56fbff0de34235b0dcf83e769a2daf": {
+      "url": "https://ethereum.org/en/developers/docs/standards/tokens/erc-20/",
+      "visited": 1753044169.521908
+    },
+    "7799076b5a18c28f624647af6a13c690": {
+      "url": "https://ethereum.org/en/developers/docs/mev/",
+      "visited": 1753044172.1647584
+    },
+    "a5620d75087da0f48a8bd014e853ab2a": {
+      "url": "https://ethereum.org/en/developers/docs/oracles/",
+      "visited": 1753044174.8213177
+    },
+    "bac0399eadfe19f4b1e736a5c5eb27e8": {
+      "url": "https://ethereum.org/en/developers/docs/scaling/",
+      "visited": 1753044177.4374382
+    },
+    "2fcf18f4cabe1ce355cb27ba982fd3e9": {
+      "url": "https://ethereum.org/en/developers/docs/scaling/optimistic-rollups/",
+      "visited": 1753044179.966743
+    },
+    "564cd46b03fe02bf7938873f3ce2b70c": {
+      "url": "https://ethereum.org/en/developers/docs/scaling/zk-rollups/",
+      "visited": 1753044182.5779388
+    },
+    "a7ba59ca9a1ea1f3e8cf733281270e68": {
+      "url": "https://ethereum.org/en/developers/docs/scaling/state-channels/",
+      "visited": 1753044185.2198205
+    },
+    "194723ba65838fe624c32c9004c2550c": {
+      "url": "https://ethereum.org/en/developers/docs/scaling/sidechains/",
+      "visited": 1753044187.8530257
+    },
+    "22b2577145cefcbeeee6292478dcd168": {
+      "url": "https://ethereum.org/en/developers/docs/scaling/plasma/",
+      "visited": 1753044190.4678452
+    },
+    "ed9e710b3da1cbd6e1ec6e8b489c22a3": {
+      "url": "https://ethereum.org/en/developers/docs/scaling/validium/",
+      "visited": 1753044193.1076999
+    },
+    "54a77aff72edb2d67a53e0708dc4f2ab": {
+      "url": "https://ethereum.org/en/developers/docs/data-availability/",
+      "visited": 1753044195.6034951
+    },
+    "60c20afbd49aea4d87cca8b9f9e94720": {
+      "url": "https://ethereum.org/en/developers/docs/data-availability/blockchain-data-storage-strategies/",
+      "visited": 1753044198.1608734
+    },
+    "ed9cf51cc0c8e3293dade3f600ef3a94": {
+      "url": "https://ethereum.org/en/developers/docs/networking-layer/",
+      "visited": 1753044200.797066
+    },
+    "f435f500edf53017d02d3c92fa57a6d4": {
+      "url": "https://ethereum.org/en/developers/docs/networking-layer/network-addresses/",
+      "visited": 1753044203.347726
+    },
+    "e1e73a820e1e37bd4ad5b2c1c9921656": {
+      "url": "https://ethereum.org/en/developers/docs/networking-layer/portal-network/",
+      "visited": 1753044205.8992484
+    },
+    "94ac0521eb68829351070e6799f679b8": {
+      "url": "https://ethereum.org/en/developers/docs/data-structures-and-encoding/",
+      "visited": 1753044208.4714916
+    },
+    "4fe65421809eeb80bc4361a87407da19": {
+      "url": "https://ethereum.org/en/developers/docs/data-structures-and-encoding/patricia-merkle-trie/",
+      "visited": 1753044211.055361
+    },
+    "418d42256a9a623dda2a1177074d3710": {
+      "url": "https://ethereum.org/en/developers/docs/data-structures-and-encoding/rlp/",
+      "visited": 1753044213.7020898
+    },
+    "83f97c2094616604fc87652b584aa2ab": {
+      "url": "https://ethereum.org/en/developers/docs/data-structures-and-encoding/ssz/",
+      "visited": 1753044216.3140767
+    },
+    "b174ff37f9f8a2c5ac683c26597d2647": {
+      "url": "https://ethereum.org/en/developers/docs/data-structures-and-encoding/web3-secret-storage/",
+      "visited": 1753044218.8886392
+    },
+    "01e151bddc511ef0633a27d565d60024": {
+      "url": "https://ethereum.org/en/developers/docs/design-and-ux/heuristics-for-web3/",
+      "visited": 1753044221.461117
+    },
+    "977ac31373aae2d6e98971e313f69864": {
+      "url": "https://ethereum.org/en/developers/docs/design-and-ux/dex-design-best-practice/",
+      "visited": 1753044224.0227547
+    },
+    "464add447d770296f5d80bbb29717cda": {
+      "url": "https://ethereum.org/en/community/support/",
+      "visited": 1753044226.6604168
+    },
+    "552b8e9cbc658940471d171fadda8149": {
+      "url": "https://ethereum.org/en/community/events/organizing/",
+      "visited": 1753044229.1611924
+    },
+    "1971696fc904f33f945c47dab429bd7d": {
+      "url": "https://ethereum.org/en/contributing/design/",
+      "visited": 1753044231.683621
+    },
+    "6d072f572ff029401b31cad8e758a16b": {
+      "url": "https://ethereum.org/en/contributing/content-resources/",
+      "visited": 1753044234.4021997
+    },
+    "b639e4c862e87f7216616154d98a5351": {
+      "url": "https://ethereum.org/en/contributing/design/adding-design-resources/",
+      "visited": 1753044237.5909095
+    },
+    "dbf16cc19e634a53e8d6c797e20217a3": {
+      "url": "https://ethereum.org/en/contributing/quizzes/",
+      "visited": 1753044240.9695506
+    },
+    "26a9b6fae65c467e949f5e31f3b21e16": {
+      "url": "https://ethereum.org/en/contributing/adding-exchanges/",
+      "visited": 1753044243.481383
+    },
+    "3271c6e251e41442b3fd989af02bb4fc": {
+      "url": "https://ethereum.org/en/contributing/adding-products/",
+      "visited": 1753044245.994221
+    },
+    "77de19195196b51937448270c0a97004": {
+      "url": "https://ethereum.org/en/contributing/adding-developer-tools/",
+      "visited": 1753044249.2731671
+    },
+    "ca5cf5a37debaa4a1785265895ab8551": {
+      "url": "https://ethereum.org/en/contributing/adding-layer-2s/",
+      "visited": 1753044251.791076
+    },
+    "21f65b75088f357e8c55834b6c3cc2a1": {
+      "url": "https://ethereum.org/en/contributing/adding-staking-products/",
+      "visited": 1753044254.3965602
+    },
+    "0144af8b263d7ce6c2d4b25e1e89c863": {
+      "url": "https://ethereum.org/en/contributing/adding-wallets/",
+      "visited": 1753044256.9932697
+    },
+    "00db436e2612ea5c5b5ac3f0d8589f96": {
+      "url": "https://ethereum.org/en/contributing/adding-desci-projects/",
+      "visited": 1753044259.6209168
+    },
+    "f34eac689babec60128424529ddf5380": {
+      "url": "https://ethereum.org/en/contributing/design-principles/",
+      "visited": 1753044262.1333346
+    },
+    "7d4b80460b38391b3ff72a27fcc82241": {
+      "url": "https://ethereum.org/en/contributing/style-guide/",
+      "visited": 1753044264.6566567
+    },
+    "f65d3170de6599c84cd33fac7d4efd95": {
+      "url": "https://ethereum.org/content/web3/web1.png",
+      "visited": 1753044267.2023947
+    },
+    "d678a5b550975b94b1272ea7290ab3e6": {
+      "url": "https://ethereum.org/content/web3/web2.png",
+      "visited": 1753044270.187736
+    },
+    "33ec80123b5e2d2d177dcc3dcdbc3132": {
+      "url": "https://ethereum.org/content/web3/web3.png",
+      "visited": 1753044273.2802405
+    },
+    "1ee823ce3174b1ba8dac94b103243b1e": {
+      "url": "https://ethereum.org/en/dapps/?category=gaming",
+      "visited": 1753044275.9096427
+    },
+    "2bd9817ede56b249ac5a02357e4b199e": {
+      "url": "https://ethereum.org/en/developers/tutorials/run-node-raspberry-pi/",
+      "visited": 1753044278.7910943
+    },
+    "fb16738027a5d2641856af5bf3a09083": {
+      "url": "https://ethereum.org/content/security/twitterPhishingScam.png",
+      "visited": 1753044281.351058
+    },
+    "0ebeeff291bdb1c13d8c11c2012230f0": {
+      "url": "https://ethereum.org/content/security/appleTwitterScam.png",
+      "visited": 1753044284.8179
+    },
+    "83a4ad6c7f25675532fd7cb0e2bf3fd0": {
+      "url": "https://ethereum.org/content/security/youtubeScam.png",
+      "visited": 1753044287.5361466
+    },
+    "d8fd69e7537fdba7d7050cd406dfa361": {
+      "url": "https://ethereum.org/content/security/discordScam.png",
+      "visited": 1753044291.0355303
+    },
+    "8a307c4241c326c4cc84170d75b77ff2": {
+      "url": "https://ethereum.org/content/security/brokerScam.png",
+      "visited": 1753044293.744197
+    },
+    "4ef573b2250c4f41f14e775e9453b001": {
+      "url": "https://ethereum.org/content/security/passwordManager.png",
+      "visited": 1753044296.2916946
+    },
+    "80693181bd7bc34b93c0df0eba7adf8b": {
+      "url": "https://ethereum.org/en/glossary/eth",
+      "visited": 1753044299.2287295
+    },
+    "be590969f24648717aa595f3b5eb3b6d": {
+      "url": "https://ethereum.org/en/roadmap/beacon-chain/",
+      "visited": 1753044301.5827706
+    },
+    "6a8c216fb2ab3933a8d580a668dddffb": {
+      "url": "https://ethereum.org/en/staking/pools/",
+      "visited": 1753044304.1796463
+    },
+    "c88d128ff3f9d9adc2eed9e301a02e35": {
+      "url": "https://ethereum.org/en/contributing/adding-glossary-terms/",
+      "visited": 1753044306.732934
+    },
+    "89d2f5a5103530948d64d9674e927086": {
+      "url": "https://ethereum.org/en/staking/solo/",
+      "visited": 1753044309.3197615
+    },
+    "a9d49734e5454244e5be938f01b5409f": {
+      "url": "https://ethereum.org/en/staking/saas/",
+      "visited": 1753044312.583399
+    },
+    "3c217d10b32deddcde380f653f683c3f": {
+      "url": "https://ethereum.org/en/developers/tutorials/a-developers-guide-to-ethereum-part-one/",
+      "visited": 1753044315.1579354
+    },
+    "bf1a2e200c7c9619dd9bf265523dccd3": {
+      "url": "https://ethereum.org/content/contributing/translation-program/enterprise-eth.png",
+      "visited": 1753044318.070185
+    },
+    "e63a94c6f56f6e1bf75ce3ba3154e651": {
+      "url": "https://ethereum.org/en/contributing/translation-program/how-to-translate/",
+      "visited": 1753044320.7437701
+    },
+    "f66bd18ca075b74598239107a31e8ff3": {
+      "url": "https://ethereum.org/en/contributing/translation-program/translators-guide/",
+      "visited": 1753044323.223583
+    },
+    "aa22d82926165302bf80fa0319a21012": {
+      "url": "https://ethereum.org/en/contributing/translation-program/mission-and-vision/",
+      "visited": 1753044326.241243
+    },
+    "36a29d4626e6c68f17323713c812894c": {
+      "url": "https://ethereum.org/en/contributing/translation-program/contributors/",
+      "visited": 1753044328.818864
+    },
+    "622605e96a3e1650f7ccdd8d67e2ce90": {
+      "url": "https://ethereum.org/en/contributing/translation-program/acknowledgements/",
+      "visited": 1753044332.1652708
+    },
+    "e5b4c7a7dfdb5e245b692b35e5715de4": {
+      "url": "https://ethereum.org/en/contributing/translation-program/faq/",
+      "visited": 1753044334.934871
+    },
+    "9c6c9a718c3765da162516027b94d111": {
+      "url": "https://ethereum.org/en/contributing/translation-program/content-buckets/",
+      "visited": 1753044338.0940905
+    },
+    "239ea5b932ba50a4f78dff4ceda9e970": {
+      "url": "https://ethereum.org/en/contributing/translation-program/resources/",
+      "visited": 1753044340.6700594
+    },
+    "917f14d49172be67e39ac4d143abda31": {
+      "url": "https://ethereum.org/en/contributing/translation-program/playbook/",
+      "visited": 1753044343.3232
+    },
+    "d927a02e34b2ff8dd62c4de5aacec041": {
+      "url": "https://ethereum.org/security_at_ethereum.org.asc",
+      "visited": 1753044345.9204938
+    },
+    "bc991cc7cb2e6de92363c9cff0204da3": {
+      "url": "https://ethereum.org/en/staking/dvt/",
+      "visited": 1753044349.060055
+    },
+    "346b4b898d971cb976eb688acc793cf5": {
+      "url": "https://ethereum.org/en/roadmap/pbs/",
+      "visited": 1753044351.5965247
+    },
+    "31f3372dac3ca051c6f9743966aa13c6": {
+      "url": "https://ethereum.org/en/roadmap/secret-leader-election/",
+      "visited": 1753044354.088932
+    },
+    "db4cad6a357e94e5ec7bd7efeaa9b477": {
+      "url": "https://ethereum.org/en/roadmap/vision/",
+      "visited": 1753044356.694096
+    },
+    "660b1382a9d884e4864dc8cd515adf75": {
+      "url": "https://ethereum.org/en/bridges/",
+      "visited": 1753044359.4326997
+    },
+    "7d99d54356b63becc638923359faceaa": {
+      "url": "https://ethereum.org/reports/trillion-dollar-security.pdf",
+      "visited": 1753044361.9842086
+    },
+    "2513a6cc4f98bea757a0f33b59d0574b": {
+      "url": "https://ethereum.org/_next/static/media/hero.94a1ecc4.png",
+      "visited": 1753044374.4512348
+    },
+    "7f35e69db43ac59dcdcecb8b590414ad": {
+      "url": "https://ethereum.org/_next/static/media/learn-hub-hero.bc4653ed.png",
+      "visited": 1753044382.5048177
+    },
+    "712657d49ca69e02888e1f05b4a55f72": {
+      "url": "https://ethereum.org/_next/static/media/community-hero.89b5ba2f.png",
+      "visited": 1753044387.5175135
+    },
+    "04bf0c5dbecd15a23766e51ac8cee8a9": {
+      "url": "https://ethereum.org/_next/static/media/quizzes-hub-hero.ea3530c2.png",
+      "visited": 1753044391.305943
+    },
+    "c2c4004ea6e77a84632d97a0a8666223": {
+      "url": "https://ethereum.org/_next/static/media/developers-hub-hero.a8c3797d.jpg",
+      "visited": 1753044394.3456066
+    },
+    "8e42dc90c9e30aa9b9b46770da54fff0": {
+      "url": "https://ethereum.org/_next/static/media/garden.8394a1ab.jpg",
+      "visited": 1753044397.1268065
+    },
+    "822b03d2021edef0ee39586ad2d2fa77": {
+      "url": "https://ethereum.org/_next/static/media/roadmap-hub-hero.279a4e9e.jpg",
+      "visited": 1753044400.2031486
+    },
+    "f7c065ff90d6296c3ea1de1698369693": {
+      "url": "https://ethereum.org/_next/static/media/layer-2-hub-hero.5bb68ce2.jpg",
+      "visited": 1753044403.5446966
+    },
+    "8eb9f16f6929cf63a036ba7d07d3ef2c": {
+      "url": "https://ethereum.org/_next/static/media/guides-hub-hero.19a19f48.jpg",
+      "visited": 1753044406.6675122
+    },
+    "9e0fbe617dadd69d659c314eda72abc9": {
+      "url": "https://ethereum.org/_next/static/media/doge-computer.482265f8.png",
+      "visited": 1753044409.627219
+    },
+    "bab7e4931e5de332d6c4107365bff3d0": {
+      "url": "https://ethereum.org/_next/static/media/developers-eth-blocks.62390e1a.png",
+      "visited": 1753044413.285885
+    },
+    "f9111c3dfa169d404401816f2a70b39c": {
+      "url": "https://ethereum.org/_next/static/media/enterprise-eth.d2a3f314.png",
+      "visited": 1753044417.0000691
+    },
+    "be42201a1a2d80e34fc90aaa81dabd58": {
+      "url": "https://ethereum.org/_next/static/media/infrastructure_transparent.8849e91b.png",
+      "visited": 1753044420.302503
+    },
+    "e4c7b9a291b706fa7d7fa2da3eec92f6": {
+      "url": "https://ethereum.org/_next/static/media/finance_transparent.a4abc782.png",
+      "visited": 1753044425.0525172
+    },
+    "487df0d9846be35fec270a910c4f7b4c": {
+      "url": "https://ethereum.org/_next/static/media/impact_transparent.7420c423.png",
+      "visited": 1753044429.1298528
+    },
+    "fbbfb60d11ff556e36744076ffb9d413": {
+      "url": "https://ethereum.org/_next/static/media/future_transparent.465fbd2d.png",
+      "visited": 1753044433.9204657
+    },
+    "d5a67a0a90f1fd7e5229dddff66e587a": {
+      "url": "https://ethereum.org/_next/static/media/hackathon_transparent.0818b178.png",
+      "visited": 1753044437.589001
+    },
+    "338f648f1442577c565c9ccee5830199": {
+      "url": "https://ethereum.org/_next/static/media/wallet.454231ba.png",
+      "visited": 1753044443.5232775
+    },
+    "c2894143cd0a09dd100a72c62afa7dd5": {
+      "url": "https://ethereum.org/_next/static/media/what-is-ethereum.b37ce60e.png",
+      "visited": 1753044451.4115171
+    },
+    "8f66669f15b93666a6fd1aa10aefae55": {
+      "url": "https://ethereum.org/_next/static/media/eth.28aff33d.png",
+      "visited": 1753044455.1243696
+    },
+    "8ccba9cb023703304198f88ce15cc602": {
+      "url": "https://ethereum.org/_next/static/media/oldship.b3cc4921.png",
+      "visited": 1753044461.1502128
+    },
+    "7d143c2ec2dd55cae26f2781013bfb59": {
+      "url": "https://ethereum.org/_next/static/media/merge.1565d431.png",
+      "visited": 1753044465.6734297
+    },
+    "1d104557c1c76eec7ec7dc2ca6142750": {
+      "url": "https://ethereum.org/_next/static/media/core.eca93173.png",
+      "visited": 1753044471.0629501
+    },
+    "684afe67b4859c35da6af0ab2d7d1825": {
+      "url": "https://ethereum.org/_next/static/media/newrings.774586ae.png",
+      "visited": 1753044475.819628
+    },
+    "265c52627deb603982136aef340de8a6": {
+      "url": "https://ethereum.org/_next/static/media/defi.254fb6ef.png",
+      "visited": 1753044483.0825727
+    },
+    "6a0dbb02e3ab9cbb45aeab1a83ea5844": {
+      "url": "https://ethereum.org/_next/static/media/dao-2.62aa97a7.png",
+      "visited": 1753044485.6385481
+    },
+    "cc331b9c2b3dbbb7a806a7475ae82fe7": {
+      "url": "https://ethereum.org/_next/static/media/eth-diamond-glyph.3cd60daa.png",
+      "visited": 1753044488.0987651
+    },
+    "0c5cc63ae9449be9c120bbf83b7643af": {
+      "url": "https://ethereum.org/images/assets/svgs/eth-diamond-glyph.svg",
+      "visited": 1753044490.4183545
+    },
+    "7ef630592000d5b25c104f764b527a5a": {
+      "url": "https://ethereum.org/_next/static/media/eth-diamond-black.a042df77.png",
+      "visited": 1753044492.8953671
+    },
+    "7d0866338ebd3d617a83b8ec175a812f": {
+      "url": "https://ethereum.org/images/assets/svgs/eth-diamond-black.svg",
+      "visited": 1753044495.340789
+    },
+    "00ad5e41fec7bb55b2d8283600cc4a98": {
+      "url": "https://ethereum.org/_next/static/media/eth-diamond-rainbow.bb509e8a.png",
+      "visited": 1753044497.628181
+    },
+    "e82f2abeb95da2aa1684f18e750298da": {
+      "url": "https://ethereum.org/images/assets/svgs/eth-diamond-rainbow.svg",
+      "visited": 1753044500.0115542
+    },
+    "c1cea909c714ff3c1d8798f45d2b5a36": {
+      "url": "https://ethereum.org/_next/static/media/eth-diamond-purple.7929ed26.png",
+      "visited": 1753044502.4380174
+    },
+    "30caec4368d527ab438040a83b600568": {
+      "url": "https://ethereum.org/images/assets/svgs/eth-diamond-purple.svg",
+      "visited": 1753044504.7834482
+    },
+    "6af4dcd9aa91700a63fb274199ff0b71": {
+      "url": "https://ethereum.org/_next/static/media/eth-glyph-colored.434446fa.png",
+      "visited": 1753044507.162742
+    },
+    "6847ed94c39a4061d94606aeb8fb22e6": {
+      "url": "https://ethereum.org/images/assets/svgs/eth-glyph-colored.svg",
+      "visited": 1753044509.4960244
+    },
+    "68945238ccc71798b95d033c587fa86e": {
+      "url": "https://ethereum.org/_next/static/media/ethereum-logo-portrait-black.d5e1c2bd.png",
+      "visited": 1753044511.8267524
+    },
+    "fe76e44396f16596527aa7cd3ff692f1": {
+      "url": "https://ethereum.org/images/assets/svgs/ethereum-logo-portrait-black.svg",
+      "visited": 1753044514.12947
+    },
+    "82358d4595136363c0fe7cd1f604b495": {
+      "url": "https://ethereum.org/_next/static/media/ethereum-logo-landscape-black.b8f4e822.png",
+      "visited": 1753044516.4509566
+    },
+    "a75b59a71845a138db872c7597a444a9": {
+      "url": "https://ethereum.org/images/assets/svgs/ethereum-logo-landscape-black.svg",
+      "visited": 1753044518.772868
+    },
+    "11c4c251f4aa131f6157baa8dacc1753": {
+      "url": "https://ethereum.org/_next/static/media/ethereum-wordmark-black.bb1488f4.png",
+      "visited": 1753044521.1965227
+    },
+    "cd7b6ed9d102c86fff75e6d4eda2e6f5": {
+      "url": "https://ethereum.org/images/assets/svgs/ethereum-wordmark-black.svg",
+      "visited": 1753044523.5148394
+    },
+    "e704e107c0893d8fa523f2f67e1f6be8": {
+      "url": "https://ethereum.org/_next/static/media/ethereum-logo-portrait-purple.03e6a845.png",
+      "visited": 1753044525.9448466
+    },
+    "2b28a54e668919c8d606ae36591f6e99": {
+      "url": "https://ethereum.org/images/assets/svgs/ethereum-logo-portrait-purple.svg",
+      "visited": 1753044528.4233785
+    },
+    "affc11b495a58adbfb8f9ce3dcdf5129": {
+      "url": "https://ethereum.org/_next/static/media/ethereum-logo-landscape-purple.2c091489.png",
+      "visited": 1753044530.7308233
+    },
+    "a82929c4ce87449417e74ba59f9b4fd8": {
+      "url": "https://ethereum.org/images/assets/svgs/ethereum-logo-landscape-purple.svg",
+      "visited": 1753044533.0339515
+    },
+    "9627a97f26f9f0074b0419535fe62063": {
+      "url": "https://ethereum.org/_next/static/media/ethereum-wordmark-purple.5e3d39ae.png",
+      "visited": 1753044535.346397
+    },
+    "1c84bd4a1ec5cb56f41dde718b88e336": {
+      "url": "https://ethereum.org/images/assets/svgs/ethereum-wordmark-purple-purple.svg",
+      "visited": 1753044537.7756321
+    },
+    "fb77a7da23d9956a5da8b6dbe42a015a": {
+      "url": "https://ethereum.org/_next/static/media/eth-diamond-black-white.ab7fbd4e.jpg",
+      "visited": 1753044540.0863173
+    },
+    "87a10c57eb18e95de2ab22f4ca4e10f8": {
+      "url": "https://ethereum.org/images/assets/svgs/eth-diamond-black-white.svg",
+      "visited": 1753044542.4265904
+    },
+    "ac4028087a2eff362a01104d477e4726": {
+      "url": "https://ethereum.org/_next/static/media/eth-diamond-black-gray.6a0565f4.png",
+      "visited": 1753044544.735739
+    },
+    "04dc57b4e111241f8947348152b026c5": {
+      "url": "https://ethereum.org/images/assets/svgs/eth-diamond-black-gray.svg",
+      "visited": 1753044547.063274
+    },
+    "f766a9820a6a346cb42a5fdb8d1af0d3": {
+      "url": "https://ethereum.org/_next/static/media/eth-diamond-purple-purple.74f3909b.png",
+      "visited": 1753044549.470956
+    },
+    "927e941b7801d35dedfdcb0afd2c9398": {
+      "url": "https://ethereum.org/images/assets/svgs/eth-diamond-purple-purple.svg",
+      "visited": 1753044551.7745028
+    },
+    "596c48f57985e19ba0d1142d5470db6d": {
+      "url": "https://ethereum.org/_next/static/media/eth-diamond-purple-white.3e872b05.jpg",
+      "visited": 1753044554.0925992
+    },
+    "c78f6e1a5687b4d5b9847f12bc31ae97": {
+      "url": "https://ethereum.org/images/assets/svgs/eth-diamond-purple-white.svg",
+      "visited": 1753044556.5746107
+    },
+    "fd7d0d41ef15778708b3d3b45b76f4bf": {
+      "url": "https://ethereum.org/_next/static/media/ethereum-logo-portrait-black-gray.643cc450.png",
+      "visited": 1753044559.0285704
+    },
+    "9f3c33ac2d60944a54e0ee1cf6630a38": {
+      "url": "https://ethereum.org/images/assets/svgs/ethereum-logo-portrait-black-gray.svg",
+      "visited": 1753044561.455146
+    },
+    "ff9ad2a879ac6b26dddd209e65e32f1f": {
+      "url": "https://ethereum.org/_next/static/media/ethereum-logo-landscape-black-gray.854bfc23.png",
+      "visited": 1753044563.781051
+    },
+    "4a05fd874153255cc36c8527ef72208c": {
+      "url": "https://ethereum.org/images/assets/svgs/ethereum-logo-landscape-black-gray.svg",
+      "visited": 1753044566.0812032
+    },
+    "040de711c366ccb3dca2e1c2c66b7706": {
+      "url": "https://ethereum.org/_next/static/media/ethereum-wordmark-black-gray.484b2101.png",
+      "visited": 1753044568.3672647
+    },
+    "08f17d821ba2966db2e28850901dd707": {
+      "url": "https://ethereum.org/images/assets/svgs/ethereum-wordmark-black-gray.svg",
+      "visited": 1753044570.6800642
+    },
+    "84ea6774b5663a39a27cdcb021ff19e0": {
+      "url": "https://ethereum.org/_next/static/media/ethereum-logo-portrait-purple-purple.d2508a3b.png",
+      "visited": 1753044572.989288
+    },
+    "9cc89932bd015f9f711f2b31ecd736e4": {
+      "url": "https://ethereum.org/images/assets/svgs/ethereum-logo-portrait-purple-purple.svg",
+      "visited": 1753044575.3169048
+    },
+    "a2893d08f34c08841ddf360a4927f8b9": {
+      "url": "https://ethereum.org/_next/static/media/ethereum-logo-landscape-purple-purple.1cff9542.png",
+      "visited": 1753044577.6527507
+    },
+    "7e5ad50727e5d86c70d853825c8d1131": {
+      "url": "https://ethereum.org/images/assets/svgs/ethereum-logo-landscape-purple-purple.svg",
+      "visited": 1753044580.061894
+    },
+    "381845dc5fc8b0bece230df9c0b7501b": {
+      "url": "https://ethereum.org/_next/static/media/ethereum-wordmark-purple-purple.59c3d604.png",
+      "visited": 1753044582.3900187
+    },
+    "98ef5d54c4cc585da79a5626d75098f3": {
+      "url": "https://ethereum.org/_next/static/media/ethereum-logo-landscape-purple-white.b26cd535.png",
+      "visited": 1753044584.8162303
+    },
+    "e9b387e31dcb324fb28365bf2e2f0ecb": {
+      "url": "https://ethereum.org/images/assets/svgs/ethereum-logo-landscape-purple-white.svg",
+      "visited": 1753044587.1164732
+    },
+    "3f783afe2212e01073ef0ba6674af64d": {
+      "url": "https://ethereum.org/_next/static/media/ethereum-wordmark-purple-white.8c8a2126.png",
+      "visited": 1753044589.529817
+    },
+    "87c02ad3a6a3a7b3885a6c109c97d706": {
+      "url": "https://ethereum.org/images/assets/svgs/ethereum-wordmark-purple-white.svg",
+      "visited": 1753044591.8561907
+    },
+    "55bf4bb977f94aea45b5b19ff3d6c27e": {
+      "url": "https://ethereum.org/_next/static/media/hero-panda.b57b156d.png",
+      "visited": 1753044594.2265987
+    },
+    "af4541729b8016f2acf323ad8a1d1ac9": {
+      "url": "https://ethereum.org/_next/static/media/merge-panda.a853cdc2.png",
+      "visited": 1753044596.7294474
+    },
+    "12a933d0fc94eabd4b6aeb17da9df706": {
+      "url": "https://ethereum.org/images/assets/svgs/merge-panda.svg",
+      "visited": 1753044599.190994
+    },
+    "3317fe6668aeb797a6dfc196983f9ee3": {
+      "url": "https://ethereum.org/content/energy-consumption/energy_consumption_pre_post_merge.png",
+      "visited": 1753044601.8174512
+    },
+    "2da6247accae2312cb7578dd655f7d8b": {
+      "url": "https://ethereum.org/en/refi/",
+      "visited": 1753044605.1117983
+    },
+    "4a189cc7f26768178e51369b26aae0da": {
+      "url": "https://ethereum.org/en/roadmap/merge/issuance/",
+      "visited": 1753044607.6512706
+    },
+    "4b9d8438951218d853e1ffaf24feac63": {
+      "url": "https://ethereum.org/content/developers/docs/accounts/accounts.png",
+      "visited": 1753044610.1973145
+    },
+    "f8384fd88dfbcd9a13bd36f45550e861": {
+      "url": "https://ethereum.org/content/developers/docs/transactions/tx.png",
+      "visited": 1753044612.6867633
+    },
+    "fef83ecd8aa58ee70f5c3877ac3d1ced": {
+      "url": "https://ethereum.org/content/developers/docs/transactions/gas-tx.png",
+      "visited": 1753044615.0464206
+    },
+    "bbcf3f00e253ca7687f48c94db50d4c9": {
+      "url": "https://ethereum.org/content/developers/docs/blocks/tx-block.png",
+      "visited": 1753044617.4419985
+    },
+    "fe3d0486573211183f3a8068368d2ad6": {
+      "url": "https://ethereum.org/content/developers/docs/evm/evm.png",
+      "visited": 1753044619.8169222
+    },
+    "2153ae742679aa0ddfc89d3a08398ed9": {
+      "url": "https://ethereum.org/content/developers/docs/gas/gas.png",
+      "visited": 1753044622.2552798
+    },
+    "44e64719d3e45ad9289226483728764e": {
+      "url": "https://ethereum.org/content/developers/docs/nodes-and-clients/eth1eth2client.png",
+      "visited": 1753044624.7432203
+    },
+    "4a34cce145d4eccdd286a97bc9480d96": {
+      "url": "https://ethereum.org/content/developers/docs/nodes-and-clients/nodes.png",
+      "visited": 1753044627.143176
+    },
+    "054b3fbccff933b2475d6a609df4b3aa": {
+      "url": "https://ethereum.org/en/developers/tutorials/the-graph-fixing-web3-data-querying/",
+      "visited": 1753044629.6180978
+    },
+    "1e48b079d0a2a3773ea24b2ec931c9cc": {
+      "url": "https://ethereum.org/en/developers/tutorials/set-up-web3js-to-use-ethereum-in-javascript/",
+      "visited": 1753044632.2124968
+    },
+    "13c185a6de055e76f13180c4c0cac83b": {
+      "url": "https://ethereum.org/en/developers/tutorials/calling-a-smart-contract-from-javascript/",
+      "visited": 1753044634.6804092
+    },
+    "aaa13618abf24c2c09c7233e00ee4a2b": {
+      "url": "https://ethereum.org/en/developers/tutorials/sending-transactions-using-web3-and-alchemy/",
+      "visited": 1753044637.2588599
+    },
+    "ac036af61f99051f32eef7dba6d0017e": {
+      "url": "https://ethereum.org/en/developers/tutorials/secure-development-workflow/",
+      "visited": 1753044639.7451198
+    },
+    "19d93d859d3b911649187f62707bbadb": {
+      "url": "https://ethereum.org/en/developers/tutorials/how-to-use-slither-to-find-smart-contract-bugs/",
+      "visited": 1753044642.317636
+    },
+    "cdce4056b2efbece6b8ee2cd8b445b0c": {
+      "url": "https://ethereum.org/en/developers/tutorials/how-to-use-manticore-to-find-smart-contract-bugs/",
+      "visited": 1753044644.9586196
+    },
+    "dac92caf67636e2a13ceb985fe0d1204": {
+      "url": "https://ethereum.org/en/developers/tutorials/smart-contract-security-guidelines/",
+      "visited": 1753044647.5049262
+    },
+    "c76ee2b05976e331fc8e46c0aec4cc1d": {
+      "url": "https://ethereum.org/en/developers/tutorials/token-integration-checklist/",
+      "visited": 1753044650.0418043
+    },
+    "b80605fb97b6ffa44d7007d2c59c4dc2": {
+      "url": "https://ethereum.org/developers/docs/scaling/optimistic-rollups/",
+      "visited": 1753044652.635571
+    },
+    "1a59ddcc80d17c6e3c15b73e93f77562": {
+      "url": "https://ethereum.org/developers/docs/scaling/zk-rollups/",
+      "visited": 1753044655.2926815
+    },
+    "c6f94d3e75a4af69126df8c1125bfcc7": {
+      "url": "https://ethereum.org/roadmap/merge/issuance/",
+      "visited": 1753044657.992439
+    },
+    "b27ec399292e534f7853150669b36faa": {
+      "url": "https://ethereum.org/content/guides/how-to-create-an-ethereum-account/wallet-box.png",
+      "visited": 1753044660.5313733
+    },
+    "ba59f66b9fb5337a34045766775d844a": {
+      "url": "https://ethereum.org/content/guides/how-to-use-a-wallet/send.png",
+      "visited": 1753044662.9426095
+    },
+    "c377eb9d6f3f75c586156234b05f6f27": {
+      "url": "https://ethereum.org/content/guides/how-to-use-a-wallet/connect1.png",
+      "visited": 1753044665.2780855
+    },
+    "4bf09f85fc6d3a3c6583fdd6fd4a6a8a": {
+      "url": "https://ethereum.org/content/guides/how-to-use-a-wallet/connect2.png",
+      "visited": 1753044667.564257
+    },
+    "d9e8e2a60ca2eeeafc6a975737b850b5": {
+      "url": "https://ethereum.org/content/guides/how-to-id-scam-tokens/uniswap-real.png",
+      "visited": 1753044669.9301507
+    },
+    "ca2bfa1bbfee9782e082c4dfaa0eabb5": {
+      "url": "https://ethereum.org/content/guides/how-to-id-scam-tokens/uniswap-scam.png",
+      "visited": 1753044672.3577106
+    },
+    "771931f79b951553caaf5552c020ccf7": {
+      "url": "https://ethereum.org/content/guides/how-to-id-scam-tokens/etherscan-scam.png",
+      "visited": 1753044674.8170645
+    },
+    "ce3dd6eea6fda6e3d8764955fee52068": {
+      "url": "https://ethereum.org/content/guides/how-to-use-a-bridge/bridge1.png",
+      "visited": 1753044677.4998343
+    },
+    "c6bb70cffe1279965b1e452e57c92f0a": {
+      "url": "https://ethereum.org/content/guides/how-to-use-a-bridge/bridge2.png",
+      "visited": 1753044679.8680742
+    },
+    "134a69f34999cbfc50ff977a0b0ac1bb": {
+      "url": "https://ethereum.org/content/guides/how-to-use-a-bridge/bridge3.png",
+      "visited": 1753044682.2899354
+    },
+    "28fc8eecd1e271bf40c8b6ecdcbd4fe3": {
+      "url": "https://ethereum.org/content/guides/how-to-swap-tokens/swap1.png",
+      "visited": 1753044684.7971396
+    },
+    "f3278b0bd37ce9df7e2547c1b177b400": {
+      "url": "https://ethereum.org/content/guides/how-to-swap-tokens/swap2.png",
+      "visited": 1753044687.152329
+    },
+    "134f44139589bf2db9bdeda084b0aefa": {
+      "url": "https://ethereum.org/content/guides/how-to-swap-tokens/swap3.png",
+      "visited": 1753044689.6417925
+    },
+    "10331457c9ec6a98f9cbe7b0c04dfb7c": {
+      "url": "https://ethereum.org/roadmap/",
+      "visited": 1753044692.073187
+    },
+    "56e08f506dbf22788af9c8e6e2255b44": {
+      "url": "https://ethereum.org/history/",
+      "visited": 1753044694.7812648
+    },
+    "a78614580f4ce46809086ddc7b36148c": {
+      "url": "https://ethereum.org/en/roadmap/pectra/7702/",
+      "visited": 1753044697.50176
+    },
+    "1fec5009a4c21cf71a32bbcc24ef8dbf": {
+      "url": "https://ethereum.org/en/roadmap/pectra/maxeb/",
+      "visited": 1753044700.061907
+    },
+    "618f827cd2b08078a3263cc0029ba255": {
+      "url": "https://ethereum.org/en/docs/data-availability/blockchain-data-storage-strategies/",
+      "visited": 1753044702.6153548
+    },
+    "006ab3b1438d79d7aabfa5ae7327b289": {
+      "url": "https://ethereum.org/en/roadmap/verkle-trees/",
+      "visited": 1753044705.0148642
+    },
+    "3a2e3bee8846b33084673c241c6c4bd4": {
+      "url": "https://ethereum.org/content/developers/docs/nodes-and-clients/run-a-node/diagram.png",
+      "visited": 1753044707.5355718
+    },
+    "882553a9e4b9545274cf9f65946fd901": {
+      "url": "https://ethereum.org/en/developers/tutorials/monitoring-geth-with-influxdb-and-grafana/",
+      "visited": 1753044709.9513097
+    },
+    "ea86700efa6d8d675be642f545a58e21": {
+      "url": "https://ethereum.org/content/developers/docs/nodes-and-clients/client-diversity/client-diversity.png",
+      "visited": 1753044712.510198
+    },
+    "66c34612d8204708a3ae7a59762ac785": {
+      "url": "https://ethereum.org/en/developers/tutorials/getting-started-with-ethereum-development-using-alchemy/",
+      "visited": 1753044715.20416
+    },
+    "a0964563096b7d2ce901a153e4a647cb": {
+      "url": "https://ethereum.org/content/developers/docs/nodes-and-clients/node-architecture/node-architecture-text-background.png",
+      "visited": 1753044717.7318509
+    },
+    "c746a8fba8f300dd85d5d5f11e7f3ae7": {
+      "url": "https://ethereum.org/content/developers/docs/consensus-mechanisms/pos/attestations/attestation_schematic.png",
+      "visited": 1753044720.4187624
+    },
+    "8bb6e41441eeb3952193df27c46c4242": {
+      "url": "https://ethereum.org/en/staking/deposit-contract/",
+      "visited": 1753044722.9079645
+    },
+    "c9d11a5ca5d9eefbb6c83abcf5fb9bbc": {
+      "url": "https://ethereum.org/content/developers/docs/consensus-mechanisms/pos/attack-and-defense/reorg-schematic.png",
+      "visited": 1753044725.6817408
+    },
+    "2530e56c297528f9ac0f607d99cbb4d1": {
+      "url": "https://ethereum.org/content/developers/docs/consensus-mechanisms/pos/keys/validator-key-schematic.png",
+      "visited": 1753044728.263939
+    },
+    "679a00023d80b530dda1e54252f7a0e4": {
+      "url": "https://ethereum.org/content/developers/docs/consensus-mechanisms/pos/keys/multiple-keys.png",
+      "visited": 1753044730.7200713
+    },
+    "d19b4b147b3a23f98ba886ba8420262c": {
+      "url": "https://ethereum.org/developers/docs/consensus-mechanisms/pos/",
+      "visited": 1753044733.1719606
+    },
+    "50fc64af9c88a09ec049d6447b0cd276": {
+      "url": "https://ethereum.org/staking/",
+      "visited": 1753044735.707745
+    },
+    "9742e3e398bd3e834225a8e41479fd8a": {
+      "url": "https://ethereum.org/roadmap/merge/",
+      "visited": 1753044738.5286133
+    },
+    "e194ea7b26be2f72d4cf13f2def27897": {
+      "url": "https://ethereum.org/en/developers/tutorials/downsizing-contracts-to-fight-the-contract-size-limit/",
+      "visited": 1753044741.1027732
+    },
+    "fa17dc217a7e08b86d271d0e294f67f7": {
+      "url": "https://ethereum.org/en/developers/tutorials/logging-events-smart-contracts/",
+      "visited": 1753044743.5907946
+    },
+    "3c76b04ec3bdf2baffb92b7d3b90442d": {
+      "url": "https://ethereum.org/en/developers/tutorials/interact-with-other-contracts-from-solidity/",
+      "visited": 1753044746.0979927
+    },
+    "46c58c885740affe0d50c578d86162eb": {
+      "url": "https://ethereum.org/en/developers/tutorials/understand-the-erc-20-token-smart-contract/",
+      "visited": 1753044748.704963
+    },
+    "1b927c4fdb68f443a089bd76815f1ee0": {
+      "url": "https://ethereum.org/en/developers/tutorials/guide-to-smart-contract-security-tools/",
+      "visited": 1753044751.3000085
+    },
+    "a75efd2b4b2fd8b3609187fc3dadb0a0": {
+      "url": "https://ethereum.org/en/developers/tutorials/how-to-use-echidna-to-test-smart-contracts/",
+      "visited": 1753044753.869247
+    },
+    "888397de94c26816b277684e60b47913": {
+      "url": "https://ethereum.org/en/developers/tutorials/how-to-mock-solidity-contracts-for-testing/",
+      "visited": 1753044756.5298584
+    },
+    "5827df15c1cc5a6f31876d41fcf02a0a": {
+      "url": "https://ethereum.org/en/developers/tutorials/deploying-your-first-smart-contract/",
+      "visited": 1753044759.0171862
+    },
+    "af11da52746a7a6a14f86d553ffeb39f": {
+      "url": "https://ethereum.org/en/developers/tutorials/hello-world-smart-contract/",
+      "visited": 1753044761.552872
+    },
+    "15059485e92e6a5d28699fca0a3b83b2": {
+      "url": "https://ethereum.org/content/developers/docs/smart-contracts/verifying/source-code-verification.png",
+      "visited": 1753044764.0140696
+    },
+    "4c3bf76523807d77f2b5db5176098ad8": {
+      "url": "https://ethereum.org/en/developers/tutorials/kickstart-your-dapp-frontend-development-with-create-eth-app/",
+      "visited": 1753044766.6731408
+    },
+    "33ecfb88e31a2b849a19086c23060bda": {
+      "url": "https://ethereum.org/en/developers/docs/standards/tokens/erc-223/",
+      "visited": 1753044769.2734284
+    },
+    "c92bdbefbc7135c25a62fe53fa187e27": {
+      "url": "https://ethereum.org/en/developers/docs/standards/tokens/erc-777/",
+      "visited": 1753044771.8684485
+    },
+    "3dc10f9bfe4be01dbe4a1c7fba054e3e": {
+      "url": "https://ethereum.org/en/developers/docs/standards/tokens/erc-4626/",
+      "visited": 1753044774.3916092
+    },
+    "2556a3b617ef501a9ec9b5f5404ce857": {
+      "url": "https://ethereum.org/en/developers/tutorials/transfers-and-approval-of-erc-20-tokens-from-a-solidity-smart-contract/",
+      "visited": 1753044776.9476252
+    },
+    "0f7ae398b183c3bf272b5eca9d5b914c": {
+      "url": "https://ethereum.org/en/developers/tutorials/how-to-implement-an-erc721-market/",
+      "visited": 1753044779.6269612
+    },
+    "144c60ce2ac21911c68d628ed86d1401": {
+      "url": "https://ethereum.org/content/developers/docs/mev/mev.png",
+      "visited": 1753044782.1848752
+    },
+    "0560b661683bf0ac0fbf7a461c340aa7": {
+      "url": "https://ethereum.org/en/developers/tutorials/merkle-proofs-for-offline-data-integrity/",
+      "visited": 1753044784.792988
+    },
+    "6aa074a6baac50aebd2afd5d93db2e89": {
+      "url": "https://ethereum.org/developers/docs/nodes-and-clients",
+      "visited": 1753044787.3637333
+    },
+    "0de3340d2066be9c71cc9c0545e86c69": {
+      "url": "https://ethereum.org/content/developers/docs/networking-layer/cons_client_net_layer.png",
+      "visited": 1753044789.9818861
+    },
+    "1cf975dd4fb5d79a5b229f26e44d2a0b": {
+      "url": "https://ethereum.org/content/developers/docs/networking-layer/exe_client_net_layer.png",
+      "visited": 1753044792.4878156
+    },
+    "d980f82a2563b74a20f47a0b5f2ca1e4": {
+      "url": "https://ethereum.org/content/developers/docs/networking-layer/portal-network/portal-network-devp2p-libp2p.png",
+      "visited": 1753044794.9952345
+    },
+    "48882c891a6152812601c93393c11d7e": {
+      "url": "https://ethereum.org/en/roadmap/verkle-trees",
+      "visited": 1753044797.8055873
+    },
+    "78b84c7c34011b56ecd59aee14a7dc88": {
+      "url": "https://ethereum.org/content/developers/docs/design-and-ux/heuristics-for-web3/Image1.png",
+      "visited": 1753044800.24609
+    },
+    "adeb77853cd4b25f5fa3482c24601d43": {
+      "url": "https://ethereum.org/content/developers/docs/design-and-ux/heuristics-for-web3/Image2.png",
+      "visited": 1753044802.6448264
+    },
+    "3201afee7c4bb2fd84748a1202f44da2": {
+      "url": "https://ethereum.org/content/developers/docs/design-and-ux/heuristics-for-web3/Image3.png",
+      "visited": 1753044804.9615688
+    },
+    "4673380766561c70a0481c4b16693911": {
+      "url": "https://ethereum.org/content/developers/docs/design-and-ux/heuristics-for-web3/Image4.png",
+      "visited": 1753044807.3069875
+    },
+    "52208823b3e2ac0f38c2164c710b7ccb": {
+      "url": "https://ethereum.org/content/developers/docs/design-and-ux/heuristics-for-web3/Image5.png",
+      "visited": 1753044809.6390157
+    },
+    "15f5a8573727c85e3f901d9c782d3358": {
+      "url": "https://ethereum.org/content/developers/docs/design-and-ux/heuristics-for-web3/Image6.png",
+      "visited": 1753044811.9967844
+    },
+    "2fa6de863c31b6f3147b97b9e3abbb79": {
+      "url": "https://ethereum.org/content/developers/docs/design-and-ux/heuristics-for-web3/Image7.png",
+      "visited": 1753044814.364592
+    },
+    "cc9d57ac9c484b07baf452b6065fb9ef": {
+      "url": "https://ethereum.org/content/developers/docs/design-and-ux/dex-design-best-practice/1.png",
+      "visited": 1753044816.770153
+    },
+    "030dbd7dd410134835cf30d2d8ffa461": {
+      "url": "https://ethereum.org/content/developers/docs/design-and-ux/dex-design-best-practice/2.png",
+      "visited": 1753044819.2164745
+    },
+    "37665c773070ae0aceb965c4a4e6fe78": {
+      "url": "https://ethereum.org/content/developers/docs/design-and-ux/dex-design-best-practice/3.png",
+      "visited": 1753044821.5392015
+    },
+    "1043d3d26f499e941696ec98c314c974": {
+      "url": "https://ethereum.org/content/developers/docs/design-and-ux/dex-design-best-practice/4.png",
+      "visited": 1753044823.8984349
+    },
+    "6f84efb97e8e915403caaa790955ee90": {
+      "url": "https://ethereum.org/content/developers/docs/design-and-ux/dex-design-best-practice/5.png",
+      "visited": 1753044826.3483925
+    },
+    "9f79e05e4727a6991725e67063247dde": {
+      "url": "https://ethereum.org/content/developers/docs/design-and-ux/dex-design-best-practice/6.png",
+      "visited": 1753044828.787878
+    },
+    "fc8c653138f40224e91cb67f6cbfb468": {
+      "url": "https://ethereum.org/content/developers/docs/design-and-ux/dex-design-best-practice/7.png",
+      "visited": 1753044831.1089046
+    },
+    "3149f799f1acde077bc4556552ad81bc": {
+      "url": "https://ethereum.org/content/developers/docs/design-and-ux/dex-design-best-practice/8.png",
+      "visited": 1753044833.5270114
+    },
+    "e204fde89f9966cf543ed18e5c38fb63": {
+      "url": "https://ethereum.org/content/developers/docs/design-and-ux/dex-design-best-practice/9.png",
+      "visited": 1753044835.8887057
+    },
+    "8ad428d9101415c63d16fcd6c8a9839b": {
+      "url": "https://ethereum.org/content/developers/docs/design-and-ux/dex-design-best-practice/10.png",
+      "visited": 1753044838.289921
+    },
+    "d69f7c292043dffbefc2aacb74a9d022": {
+      "url": "https://ethereum.org/content/developers/docs/design-and-ux/dex-design-best-practice/11.png",
+      "visited": 1753044840.7404716
+    },
+    "d17898e1d80d187ab4760c8321e32b65": {
+      "url": "https://ethereum.org/content/developers/docs/design-and-ux/dex-design-best-practice/12.png",
+      "visited": 1753044843.1143794
+    },
+    "3f5ac0bb2684d3c664b380e6ebbae8cd": {
+      "url": "https://ethereum.org/content/developers/docs/design-and-ux/dex-design-best-practice/13.png",
+      "visited": 1753044845.498875
+    },
+    "d10825d7e1f091e02afd32e1744310ca": {
+      "url": "https://ethereum.org/content/developers/docs/design-and-ux/dex-design-best-practice/14.png",
+      "visited": 1753044847.8841703
+    },
+    "e170646b6390d8082cc4bf007e8f5e99": {
+      "url": "https://ethereum.org/content/developers/docs/design-and-ux/dex-design-best-practice/15.png",
+      "visited": 1753044850.2567666
+    },
+    "21034360ce33072ae611c94c65d02e3b": {
+      "url": "https://ethereum.org/content/developers/docs/design-and-ux/dex-design-best-practice/16.png",
+      "visited": 1753044852.7089539
+    },
+    "2897992e7abe8b815e859948659a64aa": {
+      "url": "https://ethereum.org/content/developers/docs/design-and-ux/dex-design-best-practice/17.png",
+      "visited": 1753044855.1312299
+    },
+    "99eacc29012912e0b920becd2bbd6885": {
+      "url": "https://ethereum.org/en/contributing/style-guide/content-standardization/",
+      "visited": 1753044857.5513592
+    },
+    "428308ab99118e335a69044d04dd442d": {
+      "url": "https://ethereum.org/content/developers/tutorials/a-developers-guide-to-ethereum-part-one/blockchain-diagram.png",
+      "visited": 1753044860.0097055
+    },
+    "14d6af4761e61e6ee091ac6a9661a304": {
+      "url": "https://ethereum.org/content/developers/tutorials/a-developers-guide-to-ethereum-part-one/web3py-and-nodes.png",
+      "visited": 1753044862.4780874
+    },
+    "5957d9e67e235bb45fc639dbf0d8718b": {
+      "url": "https://ethereum.org/content/developers/tutorials/a-developers-guide-to-ethereum-part-one/ethereumtesterprovider.png",
+      "visited": 1753044865.2058067
+    },
+    "62bb7138ad638b01a2b14ea3bd118466": {
+      "url": "https://ethereum.org/content/contributing/translation-program/how-to-translate/list-of-languages.png",
+      "visited": 1753044867.6339474
+    },
+    "ed5c466d0e642032bfb54ffdc1c15cce": {
+      "url": "https://ethereum.org/content/contributing/translation-program/how-to-translate/crowdin-files.png",
+      "visited": 1753044870.9215212
+    },
+    "ccb330f3f1b93a68eec4d7165b36b136": {
+      "url": "https://ethereum.org/content/contributing/translation-program/how-to-translate/online-editor.png",
+      "visited": 1753044873.7916157
+    },
+    "bd92799455d356c0f8509e40332be5da": {
+      "url": "https://ethereum.org/content/contributing/translation-program/translators-guide/article-titles-in-sidebar.png",
+      "visited": 1753044876.4516206
+    },
+    "34abff0236af6033f6db25d5ff9ab386": {
+      "url": "https://ethereum.org/content/contributing/translation-program/translators-guide/article-titles-in-editor.png",
+      "visited": 1753044878.9225326
+    },
+    "a07468c6a1f0ef0cb8c5eeeead509104": {
+      "url": "https://ethereum.org/content/contributing/translation-program/translators-guide/crowdin-warning-example.png",
+      "visited": 1753044881.3725445
+    },
+    "b82873b9be8e6538139e9314191a5190": {
+      "url": "https://ethereum.org/content/contributing/translation-program/translators-guide/editor-settings.png",
+      "visited": 1753044884.1526365
+    },
+    "961b8afad339870c236ce2000e0a9a33": {
+      "url": "https://ethereum.org/content/contributing/translation-program/translators-guide/hide-tags.png",
+      "visited": 1753044886.6267867
+    },
+    "dd7c30fb24fc5371ed4a59f27e63d6ec": {
+      "url": "https://ethereum.org/content/contributing/translation-program/translators-guide/example-of-link.png",
+      "visited": 1753044889.368198
+    },
+    "09e3dfbd401d1ef1ccfabd4123cdde2b": {
+      "url": "https://ethereum.org/content/contributing/translation-program/translators-guide/example-of-links-inside-tags.png",
+      "visited": 1753044891.7790325
+    },
+    "6e5b66e15648b0e488c70257fdbcc3ae": {
+      "url": "https://ethereum.org/content/contributing/translation-program/translators-guide/example-of-strong-tags.png",
+      "visited": 1753044894.16938
+    },
+    "95ea7ff64bc4704656b56227199f02dd": {
+      "url": "https://ethereum.org/content/contributing/translation-program/translators-guide/example-of-code-snippets.png",
+      "visited": 1753044896.5440545
+    },
+    "328f0d8493ef071452a1c36209684c38": {
+      "url": "https://ethereum.org/content/contributing/translation-program/translators-guide/example-of-ambiguous-tags.png",
+      "visited": 1753044898.9273963
+    },
+    "d8b3bfe4d990ff4694cd93dcb9a0fcae": {
+      "url": "https://ethereum.org/content/contributing/translation-program/translators-guide/how-to-find-a-button.png",
+      "visited": 1753044901.413133
+    },
+    "28107f3876579e6e8ae5baf42c9a67c8": {
+      "url": "https://ethereum.org/content/contributing/translation-program/faq/html-tag-strings.png",
+      "visited": 1753044903.8175693
+    },
+    "04c5227eba38ad71dfdfaa8d53c987be": {
+      "url": "https://ethereum.org/content/contributing/translation-program/faq/source-string.png",
+      "visited": 1753044906.147256
+    },
+    "3a2aa3112028cd0f87b85b1f3441f325": {
+      "url": "https://ethereum.org/content/contributing/translation-program/faq/source-string-2.png",
+      "visited": 1753044908.6283338
+    },
+    "e32c8caaa672e028644c796383cc1e63": {
+      "url": "https://ethereum.org/content/contributing/translation-program/faq/comment-issue.png",
+      "visited": 1753044911.2888596
+    },
+    "43a7aabc6556b8fa2dc7273f1cddff06": {
+      "url": "http://ethereum.org/",
+      "visited": 1753044913.9690764
+    },
+    "894903a165659ac2f03129f79b3c81de": {
+      "url": "https://ethereum.org/content/contributing/translation-program/faq/translation-memory.png",
+      "visited": 1753044916.7539961
+    },
+    "1e775eaa31aa44a699ec3d4e7a752e52": {
+      "url": "https://ethereum.org/content/contributing/translation-program/faq/glossary-definition.png",
+      "visited": 1753044919.328249
+    },
+    "f5eaa8d3e07283f72e7e6c80f1390bd1": {
+      "url": "https://ethereum.org/content/contributing/translation-program/faq/glossary-tab.png",
+      "visited": 1753044921.746187
+    },
+    "41821373dcf427da1837581d3bb6ec54": {
+      "url": "https://ethereum.org/content/contributing/translation-program/faq/add-glossary-term.png",
+      "visited": 1753044924.2013881
+    },
+    "c2c528e335b0109d03ff3e02ca778d27": {
+      "url": "https://ethereum.org/en/dvt/",
+      "visited": 1753044926.6853974
+    },
+    "0122d89fc9b2bb8e32f4afa8e08ccc15": {
+      "url": "https://ethereum.org/en/zero-knowledge-proofs/",
+      "visited": 1753044929.1530719
+    },
+    "da2719c3d37dd67b2e70e9b8e34234a1": {
+      "url": "https://ethereum.org/en/community/language-resources/",
+      "visited": 1753044931.6615484
+    },
+    "2787bab1784791802c46dbc933af46b1": {
+      "url": "https://ethereum.org/en/contributing/translation-program/translation-guide/",
+      "visited": 1753044934.2406654
+    },
+    "3035071efae518ccfa094738ea18fcf9": {
+      "url": "https://ethereum.org/en/developers/tutorials/how-to-write-and-deploy-an-nft/",
+      "visited": 1753044936.8253026
+    },
+    "2cb654aac49ec52c135a3d33f48d43e4": {
+      "url": "https://ethereum.org/en/developers/tutorials/how-to-mint-an-nft/",
+      "visited": 1753044939.4347048
+    },
+    "53af0c1cd1349b4e192ac7c7cee7b4f8": {
+      "url": "https://ethereum.org/en/developers/tutorials/how-to-view-nft-in-metamask/",
+      "visited": 1753044942.1160436
+    },
+    "9b3ac994718c330dfe8a111960985543": {
+      "url": "https://ethereum.org/en/developers/tutorials/uniswap-v2-annotated-code/",
+      "visited": 1753044944.677268
+    },
+    "37cbe9f16ca46d1634e224686d9a8aed": {
+      "url": "https://ethereum.org/en/developers/tutorials/nft-minter/",
+      "visited": 1753044947.6568136
+    },
+    "3161d94d84e5c3c87adfa2dd40993ead": {
+      "url": "https://ethereum.org/en/developers/tutorials/reverse-engineering-a-contract/",
+      "visited": 1753044950.43036
+    },
+    "6573ecbfc90fe52c342f221e52c60d32": {
+      "url": "https://ethereum.org/en/developers/tutorials/send-token-ethersjs/",
+      "visited": 1753044953.0937302
+    },
+    "8bda0a9d3ed186fe3d396c7ec41d100c": {
+      "url": "https://ethereum.org/en/developers/tutorials/yellow-paper-evm/",
+      "visited": 1753044955.6242428
+    },
+    "ee29ae0bb49c4810298ad825540e55fa": {
+      "url": "https://ethereum.org/en/developers/tutorials/all-you-can-cache/",
+      "visited": 1753044958.1782835
+    },
+    "b352f8644b9bceffd3a1809ef7bcd3d8": {
+      "url": "https://ethereum.org/en/developers/tutorials/eip-1271-smart-contract-signatures/",
+      "visited": 1753044961.0522275
+    },
+    "cdb5719b881cc416670a78ce19f5a341": {
+      "url": "https://ethereum.org/en/developers/tutorials/erc20-annotated-code/",
+      "visited": 1753044963.5685692
+    },
+    "75ed46d584140e4fa7d1da496d32d9cf": {
+      "url": "https://ethereum.org/en/developers/tutorials/erc20-with-safety-rails/",
+      "visited": 1753044966.2230961
+    },
+    "24d5b83f51d6824050ac1a658e574b40": {
+      "url": "https://ethereum.org/en/developers/tutorials/waffle-test-simple-smart-contract/",
+      "visited": 1753044968.7569838
+    },
+    "0de9eaae587decd98c1737919eddff65": {
+      "url": "https://ethereum.org/en/developers/tutorials/erc-721-vyper-annotated-code/",
+      "visited": 1753044971.4288638
+    },
+    "bf28d896ef0ef7ba248e44517f08a6e0": {
+      "url": "https://ethereum.org/en/developers/tutorials/create-and-deploy-a-defi-app/",
+      "visited": 1753044974.1103904
+    },
+    "0edc0d5e2ca10172eae39276e877e7a4": {
+      "url": "https://ethereum.org/en/developers/tutorials/how-to-use-tellor-as-your-oracle/",
+      "visited": 1753044976.5195181
+    },
+    "c6ab85bf76bed07698c28aae8f5f36de": {
+      "url": "https://ethereum.org/en/developers/tutorials/learn-foundational-ethereum-topics-with-sql/",
+      "visited": 1753044979.0322902
+    },
+    "0c27c8a2bc11fc1a5399eb52ab947a2b": {
+      "url": "https://ethereum.org/en/developers/tutorials/optimism-std-bridge-annotated-code/",
+      "visited": 1753044981.5716782
+    },
+    "56b398db10cfba88ce32e1748d86879d": {
+      "url": "https://ethereum.org/en/developers/tutorials/short-abi/",
+      "visited": 1753044984.3950326
+    },
+    "95fe2b3167cf4f79bc34eec686d5c5b6": {
+      "url": "https://ethereum.org/en/developers/tutorials/testing-erc-20-tokens-with-waffle/",
+      "visited": 1753044987.0367155
+    },
+    "b2cf88693a74e8e67a5c8cdad589c19b": {
+      "url": "https://ethereum.org/en/developers/tutorials/using-websockets/",
+      "visited": 1753044990.0430746
+    }
+  },
+  "domains_last_visit": {
+    "ethereum.org": 1753044990.0430746
+  }
+}

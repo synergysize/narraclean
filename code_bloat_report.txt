@@ -1,0 +1,40 @@
+artifact_extractor.py: 740 lines, 8 imports, 11 functions, 0 classes  << BLOAT FLAGGED
+ccu_cleanup.py: 74 lines, 3 imports, 0 functions, 0 classes
+config_loader.py: 181 lines, 4 imports, 4 functions, 0 classes
+crawl.py: 116 lines, 5 imports, 2 functions, 0 classes
+crawler.py: 378 lines, 12 imports, 8 functions, 1 classes
+detective_agent.py: 2851 lines, 25 imports, 48 functions, 1 classes  << BLOAT FLAGGED
+enhanced_artifact_detector.py: 283 lines, 7 imports, 7 functions, 1 classes
+enhanced_integration.py: 157 lines, 9 imports, 2 functions, 1 classes
+enhanced_logging_detective.py: 176 lines, 9 imports, 3 functions, 0 classes
+fetch.py: 125 lines, 5 imports, 2 functions, 0 classes
+fix_recommendation.py: 55 lines, 0 imports, 0 functions, 0 classes
+integrated_main.py: 730 lines, 19 imports, 11 functions, 1 classes  << BLOAT FLAGGED
+llm_failover.py: 55 lines, 2 imports, 2 functions, 0 classes
+llm_fix_demo.py: 205 lines, 4 imports, 3 functions, 0 classes
+llm_integration.py: 630 lines, 9 imports, 9 functions, 1 classes  << BLOAT FLAGGED
+llm_research_strategy.py: 302 lines, 13 imports, 5 functions, 1 classes
+main.py: 222 lines, 12 imports, 4 functions, 0 classes
+main_integration.py: 216 lines, 11 imports, 2 functions, 1 classes
+name_artifact_extractor.py: 1114 lines, 6 imports, 8 functions, 1 classes  << BLOAT FLAGGED
+narrative_matrix.py: 380 lines, 8 imports, 11 functions, 1 classes
+objectives_manager.py: 386 lines, 9 imports, 9 functions, 1 classes
+research_strategy.py: 316 lines, 4 imports, 13 functions, 1 classes
+run_autonomous.py: 82 lines, 6 imports, 2 functions, 0 classes
+run_real_objective.py: 208 lines, 12 imports, 2 functions, 0 classes
+run_validation.py: 121 lines, 8 imports, 1 functions, 0 classes
+test_detective.py: 58 lines, 3 imports, 1 functions, 0 classes
+test_detective_logic.py: 83 lines, 3 imports, 3 functions, 1 classes
+test_detective_modified.py: 40 lines, 2 imports, 1 functions, 0 classes
+test_error_handling.py: 62 lines, 5 imports, 3 functions, 0 classes
+test_file_safety.py: 202 lines, 8 imports, 2 functions, 0 classes
+test_focused_strategy.py: 284 lines, 8 imports, 10 functions, 2 classes
+test_gemini.py: 57 lines, 2 imports, 2 functions, 0 classes
+test_github_investigation.py: 77 lines, 4 imports, 1 functions, 0 classes
+test_llm.py: 178 lines, 4 imports, 1 functions, 0 classes
+test_logging.py: 128 lines, 5 imports, 2 functions, 0 classes
+test_paths.py: 40 lines, 5 imports, 1 functions, 0 classes
+url_queue.py: 256 lines, 8 imports, 11 functions, 1 classes
+validate_changes.py: 53 lines, 2 imports, 2 functions, 0 classes
+verify_api_keys.py: 171 lines, 8 imports, 3 functions, 0 classes
+wayback_integration.py: 371 lines, 9 imports, 8 functions, 1 classes

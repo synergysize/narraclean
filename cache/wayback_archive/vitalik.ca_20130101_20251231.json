@@ -1,0 +1,802 @@
+[
+  {
+    "original": "http://vitalik.ca:80/",
+    "timestamp": "20140113092922",
+    "digest": "PXSQ3PQPTCC3WENVUGFQE3YHIFLJUC2B",
+    "mimetype": "text/html",
+    "statuscode": "200",
+    "wayback_url": "https://web.archive.org/web/20140113092922/http://vitalik.ca:80/"
+  },
+  {
+    "original": "http://vitalik.ca:80/",
+    "timestamp": "20150101233414",
+    "digest": "PXSQ3PQPTCC3WENVUGFQE3YHIFLJUC2B",
+    "mimetype": "text/html",
+    "statuscode": "200",
+    "wayback_url": "https://web.archive.org/web/20150101233414/http://vitalik.ca:80/"
+  },
+  {
+    "original": "http://vitalik.ca/",
+    "timestamp": "20160113001646",
+    "digest": "PXSQ3PQPTCC3WENVUGFQE3YHIFLJUC2B",
+    "mimetype": "text/html",
+    "statuscode": "200",
+    "wayback_url": "https://web.archive.org/web/20160113001646/http://vitalik.ca/"
+  },
+  {
+    "original": "http://vitalik.ca/",
+    "timestamp": "20170516013959",
+    "digest": "MLN6QA4T7DCPT5S275JP5HPH3F3UN43P",
+    "mimetype": "text/html",
+    "statuscode": "200",
+    "wayback_url": "https://web.archive.org/web/20170516013959/http://vitalik.ca/"
+  },
+  {
+    "original": "http://vitalik.ca:80/",
+    "timestamp": "20180103172424",
+    "digest": "LLOG2Q6NQTZMKSXXB5BFHR5TSWAO3JYV",
+    "mimetype": "text/html",
+    "statuscode": "200",
+    "wayback_url": "https://web.archive.org/web/20180103172424/http://vitalik.ca:80/"
+  },
+  {
+    "original": "https://vitalik.ca/",
+    "timestamp": "20190105071850",
+    "digest": "US3R6LDKC6IB3LR56XBQWJ4JYVNJYLWI",
+    "mimetype": "warc/revisit",
+    "statuscode": "-",
+    "wayback_url": "https://web.archive.org/web/20190105071850/https://vitalik.ca/"
+  },
+  {
+    "original": "https://vitalik.ca/",
+    "timestamp": "20200108135835",
+    "digest": "MOWVGROUIYGVA6NU3YQJ2CXAIW6TXNNK",
+    "mimetype": "text/html",
+    "statuscode": "200",
+    "wayback_url": "https://web.archive.org/web/20200108135835/https://vitalik.ca/"
+  },
+  {
+    "original": "https://vitalik.ca/",
+    "timestamp": "20210101145501",
+    "digest": "53DS2OQKB2RT5JOMTH6LBDOPEYRAA3Q7",
+    "mimetype": "text/html",
+    "statuscode": "200",
+    "wayback_url": "https://web.archive.org/web/20210101145501/https://vitalik.ca/"
+  },
+  {
+    "original": "https://vitalik.ca/",
+    "timestamp": "20220111022732",
+    "digest": "5VFHZJ6XFZL5KAW3EDJ3ZRNL5IEB5VZM",
+    "mimetype": "warc/revisit",
+    "statuscode": "-",
+    "wayback_url": "https://web.archive.org/web/20220111022732/https://vitalik.ca/"
+  },
+  {
+    "original": "https://vitalik.ca/",
+    "timestamp": "20230102080122",
+    "digest": "C5H3GNJG6ACQ7LLZU5TMBALXSGQCMAAS",
+    "mimetype": "text/html",
+    "statuscode": "200",
+    "wayback_url": "https://web.archive.org/web/20230102080122/https://vitalik.ca/"
+  },
+  {
+    "original": "https://vitalik.ca/%22",
+    "timestamp": "20220110223619",
+    "digest": "P3W3GLXILMKYFORI2KCHDNLIPJRAKUSG",
+    "mimetype": "text/html",
+    "statuscode": "404",
+    "wayback_url": "https://web.archive.org/web/20220110223619/https://vitalik.ca/%22"
+  },
+  {
+    "original": "https://vitalik.ca/%20scroll%20down%20a%20bit",
+    "timestamp": "20211016214208",
+    "digest": "P3W3GLXILMKYFORI2KCHDNLIPJRAKUSG",
+    "mimetype": "text/html",
+    "statuscode": "404",
+    "wayback_url": "https://web.archive.org/web/20211016214208/https://vitalik.ca/%20scroll%20down%20a%20bit"
+  },
+  {
+    "original": "http://vitalik.ca/%EF%AC%81les/",
+    "timestamp": "20220121034650",
+    "digest": "WHT3EXKF6XVIKYVG67BXESI75TWESKWU",
+    "mimetype": "text/html",
+    "statuscode": "301",
+    "wayback_url": "https://web.archive.org/web/20220121034650/http://vitalik.ca/%EF%AC%81les/"
+  },
+  {
+    "original": "https://vitalik.ca/-.054em",
+    "timestamp": "20200507170152",
+    "digest": "P3W3GLXILMKYFORI2KCHDNLIPJRAKUSG",
+    "mimetype": "text/html",
+    "statuscode": "404",
+    "wayback_url": "https://web.archive.org/web/20200507170152/https://vitalik.ca/-.054em"
+  },
+  {
+    "original": "https://vitalik.ca/-.054em",
+    "timestamp": "20210101151353",
+    "digest": "P3W3GLXILMKYFORI2KCHDNLIPJRAKUSG",
+    "mimetype": "warc/revisit",
+    "statuscode": "-",
+    "wayback_url": "https://web.archive.org/web/20210101151353/https://vitalik.ca/-.054em"
+  },
+  {
+    "original": "https://vitalik.ca/-.1em",
+    "timestamp": "20200507170145",
+    "digest": "P3W3GLXILMKYFORI2KCHDNLIPJRAKUSG",
+    "mimetype": "text/html",
+    "statuscode": "404",
+    "wayback_url": "https://web.archive.org/web/20200507170145/https://vitalik.ca/-.1em"
+  },
+  {
+    "original": "https://vitalik.ca/-.1em",
+    "timestamp": "20210101151351",
+    "digest": "P3W3GLXILMKYFORI2KCHDNLIPJRAKUSG",
+    "mimetype": "warc/revisit",
+    "statuscode": "-",
+    "wayback_url": "https://web.archive.org/web/20210101151351/https://vitalik.ca/-.1em"
+  },
+  {
+    "original": "https://vitalik.ca/-.217em",
+    "timestamp": "20200507170159",
+    "digest": "P3W3GLXILMKYFORI2KCHDNLIPJRAKUSG",
+    "mimetype": "text/html",
+    "statuscode": "404",
+    "wayback_url": "https://web.archive.org/web/20200507170159/https://vitalik.ca/-.217em"
+  },
+  {
+    "original": "https://vitalik.ca/-.217em",
+    "timestamp": "20210101151354",
+    "digest": "P3W3GLXILMKYFORI2KCHDNLIPJRAKUSG",
+    "mimetype": "warc/revisit",
+    "statuscode": "-",
+    "wayback_url": "https://web.archive.org/web/20210101151354/https://vitalik.ca/-.217em"
+  },
+  {
+    "original": "https://vitalik.ca/-.24em",
+    "timestamp": "20200507170138",
+    "digest": "P3W3GLXILMKYFORI2KCHDNLIPJRAKUSG",
+    "mimetype": "text/html",
+    "statuscode": "404",
+    "wayback_url": "https://web.archive.org/web/20200507170138/https://vitalik.ca/-.24em"
+  },
+  {
+    "original": "https://vitalik.ca/-.24em",
+    "timestamp": "20210101151345",
+    "digest": "P3W3GLXILMKYFORI2KCHDNLIPJRAKUSG",
+    "mimetype": "warc/revisit",
+    "statuscode": "-",
+    "wayback_url": "https://web.archive.org/web/20210101151345/https://vitalik.ca/-.24em"
+  },
+  {
+    "original": "https://vitalik.ca/-.25em",
+    "timestamp": "20200507170226",
+    "digest": "P3W3GLXILMKYFORI2KCHDNLIPJRAKUSG",
+    "mimetype": "text/html",
+    "statuscode": "404",
+    "wayback_url": "https://web.archive.org/web/20200507170226/https://vitalik.ca/-.25em"
+  },
+  {
+    "original": "https://vitalik.ca/-.25em",
+    "timestamp": "20210101151358",
+    "digest": "P3W3GLXILMKYFORI2KCHDNLIPJRAKUSG",
+    "mimetype": "warc/revisit",
+    "statuscode": "-",
+    "wayback_url": "https://web.archive.org/web/20210101151358/https://vitalik.ca/-.25em"
+  },
+  {
+    "original": "https://vitalik.ca/-.3em",
+    "timestamp": "20200507170114",
+    "digest": "P3W3GLXILMKYFORI2KCHDNLIPJRAKUSG",
+    "mimetype": "text/html",
+    "statuscode": "404",
+    "wayback_url": "https://web.archive.org/web/20200507170114/https://vitalik.ca/-.3em"
+  },
+  {
+    "original": "https://vitalik.ca/-.3em",
+    "timestamp": "20210101151346",
+    "digest": "P3W3GLXILMKYFORI2KCHDNLIPJRAKUSG",
+    "mimetype": "warc/revisit",
+    "statuscode": "-",
+    "wayback_url": "https://web.archive.org/web/20210101151346/https://vitalik.ca/-.3em"
+  },
+  {
+    "original": "https://vitalik.ca/-.5ex",
+    "timestamp": "20200507170221",
+    "digest": "P3W3GLXILMKYFORI2KCHDNLIPJRAKUSG",
+    "mimetype": "text/html",
+    "statuscode": "404",
+    "wayback_url": "https://web.archive.org/web/20200507170221/https://vitalik.ca/-.5ex"
+  },
+  {
+    "original": "https://vitalik.ca/-.5ex",
+    "timestamp": "20210101151357",
+    "digest": "P3W3GLXILMKYFORI2KCHDNLIPJRAKUSG",
+    "mimetype": "warc/revisit",
+    "statuscode": "-",
+    "wayback_url": "https://web.archive.org/web/20210101151357/https://vitalik.ca/-.5ex"
+  },
+  {
+    "original": "https://vitalik.ca/.[33",
+    "timestamp": "20220708102329",
+    "digest": "P3W3GLXILMKYFORI2KCHDNLIPJRAKUSG",
+    "mimetype": "text/html",
+    "statuscode": "404",
+    "wayback_url": "https://web.archive.org/web/20220708102329/https://vitalik.ca/.[33"
+  },
+  {
+    "original": "https://vitalik.ca/.well-known/ai-plugin.json",
+    "timestamp": "20230601193359",
+    "digest": "P3W3GLXILMKYFORI2KCHDNLIPJRAKUSG",
+    "mimetype": "text/html",
+    "statuscode": "404",
+    "wayback_url": "https://web.archive.org/web/20230601193359/https://vitalik.ca/.well-known/ai-plugin.json"
+  },
+  {
+    "original": "https://vitalik.ca/0.17em",
+    "timestamp": "20200507170148",
+    "digest": "P3W3GLXILMKYFORI2KCHDNLIPJRAKUSG",
+    "mimetype": "text/html",
+    "statuscode": "404",
+    "wayback_url": "https://web.archive.org/web/20200507170148/https://vitalik.ca/0.17em"
+  },
+  {
+    "original": "https://vitalik.ca/0.17em",
+    "timestamp": "20210101151352",
+    "digest": "P3W3GLXILMKYFORI2KCHDNLIPJRAKUSG",
+    "mimetype": "warc/revisit",
+    "statuscode": "-",
+    "wayback_url": "https://web.archive.org/web/20210101151352/https://vitalik.ca/0.17em"
+  },
+  {
+    "original": "https://vitalik.ca/0.1em",
+    "timestamp": "20200507170243",
+    "digest": "P3W3GLXILMKYFORI2KCHDNLIPJRAKUSG",
+    "mimetype": "text/html",
+    "statuscode": "404",
+    "wayback_url": "https://web.archive.org/web/20200507170243/https://vitalik.ca/0.1em"
+  },
+  {
+    "original": "https://vitalik.ca/0.1em",
+    "timestamp": "20210101151402",
+    "digest": "P3W3GLXILMKYFORI2KCHDNLIPJRAKUSG",
+    "mimetype": "warc/revisit",
+    "statuscode": "-",
+    "wayback_url": "https://web.archive.org/web/20210101151402/https://vitalik.ca/0.1em"
+  },
+  {
+    "original": "https://vitalik.ca/0.215em",
+    "timestamp": "20200507170218",
+    "digest": "P3W3GLXILMKYFORI2KCHDNLIPJRAKUSG",
+    "mimetype": "text/html",
+    "statuscode": "404",
+    "wayback_url": "https://web.archive.org/web/20200507170218/https://vitalik.ca/0.215em"
+  },
+  {
+    "original": "https://vitalik.ca/0.215em",
+    "timestamp": "20210101151356",
+    "digest": "P3W3GLXILMKYFORI2KCHDNLIPJRAKUSG",
+    "mimetype": "warc/revisit",
+    "statuscode": "-",
+    "wayback_url": "https://web.archive.org/web/20210101151356/https://vitalik.ca/0.215em"
+  },
+  {
+    "original": "https://vitalik.ca/0.4em",
+    "timestamp": "20200507170208",
+    "digest": "P3W3GLXILMKYFORI2KCHDNLIPJRAKUSG",
+    "mimetype": "text/html",
+    "statuscode": "404",
+    "wayback_url": "https://web.archive.org/web/20200507170208/https://vitalik.ca/0.4em"
+  },
+  {
+    "original": "https://vitalik.ca/0.4em",
+    "timestamp": "20210101151355",
+    "digest": "P3W3GLXILMKYFORI2KCHDNLIPJRAKUSG",
+    "mimetype": "warc/revisit",
+    "statuscode": "-",
+    "wayback_url": "https://web.archive.org/web/20210101151355/https://vitalik.ca/0.4em"
+  },
+  {
+    "original": "https://vitalik.ca/0.8em",
+    "timestamp": "20200507170059",
+    "digest": "P3W3GLXILMKYFORI2KCHDNLIPJRAKUSG",
+    "mimetype": "text/html",
+    "statuscode": "404",
+    "wayback_url": "https://web.archive.org/web/20200507170059/https://vitalik.ca/0.8em"
+  },
+  {
+    "original": "https://vitalik.ca/0.8em",
+    "timestamp": "20210101151342",
+    "digest": "P3W3GLXILMKYFORI2KCHDNLIPJRAKUSG",
+    "mimetype": "warc/revisit",
+    "statuscode": "-",
+    "wayback_url": "https://web.archive.org/web/20210101151342/https://vitalik.ca/0.8em"
+  },
+  {
+    "original": "http://vitalik.ca:80/2017-09-15-prehistory.html",
+    "timestamp": "20170922095612",
+    "digest": "D4E4MTE5TJQKK7Q4X4K2MY2GH2OF4X3E",
+    "mimetype": "text/html",
+    "statuscode": "200",
+    "wayback_url": "https://web.archive.org/web/20170922095612/http://vitalik.ca:80/2017-09-15-prehistory.html"
+  },
+  {
+    "original": "http://vitalik.ca:80/2017-09-15-prehistory.html",
+    "timestamp": "20180115130018",
+    "digest": "D4E4MTE5TJQKK7Q4X4K2MY2GH2OF4X3E",
+    "mimetype": "text/html",
+    "statuscode": "200",
+    "wayback_url": "https://web.archive.org/web/20180115130018/http://vitalik.ca:80/2017-09-15-prehistory.html"
+  },
+  {
+    "original": "http://vitalik.ca/2017-09-15-prehistory.html",
+    "timestamp": "20190112220927",
+    "digest": "WHT3EXKF6XVIKYVG67BXESI75TWESKWU",
+    "mimetype": "text/html",
+    "statuscode": "301",
+    "wayback_url": "https://web.archive.org/web/20190112220927/http://vitalik.ca/2017-09-15-prehistory.html"
+  },
+  {
+    "original": "https://vitalik.ca/2017-09-15-prehistory.html",
+    "timestamp": "20200327035411",
+    "digest": "P3W3GLXILMKYFORI2KCHDNLIPJRAKUSG",
+    "mimetype": "text/html",
+    "statuscode": "404",
+    "wayback_url": "https://web.archive.org/web/20200327035411/https://vitalik.ca/2017-09-15-prehistory.html"
+  },
+  {
+    "original": "https://vitalik.ca/2017-09-15-prehistory.html",
+    "timestamp": "20211220101742",
+    "digest": "JFKAH5NLVFXQURCRVU4HDYAESFJ7RTMK",
+    "mimetype": "text/html",
+    "statuscode": "404",
+    "wayback_url": "https://web.archive.org/web/20211220101742/https://vitalik.ca/2017-09-15-prehistory.html"
+  },
+  {
+    "original": "https://vitalik.ca/2017-09-15-prehistory.html",
+    "timestamp": "20220316090136",
+    "digest": "P3W3GLXILMKYFORI2KCHDNLIPJRAKUSG",
+    "mimetype": "text/html",
+    "statuscode": "404",
+    "wayback_url": "https://web.archive.org/web/20220316090136/https://vitalik.ca/2017-09-15-prehistory.html"
+  },
+  {
+    "original": "https://vitalik.ca/2017-09-15-prehistory.html",
+    "timestamp": "20230621031116",
+    "digest": "P3W3GLXILMKYFORI2KCHDNLIPJRAKUSG",
+    "mimetype": "text/html",
+    "statuscode": "404",
+    "wayback_url": "https://web.archive.org/web/20230621031116/https://vitalik.ca/2017-09-15-prehistory.html"
+  },
+  {
+    "original": "https://vitalik.ca/8.6pt",
+    "timestamp": "20200507170110",
+    "digest": "P3W3GLXILMKYFORI2KCHDNLIPJRAKUSG",
+    "mimetype": "text/html",
+    "statuscode": "404",
+    "wayback_url": "https://web.archive.org/web/20200507170110/https://vitalik.ca/8.6pt"
+  },
+  {
+    "original": "https://vitalik.ca/8.6pt",
+    "timestamp": "20210101151343",
+    "digest": "P3W3GLXILMKYFORI2KCHDNLIPJRAKUSG",
+    "mimetype": "warc/revisit",
+    "statuscode": "-",
+    "wayback_url": "https://web.archive.org/web/20210101151343/https://vitalik.ca/8.6pt"
+  },
+  {
+    "original": "https://vitalik.ca/?ref=andrei-stoica",
+    "timestamp": "20230402015310",
+    "digest": "7HL3YPF3KLHNGOX2VRQAHO5B476EZETC",
+    "mimetype": "text/html",
+    "statuscode": "200",
+    "wayback_url": "https://web.archive.org/web/20230402015310/https://vitalik.ca/?ref=andrei-stoica"
+  },
+  {
+    "original": "https://vitalik.ca/?ref=block123",
+    "timestamp": "20210116175101",
+    "digest": "US6IGSFFVSUDZO5XHZRNFOUMNZXSL2MT",
+    "mimetype": "text/html",
+    "statuscode": "200",
+    "wayback_url": "https://web.archive.org/web/20210116175101/https://vitalik.ca/?ref=block123"
+  },
+  {
+    "original": "https://vitalik.ca/?ref=blog.pantherprotocol.io",
+    "timestamp": "20230923170748",
+    "digest": "C5FAQMUK4JWMJYXZ4ZE27GRENF7G36QP",
+    "mimetype": "text/html",
+    "statuscode": "200",
+    "wayback_url": "https://web.archive.org/web/20230923170748/https://vitalik.ca/?ref=blog.pantherprotocol.io"
+  },
+  {
+    "original": "https://vitalik.ca/?ref=hackernoon.com",
+    "timestamp": "20220526111816",
+    "digest": "23B4R62OZV3B2FHX3PZBR3O7LIAECT53",
+    "mimetype": "text/html",
+    "statuscode": "200",
+    "wayback_url": "https://web.archive.org/web/20220526111816/https://vitalik.ca/?ref=hackernoon.com"
+  },
+  {
+    "original": "https://vitalik.ca/?ref=panther-protocol-blog",
+    "timestamp": "20230402031405",
+    "digest": "7HL3YPF3KLHNGOX2VRQAHO5B476EZETC",
+    "mimetype": "text/html",
+    "statuscode": "200",
+    "wayback_url": "https://web.archive.org/web/20230402031405/https://vitalik.ca/?ref=panther-protocol-blog"
+  },
+  {
+    "original": "https://vitalik.ca/?ref=tgtg.net",
+    "timestamp": "20220121110956",
+    "digest": "5VFHZJ6XFZL5KAW3EDJ3ZRNL5IEB5VZM",
+    "mimetype": "text/html",
+    "statuscode": "200",
+    "wayback_url": "https://web.archive.org/web/20220121110956/https://vitalik.ca/?ref=tgtg.net"
+  },
+  {
+    "original": "http://vitalik.ca/[14",
+    "timestamp": "20230530161227",
+    "digest": "WHT3EXKF6XVIKYVG67BXESI75TWESKWU",
+    "mimetype": "text/html",
+    "statuscode": "301",
+    "wayback_url": "https://web.archive.org/web/20230530161227/http://vitalik.ca/[14"
+  },
+  {
+    "original": "https://vitalik.ca/%5Cn%5CnPODCAST",
+    "timestamp": "20221017143338",
+    "digest": "RKFBUYSPT4HULUEPTEQATF6LOXV5BUZD",
+    "mimetype": "warc/revisit",
+    "statuscode": "-",
+    "wayback_url": "https://web.archive.org/web/20221017143338/https://vitalik.ca/%5Cn%5CnPODCAST"
+  },
+  {
+    "original": "https://vitalik.ca/%5Cn%5CnPODCAST",
+    "timestamp": "20230410220706",
+    "digest": "RKFBUYSPT4HULUEPTEQATF6LOXV5BUZD",
+    "mimetype": "text/html",
+    "statuscode": "404",
+    "wayback_url": "https://web.archive.org/web/20230410220706/https://vitalik.ca/%5Cn%5CnPODCAST"
+  },
+  {
+    "original": "https://vitalik.ca/a11y/",
+    "timestamp": "20200507170240",
+    "digest": "P3W3GLXILMKYFORI2KCHDNLIPJRAKUSG",
+    "mimetype": "text/html",
+    "statuscode": "404",
+    "wayback_url": "https://web.archive.org/web/20200507170240/https://vitalik.ca/a11y/"
+  },
+  {
+    "original": "https://vitalik.ca/a11y/",
+    "timestamp": "20210101151400",
+    "digest": "P3W3GLXILMKYFORI2KCHDNLIPJRAKUSG",
+    "mimetype": "warc/revisit",
+    "statuscode": "-",
+    "wayback_url": "https://web.archive.org/web/20210101151400/https://vitalik.ca/a11y/"
+  },
+  {
+    "original": "https://vitalik.ca/a11y/assistive-mml",
+    "timestamp": "20200507170131",
+    "digest": "P3W3GLXILMKYFORI2KCHDNLIPJRAKUSG",
+    "mimetype": "text/html",
+    "statuscode": "404",
+    "wayback_url": "https://web.archive.org/web/20200507170131/https://vitalik.ca/a11y/assistive-mml"
+  },
+  {
+    "original": "https://vitalik.ca/a11y/assistive-mml",
+    "timestamp": "20210101151409",
+    "digest": "P3W3GLXILMKYFORI2KCHDNLIPJRAKUSG",
+    "mimetype": "warc/revisit",
+    "statuscode": "-",
+    "wayback_url": "https://web.archive.org/web/20210101151409/https://vitalik.ca/a11y/assistive-mml"
+  },
+  {
+    "original": "https://vitalik.ca/a11y/complexity",
+    "timestamp": "20200507170123",
+    "digest": "P3W3GLXILMKYFORI2KCHDNLIPJRAKUSG",
+    "mimetype": "text/html",
+    "statuscode": "404",
+    "wayback_url": "https://web.archive.org/web/20200507170123/https://vitalik.ca/a11y/complexity"
+  },
+  {
+    "original": "https://vitalik.ca/a11y/complexity",
+    "timestamp": "20210101151349",
+    "digest": "P3W3GLXILMKYFORI2KCHDNLIPJRAKUSG",
+    "mimetype": "warc/revisit",
+    "statuscode": "-",
+    "wayback_url": "https://web.archive.org/web/20210101151349/https://vitalik.ca/a11y/complexity"
+  },
+  {
+    "original": "https://vitalik.ca/a11y/explorer",
+    "timestamp": "20200507170128",
+    "digest": "P3W3GLXILMKYFORI2KCHDNLIPJRAKUSG",
+    "mimetype": "text/html",
+    "statuscode": "404",
+    "wayback_url": "https://web.archive.org/web/20200507170128/https://vitalik.ca/a11y/explorer"
+  },
+  {
+    "original": "https://vitalik.ca/a11y/explorer",
+    "timestamp": "20210101151350",
+    "digest": "P3W3GLXILMKYFORI2KCHDNLIPJRAKUSG",
+    "mimetype": "warc/revisit",
+    "statuscode": "-",
+    "wayback_url": "https://web.archive.org/web/20210101151350/https://vitalik.ca/a11y/explorer"
+  },
+  {
+    "original": "https://vitalik.ca/a11y/semantic-enrich",
+    "timestamp": "20200507170338",
+    "digest": "P3W3GLXILMKYFORI2KCHDNLIPJRAKUSG",
+    "mimetype": "text/html",
+    "statuscode": "404",
+    "wayback_url": "https://web.archive.org/web/20200507170338/https://vitalik.ca/a11y/semantic-enrich"
+  },
+  {
+    "original": "https://vitalik.ca/a11y/semantic-enrich",
+    "timestamp": "20210101151415",
+    "digest": "P3W3GLXILMKYFORI2KCHDNLIPJRAKUSG",
+    "mimetype": "warc/revisit",
+    "statuscode": "-",
+    "wayback_url": "https://web.archive.org/web/20210101151415/https://vitalik.ca/a11y/semantic-enrich"
+  },
+  {
+    "original": "http://vitalik.ca:80/about",
+    "timestamp": "20170314185933",
+    "digest": "EN25R4NT6L5NWI3Y2ARJY22JXB7UGCKH",
+    "mimetype": "text/plain",
+    "statuscode": "301",
+    "wayback_url": "https://web.archive.org/web/20170314185933/http://vitalik.ca:80/about"
+  },
+  {
+    "original": "http://vitalik.ca:80/about",
+    "timestamp": "20180101020319",
+    "digest": "EN25R4NT6L5NWI3Y2ARJY22JXB7UGCKH",
+    "mimetype": "text/plain",
+    "statuscode": "301",
+    "wayback_url": "https://web.archive.org/web/20180101020319/http://vitalik.ca:80/about"
+  },
+  {
+    "original": "http://vitalik.ca/about/",
+    "timestamp": "20190112215144",
+    "digest": "WHT3EXKF6XVIKYVG67BXESI75TWESKWU",
+    "mimetype": "warc/revisit",
+    "statuscode": "-",
+    "wayback_url": "https://web.archive.org/web/20190112215144/http://vitalik.ca/about/"
+  },
+  {
+    "original": "https://vitalik.ca/about/",
+    "timestamp": "20200505182311",
+    "digest": "F4H733SVEDYLKX3N5OIMVLB2FZPITTRA",
+    "mimetype": "text/html",
+    "statuscode": "200",
+    "wayback_url": "https://web.archive.org/web/20200505182311/https://vitalik.ca/about/"
+  },
+  {
+    "original": "http://vitalik.ca/ads.txt",
+    "timestamp": "20210518150101",
+    "digest": "WHT3EXKF6XVIKYVG67BXESI75TWESKWU",
+    "mimetype": "text/html",
+    "statuscode": "301",
+    "wayback_url": "https://web.archive.org/web/20210518150101/http://vitalik.ca/ads.txt"
+  },
+  {
+    "original": "https://vitalik.ca/ads.txt",
+    "timestamp": "20230601183151",
+    "digest": "JFKAH5NLVFXQURCRVU4HDYAESFJ7RTMK",
+    "mimetype": "text/html",
+    "statuscode": "404",
+    "wayback_url": "https://web.archive.org/web/20230601183151/https://vitalik.ca/ads.txt"
+  },
+  {
+    "original": "http://vitalik.ca:80/blktimetest.py",
+    "timestamp": "20140303201517",
+    "digest": "LYL4MML2N6WVAUBE6PX2SEVDQMAQSGPH",
+    "mimetype": "text/html",
+    "statuscode": "404",
+    "wayback_url": "https://web.archive.org/web/20140303201517/http://vitalik.ca:80/blktimetest.py"
+  },
+  {
+    "original": "https://vitalik.ca/build/19e65b89cee273a249fba4c09b951b74.eot",
+    "timestamp": "20201106000815",
+    "digest": "JFKAH5NLVFXQURCRVU4HDYAESFJ7RTMK",
+    "mimetype": "text/html",
+    "statuscode": "404",
+    "wayback_url": "https://web.archive.org/web/20201106000815/https://vitalik.ca/build/19e65b89cee273a249fba4c09b951b74.eot"
+  },
+  {
+    "original": "https://vitalik.ca/build/19e65b89cee273a249fba4c09b951b74.eot",
+    "timestamp": "20210101151328",
+    "digest": "P3W3GLXILMKYFORI2KCHDNLIPJRAKUSG",
+    "mimetype": "warc/revisit",
+    "statuscode": "-",
+    "wayback_url": "https://web.archive.org/web/20210101151328/https://vitalik.ca/build/19e65b89cee273a249fba4c09b951b74.eot"
+  },
+  {
+    "original": "https://vitalik.ca/build/19e65b89cee273a249fba4c09b951b74.eot",
+    "timestamp": "20220104063736",
+    "digest": "JFKAH5NLVFXQURCRVU4HDYAESFJ7RTMK",
+    "mimetype": "text/html",
+    "statuscode": "404",
+    "wayback_url": "https://web.archive.org/web/20220104063736/https://vitalik.ca/build/19e65b89cee273a249fba4c09b951b74.eot"
+  },
+  {
+    "original": "https://vitalik.ca/build/19e65b89cee273a249fba4c09b951b74.eot",
+    "timestamp": "20230125054841",
+    "digest": "JFKAH5NLVFXQURCRVU4HDYAESFJ7RTMK",
+    "mimetype": "text/html",
+    "statuscode": "404",
+    "wayback_url": "https://web.archive.org/web/20230125054841/https://vitalik.ca/build/19e65b89cee273a249fba4c09b951b74.eot"
+  },
+  {
+    "original": "https://vitalik.ca/build/260ef443edb4dfd026d82e2b21a4c75c.woff",
+    "timestamp": "20201106000816",
+    "digest": "JFKAH5NLVFXQURCRVU4HDYAESFJ7RTMK",
+    "mimetype": "text/html",
+    "statuscode": "404",
+    "wayback_url": "https://web.archive.org/web/20201106000816/https://vitalik.ca/build/260ef443edb4dfd026d82e2b21a4c75c.woff"
+  },
+  {
+    "original": "https://vitalik.ca/build/260ef443edb4dfd026d82e2b21a4c75c.woff",
+    "timestamp": "20210101151336",
+    "digest": "P3W3GLXILMKYFORI2KCHDNLIPJRAKUSG",
+    "mimetype": "warc/revisit",
+    "statuscode": "-",
+    "wayback_url": "https://web.archive.org/web/20210101151336/https://vitalik.ca/build/260ef443edb4dfd026d82e2b21a4c75c.woff"
+  },
+  {
+    "original": "https://vitalik.ca/build/260ef443edb4dfd026d82e2b21a4c75c.woff",
+    "timestamp": "20220104063737",
+    "digest": "JFKAH5NLVFXQURCRVU4HDYAESFJ7RTMK",
+    "mimetype": "text/html",
+    "statuscode": "404",
+    "wayback_url": "https://web.archive.org/web/20220104063737/https://vitalik.ca/build/260ef443edb4dfd026d82e2b21a4c75c.woff"
+  },
+  {
+    "original": "https://vitalik.ca/build/260ef443edb4dfd026d82e2b21a4c75c.woff",
+    "timestamp": "20230125054842",
+    "digest": "JFKAH5NLVFXQURCRVU4HDYAESFJ7RTMK",
+    "mimetype": "text/html",
+    "statuscode": "404",
+    "wayback_url": "https://web.archive.org/web/20230125054842/https://vitalik.ca/build/260ef443edb4dfd026d82e2b21a4c75c.woff"
+  },
+  {
+    "original": "https://vitalik.ca/build/28df6ee7b407fd8a14b40bc01f4fd3ae.svg",
+    "timestamp": "20201106000816",
+    "digest": "JFKAH5NLVFXQURCRVU4HDYAESFJ7RTMK",
+    "mimetype": "text/html",
+    "statuscode": "404",
+    "wayback_url": "https://web.archive.org/web/20201106000816/https://vitalik.ca/build/28df6ee7b407fd8a14b40bc01f4fd3ae.svg"
+  },
+  {
+    "original": "https://vitalik.ca/build/28df6ee7b407fd8a14b40bc01f4fd3ae.svg",
+    "timestamp": "20210101151334",
+    "digest": "P3W3GLXILMKYFORI2KCHDNLIPJRAKUSG",
+    "mimetype": "warc/revisit",
+    "statuscode": "-",
+    "wayback_url": "https://web.archive.org/web/20210101151334/https://vitalik.ca/build/28df6ee7b407fd8a14b40bc01f4fd3ae.svg"
+  },
+  {
+    "original": "https://vitalik.ca/build/28df6ee7b407fd8a14b40bc01f4fd3ae.svg",
+    "timestamp": "20220104063737",
+    "digest": "JFKAH5NLVFXQURCRVU4HDYAESFJ7RTMK",
+    "mimetype": "text/html",
+    "statuscode": "404",
+    "wayback_url": "https://web.archive.org/web/20220104063737/https://vitalik.ca/build/28df6ee7b407fd8a14b40bc01f4fd3ae.svg"
+  },
+  {
+    "original": "https://vitalik.ca/build/28df6ee7b407fd8a14b40bc01f4fd3ae.svg",
+    "timestamp": "20230125054842",
+    "digest": "JFKAH5NLVFXQURCRVU4HDYAESFJ7RTMK",
+    "mimetype": "text/html",
+    "statuscode": "404",
+    "wayback_url": "https://web.archive.org/web/20230125054842/https://vitalik.ca/build/28df6ee7b407fd8a14b40bc01f4fd3ae.svg"
+  },
+  {
+    "original": "https://vitalik.ca/build/2c159d0d05473040b53ec79df8797d32.woff",
+    "timestamp": "20201106000815",
+    "digest": "JFKAH5NLVFXQURCRVU4HDYAESFJ7RTMK",
+    "mimetype": "text/html",
+    "statuscode": "404",
+    "wayback_url": "https://web.archive.org/web/20201106000815/https://vitalik.ca/build/2c159d0d05473040b53ec79df8797d32.woff"
+  },
+  {
+    "original": "https://vitalik.ca/build/2c159d0d05473040b53ec79df8797d32.woff",
+    "timestamp": "20210101151332",
+    "digest": "P3W3GLXILMKYFORI2KCHDNLIPJRAKUSG",
+    "mimetype": "warc/revisit",
+    "statuscode": "-",
+    "wayback_url": "https://web.archive.org/web/20210101151332/https://vitalik.ca/build/2c159d0d05473040b53ec79df8797d32.woff"
+  },
+  {
+    "original": "https://vitalik.ca/build/2c159d0d05473040b53ec79df8797d32.woff",
+    "timestamp": "20220104063736",
+    "digest": "JFKAH5NLVFXQURCRVU4HDYAESFJ7RTMK",
+    "mimetype": "text/html",
+    "statuscode": "404",
+    "wayback_url": "https://web.archive.org/web/20220104063736/https://vitalik.ca/build/2c159d0d05473040b53ec79df8797d32.woff"
+  },
+  {
+    "original": "https://vitalik.ca/build/2c159d0d05473040b53ec79df8797d32.woff",
+    "timestamp": "20230125054842",
+    "digest": "JFKAH5NLVFXQURCRVU4HDYAESFJ7RTMK",
+    "mimetype": "text/html",
+    "statuscode": "404",
+    "wayback_url": "https://web.archive.org/web/20230125054842/https://vitalik.ca/build/2c159d0d05473040b53ec79df8797d32.woff"
+  },
+  {
+    "original": "https://vitalik.ca/build/448c34a56d699c29117adc64c43affeb.woff2",
+    "timestamp": "20201106000816",
+    "digest": "JFKAH5NLVFXQURCRVU4HDYAESFJ7RTMK",
+    "mimetype": "text/html",
+    "statuscode": "404",
+    "wayback_url": "https://web.archive.org/web/20201106000816/https://vitalik.ca/build/448c34a56d699c29117adc64c43affeb.woff2"
+  },
+  {
+    "original": "https://vitalik.ca/build/448c34a56d699c29117adc64c43affeb.woff2",
+    "timestamp": "20210101151324",
+    "digest": "P3W3GLXILMKYFORI2KCHDNLIPJRAKUSG",
+    "mimetype": "warc/revisit",
+    "statuscode": "-",
+    "wayback_url": "https://web.archive.org/web/20210101151324/https://vitalik.ca/build/448c34a56d699c29117adc64c43affeb.woff2"
+  },
+  {
+    "original": "https://vitalik.ca/build/448c34a56d699c29117adc64c43affeb.woff2",
+    "timestamp": "20220104063736",
+    "digest": "JFKAH5NLVFXQURCRVU4HDYAESFJ7RTMK",
+    "mimetype": "text/html",
+    "statuscode": "404",
+    "wayback_url": "https://web.archive.org/web/20220104063736/https://vitalik.ca/build/448c34a56d699c29117adc64c43affeb.woff2"
+  },
+  {
+    "original": "https://vitalik.ca/build/448c34a56d699c29117adc64c43affeb.woff2",
+    "timestamp": "20230125054841",
+    "digest": "JFKAH5NLVFXQURCRVU4HDYAESFJ7RTMK",
+    "mimetype": "text/html",
+    "statuscode": "404",
+    "wayback_url": "https://web.archive.org/web/20230125054841/https://vitalik.ca/build/448c34a56d699c29117adc64c43affeb.woff2"
+  },
+  {
+    "original": "https://vitalik.ca/build/674f50d287a8c48dc19ba404d20fe713.eot",
+    "timestamp": "20201106000815",
+    "digest": "JFKAH5NLVFXQURCRVU4HDYAESFJ7RTMK",
+    "mimetype": "text/html",
+    "statuscode": "404",
+    "wayback_url": "https://web.archive.org/web/20201106000815/https://vitalik.ca/build/674f50d287a8c48dc19ba404d20fe713.eot"
+  },
+  {
+    "original": "https://vitalik.ca/build/674f50d287a8c48dc19ba404d20fe713.eot",
+    "timestamp": "20210101151317",
+    "digest": "P3W3GLXILMKYFORI2KCHDNLIPJRAKUSG",
+    "mimetype": "warc/revisit",
+    "statuscode": "-",
+    "wayback_url": "https://web.archive.org/web/20210101151317/https://vitalik.ca/build/674f50d287a8c48dc19ba404d20fe713.eot"
+  },
+  {
+    "original": "https://vitalik.ca/build/674f50d287a8c48dc19ba404d20fe713.eot",
+    "timestamp": "20220104063738",
+    "digest": "JFKAH5NLVFXQURCRVU4HDYAESFJ7RTMK",
+    "mimetype": "text/html",
+    "statuscode": "404",
+    "wayback_url": "https://web.archive.org/web/20220104063738/https://vitalik.ca/build/674f50d287a8c48dc19ba404d20fe713.eot"
+  },
+  {
+    "original": "https://vitalik.ca/build/674f50d287a8c48dc19ba404d20fe713.eot",
+    "timestamp": "20230125054842",
+    "digest": "JFKAH5NLVFXQURCRVU4HDYAESFJ7RTMK",
+    "mimetype": "text/html",
+    "statuscode": "404",
+    "wayback_url": "https://web.archive.org/web/20230125054842/https://vitalik.ca/build/674f50d287a8c48dc19ba404d20fe713.eot"
+  },
+  {
+    "original": "https://vitalik.ca/build/7b3fd4b10ef8298c7df5c5acad4b7e42.eot",
+    "timestamp": "20201106000815",
+    "digest": "JFKAH5NLVFXQURCRVU4HDYAESFJ7RTMK",
+    "mimetype": "text/html",
+    "statuscode": "404",
+    "wayback_url": "https://web.archive.org/web/20201106000815/https://vitalik.ca/build/7b3fd4b10ef8298c7df5c5acad4b7e42.eot"
+  },
+  {
+    "original": "https://vitalik.ca/build/7b3fd4b10ef8298c7df5c5acad4b7e42.eot",
+    "timestamp": "20210101151335",
+    "digest": "P3W3GLXILMKYFORI2KCHDNLIPJRAKUSG",
+    "mimetype": "warc/revisit",
+    "statuscode": "-",
+    "wayback_url": "https://web.archive.org/web/20210101151335/https://vitalik.ca/build/7b3fd4b10ef8298c7df5c5acad4b7e42.eot"
+  }
+]

@@ -1,0 +1,802 @@
+[
+  {
+    "original": "http://www.ethereum.org:80/",
+    "timestamp": "20140106005830",
+    "digest": "CFZ5ALUHZRW5IYXMC56UWPSAW2VSKVTD",
+    "mimetype": "text/html",
+    "statuscode": "200",
+    "wayback_url": "https://web.archive.org/web/20140106005830/http://www.ethereum.org:80/"
+  },
+  {
+    "original": "http://www.ethereum.org",
+    "timestamp": "20150102073614",
+    "digest": "QH732FYSV7UM34JYWVYMB7EZGR2CYM6B",
+    "mimetype": "warc/revisit",
+    "statuscode": "-",
+    "wayback_url": "https://web.archive.org/web/20150102073614/http://www.ethereum.org"
+  },
+  {
+    "original": "https://www.ethereum.org/",
+    "timestamp": "20160107172203",
+    "digest": "2TS77EXCX5SRDLWC2YV7WYTTLO664VKP",
+    "mimetype": "warc/revisit",
+    "statuscode": "-",
+    "wayback_url": "https://web.archive.org/web/20160107172203/https://www.ethereum.org/"
+  },
+  {
+    "original": "https://www.ethereum.org/%E2%80%8E",
+    "timestamp": "20140815165653",
+    "digest": "YQEW77VUGRIIVKEAPONBKCK3KJP7GW2Z",
+    "mimetype": "text/html",
+    "statuscode": "200",
+    "wayback_url": "https://web.archive.org/web/20140815165653/https://www.ethereum.org/%E2%80%8E"
+  },
+  {
+    "original": "http://www.ethereum.org/%E2%80%8E",
+    "timestamp": "20150323162220",
+    "digest": "SPPQ2SH4NEPPXG7ZLTDCUJLSVWKJOOKS",
+    "mimetype": "text/html",
+    "statuscode": "200",
+    "wayback_url": "https://web.archive.org/web/20150323162220/http://www.ethereum.org/%E2%80%8E"
+  },
+  {
+    "original": "http://ethereum.org/%e2%80%8e",
+    "timestamp": "20160308210840",
+    "digest": "QH732FYSV7UM34JYWVYMB7EZGR2CYM6B",
+    "mimetype": "text/html",
+    "statuscode": "301",
+    "wayback_url": "https://web.archive.org/web/20160308210840/http://ethereum.org/%e2%80%8e"
+  },
+  {
+    "original": "https://www.ethereum.org/'https://github.com/ethereum/wiki/wiki/%5BEnglish%5D-White-Paper'",
+    "timestamp": "20140306142610",
+    "digest": "LAPFUMRL24LKAHEWX5DOZAE5YYYNMLDL",
+    "mimetype": "text/html",
+    "statuscode": "404",
+    "wayback_url": "https://web.archive.org/web/20140306142610/https://www.ethereum.org/'https://github.com/ethereum/wiki/wiki/%5BEnglish%5D-White-Paper'"
+  },
+  {
+    "original": "https://www.ethereum.org/,",
+    "timestamp": "20160706143636",
+    "digest": "TFF4MZ3SBQQSK5IA4KIDRQNF6YPCLWQ6",
+    "mimetype": "text/html",
+    "statuscode": "404",
+    "wayback_url": "https://web.archive.org/web/20160706143636/https://www.ethereum.org/,"
+  },
+  {
+    "original": "http://ethereum.org/1279d5df007f9a1a88dca7052926cc101d8570f8.js",
+    "timestamp": "20150402123808",
+    "digest": "537PCQOPWVM5WW5H6RX63WJXFT7WUDTS",
+    "mimetype": "application/javascript",
+    "statuscode": "200",
+    "wayback_url": "https://web.archive.org/web/20150402123808/http://ethereum.org/1279d5df007f9a1a88dca7052926cc101d8570f8.js"
+  },
+  {
+    "original": "https://www.ethereum.org/6",
+    "timestamp": "20140723211224",
+    "digest": "236GBJT6RETWVVSHPAMLQR5KDPO2DUQR",
+    "mimetype": "text/html",
+    "statuscode": "200",
+    "wayback_url": "https://web.archive.org/web/20140723211224/https://www.ethereum.org/6"
+  },
+  {
+    "original": "https://www.ethereum.org/6bf4ec2f65e89bd4a4ec9588a3016fc75f786ef6.js",
+    "timestamp": "20150723181130",
+    "digest": "L4FN2H5C3CTVESM6KWTOYHU2CZVKTI7C",
+    "mimetype": "text/html",
+    "statuscode": "200",
+    "wayback_url": "https://web.archive.org/web/20150723181130/https://www.ethereum.org/6bf4ec2f65e89bd4a4ec9588a3016fc75f786ef6.js"
+  },
+  {
+    "original": "http://ethereum.org/?homestead/",
+    "timestamp": "20161114184557",
+    "digest": "Z6IJ46JXZU7TCLCDINT3OMVFHV5GZPYU",
+    "mimetype": "text/html",
+    "statuscode": "301",
+    "wayback_url": "https://web.archive.org/web/20161114184557/http://ethereum.org/?homestead/"
+  },
+  {
+    "original": "https://www.ethereum.org/_Incapsula_Resource?SWKMTFSR=1&e=0.15237983758561313",
+    "timestamp": "20140807155118",
+    "digest": "GVVBSK3ZCOYEYVCXJUMMFDKG4Y4VIKFL",
+    "mimetype": "text/plain",
+    "statuscode": "200",
+    "wayback_url": "https://web.archive.org/web/20140807155118/https://www.ethereum.org/_Incapsula_Resource?SWKMTFSR=1&e=0.15237983758561313"
+  },
+  {
+    "original": "http://ethereum.org:80/admin",
+    "timestamp": "20150725010931",
+    "digest": "L4FN2H5C3CTVESM6KWTOYHU2CZVKTI7C",
+    "mimetype": "text/html",
+    "statuscode": "200",
+    "wayback_url": "https://web.archive.org/web/20150725010931/http://ethereum.org:80/admin"
+  },
+  {
+    "original": "https://www.ethereum.org/agreement",
+    "timestamp": "20160316202835",
+    "digest": "SSSVDFKT7EOM2XV4N3I7GANDGEDRJURX",
+    "mimetype": "text/html",
+    "statuscode": "200",
+    "wayback_url": "https://web.archive.org/web/20160316202835/https://www.ethereum.org/agreement"
+  },
+  {
+    "original": "https://www.ethereum.org/assets",
+    "timestamp": "20150906153156",
+    "digest": "GL5Q7N4F6LHYKSAREWQE4GTB7Z3ETTZX",
+    "mimetype": "text/html",
+    "statuscode": "200",
+    "wayback_url": "https://web.archive.org/web/20150906153156/https://www.ethereum.org/assets"
+  },
+  {
+    "original": "https://www.ethereum.org/assets",
+    "timestamp": "20160305023655",
+    "digest": "ZOBLNWGNFTUSSDFNQP4UOCJE3HGVDUA2",
+    "mimetype": "text/html",
+    "statuscode": "200",
+    "wayback_url": "https://web.archive.org/web/20160305023655/https://www.ethereum.org/assets"
+  },
+  {
+    "original": "https://ethereum.org/bb3ce3598474180503182c9b9268dc43a381ebae.js",
+    "timestamp": "20150327105008",
+    "digest": "WMS5M5FKLRIVAK4ERZVSMKQFSWSDSLQP",
+    "mimetype": "application/javascript",
+    "statuscode": "200",
+    "wayback_url": "https://web.archive.org/web/20150327105008/https://ethereum.org/bb3ce3598474180503182c9b9268dc43a381ebae.js"
+  },
+  {
+    "original": "https://ethereum.org/brand",
+    "timestamp": "20160409044102",
+    "digest": "SXUNWTCSAFFWJSLHA2VD33FISZW3QQLL",
+    "mimetype": "text/html",
+    "statuscode": "200",
+    "wayback_url": "https://web.archive.org/web/20160409044102/https://ethereum.org/brand"
+  },
+  {
+    "original": "https://www.ethereum.org/brand@ethereum.org",
+    "timestamp": "20150916004339",
+    "digest": "TFF4MZ3SBQQSK5IA4KIDRQNF6YPCLWQ6",
+    "mimetype": "text/html",
+    "statuscode": "404",
+    "wayback_url": "https://web.archive.org/web/20150916004339/https://www.ethereum.org/brand@ethereum.org"
+  },
+  {
+    "original": "https://www.ethereum.org/chart/",
+    "timestamp": "20140723211227",
+    "digest": "236GBJT6RETWVVSHPAMLQR5KDPO2DUQR",
+    "mimetype": "text/html",
+    "statuscode": "200",
+    "wayback_url": "https://web.archive.org/web/20140723211227/https://www.ethereum.org/chart/"
+  },
+  {
+    "original": "https://ethereum.org/cli",
+    "timestamp": "20150807142131",
+    "digest": "RYT62PEZJBGHUYHUOPBZPPFXK7DUWQ5Q",
+    "mimetype": "text/html",
+    "statuscode": "200",
+    "wayback_url": "https://web.archive.org/web/20150807142131/https://ethereum.org/cli"
+  },
+  {
+    "original": "https://ethereum.org/cli",
+    "timestamp": "20160108203808",
+    "digest": "HK2IBTLL6ITVYALJTCE5K4WFPCH3TLBB",
+    "mimetype": "text/html",
+    "statuscode": "200",
+    "wayback_url": "https://web.archive.org/web/20160108203808/https://ethereum.org/cli"
+  },
+  {
+    "original": "http://ethereum.org:80/company-structure",
+    "timestamp": "20150323004028",
+    "digest": "SPPQ2SH4NEPPXG7ZLTDCUJLSVWKJOOKS",
+    "mimetype": "text/html",
+    "statuscode": "200",
+    "wayback_url": "https://web.archive.org/web/20150323004028/http://ethereum.org:80/company-structure"
+  },
+  {
+    "original": "https://www.ethereum.org/convert",
+    "timestamp": "20140723211214",
+    "digest": "236GBJT6RETWVVSHPAMLQR5KDPO2DUQR",
+    "mimetype": "text/html",
+    "statuscode": "200",
+    "wayback_url": "https://web.archive.org/web/20140723211214/https://www.ethereum.org/convert"
+  },
+  {
+    "original": "https://www.ethereum.org/crowdsale",
+    "timestamp": "20150906153005",
+    "digest": "IZH43PBWRL7R7A5WBFITCOY76VWDEPVP",
+    "mimetype": "text/html",
+    "statuscode": "200",
+    "wayback_url": "https://web.archive.org/web/20150906153005/https://www.ethereum.org/crowdsale"
+  },
+  {
+    "original": "https://ethereum.org/crowdsale",
+    "timestamp": "20160308064407",
+    "digest": "2AO55ST2BJK3HZMPGM6CJC5WCUSNJPYB",
+    "mimetype": "text/html",
+    "statuscode": "200",
+    "wayback_url": "https://web.archive.org/web/20160308064407/https://ethereum.org/crowdsale"
+  },
+  {
+    "original": "https://www.ethereum.org/crypto-js/crypto.js",
+    "timestamp": "20150328060633",
+    "digest": "T5OQCRWP263PWW3XI75HOUDG34H7I7VB",
+    "mimetype": "text/html",
+    "statuscode": "200",
+    "wayback_url": "https://web.archive.org/web/20150328060633/https://www.ethereum.org/crypto-js/crypto.js"
+  },
+  {
+    "original": "http://ethereum.org/css/flexslider.css",
+    "timestamp": "20140127025608",
+    "digest": "LGTWCRMR4OPOH5GEBSA3TE2HC3L3DBAV",
+    "mimetype": "text/css",
+    "statuscode": "200",
+    "wayback_url": "https://web.archive.org/web/20140127025608/http://ethereum.org/css/flexslider.css"
+  },
+  {
+    "original": "https://www.ethereum.org/css/frontier.min.css",
+    "timestamp": "20150803154059",
+    "digest": "5YBF6NQ47SM2JKK6HSD2I73X5QUO2Y3G",
+    "mimetype": "text/css",
+    "statuscode": "200",
+    "wayback_url": "https://web.archive.org/web/20150803154059/https://www.ethereum.org/css/frontier.min.css"
+  },
+  {
+    "original": "https://www.ethereum.org/css/frontier.min.css",
+    "timestamp": "20160107172210",
+    "digest": "7BRGL6SYM7HL4M3ACIT3ACJFNZOTP5FC",
+    "mimetype": "warc/revisit",
+    "statuscode": "-",
+    "wayback_url": "https://web.archive.org/web/20160107172210/https://www.ethereum.org/css/frontier.min.css"
+  },
+  {
+    "original": "http://www.ethereum.org/css/ie.css",
+    "timestamp": "20140209000558",
+    "digest": "7WNCPOINPJEC5QOS4F5ULPIDSWDHEUG4",
+    "mimetype": "warc/revisit",
+    "statuscode": "-",
+    "wayback_url": "https://web.archive.org/web/20140209000558/http://www.ethereum.org/css/ie.css"
+  },
+  {
+    "original": "http://www.ethereum.org/css/style.css",
+    "timestamp": "20160803172950",
+    "digest": "QH732FYSV7UM34JYWVYMB7EZGR2CYM6B",
+    "mimetype": "text/html",
+    "statuscode": "301",
+    "wayback_url": "https://web.archive.org/web/20160803172950/http://www.ethereum.org/css/style.css"
+  },
+  {
+    "original": "http://ethereum.org/d5990dfff28afc88edc3e3ff30b18c1b131b5672.css?meteor_css_resource=true",
+    "timestamp": "20150315004606",
+    "digest": "YJXNACLXC62IZYZASFO4A3BA3NB4RXGE",
+    "mimetype": "text/css",
+    "statuscode": "200",
+    "wayback_url": "https://web.archive.org/web/20150315004606/http://ethereum.org/d5990dfff28afc88edc3e3ff30b18c1b131b5672.css?meteor_css_resource=true"
+  },
+  {
+    "original": "https://www.ethereum.org/dao",
+    "timestamp": "20160304142554",
+    "digest": "TSCU5ZBZJVTFN2YOY6EAB55RP2EEKA6Y",
+    "mimetype": "text/html",
+    "statuscode": "200",
+    "wayback_url": "https://web.archive.org/web/20160304142554/https://www.ethereum.org/dao"
+  },
+  {
+    "original": "http://www.ethereum.org:80/downloads/charles_hoskinson_pgp.txt",
+    "timestamp": "20140309083316",
+    "digest": "ZPBISUNVMBXYV6FJUNFNHRMRTGCL6Q2O",
+    "mimetype": "text/html",
+    "statuscode": "301",
+    "wayback_url": "https://web.archive.org/web/20140309083316/http://www.ethereum.org:80/downloads/charles_hoskinson_pgp.txt"
+  },
+  {
+    "original": "http://ethereum.org:80/ether",
+    "timestamp": "20150303163904",
+    "digest": "FY4GDKHUMN5JDRFX45TGL6WQYJ6NUECP",
+    "mimetype": "text/html",
+    "statuscode": "200",
+    "wayback_url": "https://web.archive.org/web/20150303163904/http://ethereum.org:80/ether"
+  },
+  {
+    "original": "https://www.ethereum.org/ether",
+    "timestamp": "20160302101342",
+    "digest": "QEHX35BBSIFAJJSZZOQDPERM3GPM62XQ",
+    "mimetype": "text/html",
+    "statuscode": "200",
+    "wayback_url": "https://web.archive.org/web/20160302101342/https://www.ethereum.org/ether"
+  },
+  {
+    "original": "http://ethereum.org:80/ethereum",
+    "timestamp": "20150801005648",
+    "digest": "QH732FYSV7UM34JYWVYMB7EZGR2CYM6B",
+    "mimetype": "text/html",
+    "statuscode": "301",
+    "wayback_url": "https://web.archive.org/web/20150801005648/http://ethereum.org:80/ethereum"
+  },
+  {
+    "original": "http://ethereum.org/ethereum",
+    "timestamp": "20160309040925",
+    "digest": "QH732FYSV7UM34JYWVYMB7EZGR2CYM6B",
+    "mimetype": "warc/revisit",
+    "statuscode": "-",
+    "wayback_url": "https://web.archive.org/web/20160309040925/http://ethereum.org/ethereum"
+  },
+  {
+    "original": "https://www.ethereum.org/ethereum-icon-and-text_landscape.jpg",
+    "timestamp": "20150328060626",
+    "digest": "T5OQCRWP263PWW3XI75HOUDG34H7I7VB",
+    "mimetype": "text/html",
+    "statuscode": "200",
+    "wayback_url": "https://web.archive.org/web/20150328060626/https://www.ethereum.org/ethereum-icon-and-text_landscape.jpg"
+  },
+  {
+    "original": "http://ethereum.org:80/ethereum.htm",
+    "timestamp": "20140131201103",
+    "digest": "OKO7E2KS7F5DGO4VV32PECZSGTYDEXWR",
+    "mimetype": "text/html",
+    "statuscode": "404",
+    "wayback_url": "https://web.archive.org/web/20140131201103/http://ethereum.org:80/ethereum.htm"
+  },
+  {
+    "original": "http://ethereum.org/ethereum.html",
+    "timestamp": "20150112150606",
+    "digest": "QH732FYSV7UM34JYWVYMB7EZGR2CYM6B",
+    "mimetype": "text/html",
+    "statuscode": "301",
+    "wayback_url": "https://web.archive.org/web/20150112150606/http://ethereum.org/ethereum.html"
+  },
+  {
+    "original": "http://www.ethereum.org/ethereum.html",
+    "timestamp": "20160122080310",
+    "digest": "QH732FYSV7UM34JYWVYMB7EZGR2CYM6B",
+    "mimetype": "text/html",
+    "statuscode": "301",
+    "wayback_url": "https://web.archive.org/web/20160122080310/http://www.ethereum.org/ethereum.html"
+  },
+  {
+    "original": "http://ethereum.org/ethereum.html/feed/",
+    "timestamp": "20140305172759",
+    "digest": "ZPBISUNVMBXYV6FJUNFNHRMRTGCL6Q2O",
+    "mimetype": "text/html",
+    "statuscode": "301",
+    "wayback_url": "https://web.archive.org/web/20140305172759/http://ethereum.org/ethereum.html/feed/"
+  },
+  {
+    "original": "https://ethereum.org/ethereum/welcome",
+    "timestamp": "20160419174710",
+    "digest": "TFF4MZ3SBQQSK5IA4KIDRQNF6YPCLWQ6",
+    "mimetype": "warc/revisit",
+    "statuscode": "-",
+    "wayback_url": "https://web.archive.org/web/20160419174710/https://ethereum.org/ethereum/welcome"
+  },
+  {
+    "original": "http://www.ethereum.org/f547dc138f98c50dcedcc5670bb303ed34384eef.js",
+    "timestamp": "20150702151720",
+    "digest": "EZUIXPGUHATEA65WMQQ2J6CZTFQMVXW7",
+    "mimetype": "application/javascript",
+    "statuscode": "200",
+    "wayback_url": "https://web.archive.org/web/20150702151720/http://www.ethereum.org/f547dc138f98c50dcedcc5670bb303ed34384eef.js"
+  },
+  {
+    "original": "http://ethereum.org/favicon.ico",
+    "timestamp": "20140113132400",
+    "digest": "MBEVMY4RZUILKW2UV2QQKJH2M3VFSAQ3",
+    "mimetype": "image/x-icon",
+    "statuscode": "200",
+    "wayback_url": "https://web.archive.org/web/20140113132400/http://ethereum.org/favicon.ico"
+  },
+  {
+    "original": "http://ethereum.org/favicon.ico",
+    "timestamp": "20150315012050",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "unk",
+    "statuscode": "404",
+    "wayback_url": "https://web.archive.org/web/20150315012050/http://ethereum.org/favicon.ico"
+  },
+  {
+    "original": "https://www.ethereum.org/favicon.ico",
+    "timestamp": "20160106115245",
+    "digest": "WA2CTC3EXI64MBYOEXUA5ZXGU5O6O6OY",
+    "mimetype": "warc/revisit",
+    "statuscode": "-",
+    "wayback_url": "https://web.archive.org/web/20160106115245/https://www.ethereum.org/favicon.ico"
+  },
+  {
+    "original": "https://www.ethereum.org/favicon.ico?20140310130500",
+    "timestamp": "20140723210650",
+    "digest": "POM7JJISRXHDJKG5MWWGPV7WDGHFTY2T",
+    "mimetype": "image/x-icon",
+    "statuscode": "200",
+    "wayback_url": "https://web.archive.org/web/20140723210650/https://www.ethereum.org/favicon.ico?20140310130500"
+  },
+  {
+    "original": "https://www.ethereum.org/favicon.ico?20140310130500",
+    "timestamp": "20150104072832",
+    "digest": "POM7JJISRXHDJKG5MWWGPV7WDGHFTY2T",
+    "mimetype": "image/x-icon",
+    "statuscode": "200",
+    "wayback_url": "https://web.archive.org/web/20150104072832/https://www.ethereum.org/favicon.ico?20140310130500"
+  },
+  {
+    "original": "http://ethereum.org/favicon.png",
+    "timestamp": "20140127012832",
+    "digest": "TBGV3GCMPNJEHRJGA2AC6IQCFSAIL67A",
+    "mimetype": "image/png",
+    "statuscode": "200",
+    "wayback_url": "https://web.archive.org/web/20140127012832/http://ethereum.org/favicon.png"
+  },
+  {
+    "original": "https://www.ethereum.org/favicon.png?v=1",
+    "timestamp": "20150309064337",
+    "digest": "WA2CTC3EXI64MBYOEXUA5ZXGU5O6O6OY",
+    "mimetype": "image/png",
+    "statuscode": "200",
+    "wayback_url": "https://web.archive.org/web/20150309064337/https://www.ethereum.org/favicon.png?v=1"
+  },
+  {
+    "original": "http://www.ethereum.org:80/FbptSUbvuX9xcnyMYCIC+w==",
+    "timestamp": "20160310005256",
+    "digest": "QH732FYSV7UM34JYWVYMB7EZGR2CYM6B",
+    "mimetype": "text/html",
+    "statuscode": "301",
+    "wayback_url": "https://web.archive.org/web/20160310005256/http://www.ethereum.org:80/FbptSUbvuX9xcnyMYCIC+w=="
+  },
+  {
+    "original": "http://ethereum.org/flowchart.png",
+    "timestamp": "20140111180823",
+    "digest": "OXPPN5KDCI6NYGYRKFNRDBZ5IMD2HX4V",
+    "mimetype": "image/png",
+    "statuscode": "200",
+    "wayback_url": "https://web.archive.org/web/20140111180823/http://ethereum.org/flowchart.png"
+  },
+  {
+    "original": "https://www.ethereum.org/fonts/fontawesome-webfont.eot",
+    "timestamp": "20150104195817",
+    "digest": "AGBZPECW6C4HMFWNTHK4KSSI6O3XD3XG",
+    "mimetype": "application/octet-stream",
+    "statuscode": "200",
+    "wayback_url": "https://web.archive.org/web/20150104195817/https://www.ethereum.org/fonts/fontawesome-webfont.eot"
+  },
+  {
+    "original": "https://www.ethereum.org/fonts/fontawesome-webfont.eot?v=4.0.3",
+    "timestamp": "20140306024004",
+    "digest": "OYMXJD7DJRSPWFL2K73NJ3ZWPD3DVD26",
+    "mimetype": "application/vnd.ms-fontobject",
+    "statuscode": "200",
+    "wayback_url": "https://web.archive.org/web/20140306024004/https://www.ethereum.org/fonts/fontawesome-webfont.eot?v=4.0.3"
+  },
+  {
+    "original": "https://www.ethereum.org/fonts/fontawesome-webfont.eot?v=4.2.0",
+    "timestamp": "20150104195752",
+    "digest": "AGBZPECW6C4HMFWNTHK4KSSI6O3XD3XG",
+    "mimetype": "application/octet-stream",
+    "statuscode": "200",
+    "wayback_url": "https://web.archive.org/web/20150104195752/https://www.ethereum.org/fonts/fontawesome-webfont.eot?v=4.2.0"
+  },
+  {
+    "original": "https://www.ethereum.org/fonts/fontawesome-webfont.eot?v=4.2.0%27);src:url(%27/web/20141009231737/https://www.ethereum.org/fonts/fontawesome-webfont.eot",
+    "timestamp": "20160524202848",
+    "digest": "HZR7ZGZ54RMA6HZ35QDDCQ3POVNYB4LH",
+    "mimetype": "application/octet-stream",
+    "statuscode": "200",
+    "wayback_url": "https://web.archive.org/web/20160524202848/https://www.ethereum.org/fonts/fontawesome-webfont.eot?v=4.2.0%27);src:url(%27/web/20141009231737/https://www.ethereum.org/fonts/fontawesome-webfont.eot"
+  },
+  {
+    "original": "https://www.ethereum.org/fonts/fontawesome-webfont.svg?v=4.0.3",
+    "timestamp": "20140306024451",
+    "digest": "I36MAGKNOWQN3LAKAOFO4QNSGRLHQSAU",
+    "mimetype": "image/svg+xml",
+    "statuscode": "200",
+    "wayback_url": "https://web.archive.org/web/20140306024451/https://www.ethereum.org/fonts/fontawesome-webfont.svg?v=4.0.3"
+  },
+  {
+    "original": "https://www.ethereum.org/fonts/fontawesome-webfont.svg?v=4.2.0",
+    "timestamp": "20150104195750",
+    "digest": "ZWMA5K3NWX5FPW3HBSZOIJ4OM7Q2JVWJ",
+    "mimetype": "image/svg+xml",
+    "statuscode": "200",
+    "wayback_url": "https://web.archive.org/web/20150104195750/https://www.ethereum.org/fonts/fontawesome-webfont.svg?v=4.2.0"
+  },
+  {
+    "original": "https://www.ethereum.org/fonts/fontawesome-webfont.ttf?v=4.0.3",
+    "timestamp": "20140306024812",
+    "digest": "P4E4S7ZTHELQGSWQR6TSSXURNSPXF7J7",
+    "mimetype": "application/x-font-ttf",
+    "statuscode": "200",
+    "wayback_url": "https://web.archive.org/web/20140306024812/https://www.ethereum.org/fonts/fontawesome-webfont.ttf?v=4.0.3"
+  },
+  {
+    "original": "https://www.ethereum.org/fonts/fontawesome-webfont.ttf?v=4.2.0",
+    "timestamp": "20150104195755",
+    "digest": "MIS4ZRHMSTIGB4M67K4XZJBNQQUELOKJ",
+    "mimetype": "application/octet-stream",
+    "statuscode": "200",
+    "wayback_url": "https://web.archive.org/web/20150104195755/https://www.ethereum.org/fonts/fontawesome-webfont.ttf?v=4.2.0"
+  },
+  {
+    "original": "https://www.ethereum.org/fonts/fontawesome-webfont.woff?v=4.0.3",
+    "timestamp": "20140306012722",
+    "digest": "ATB36VWYPIECRE23222K52CZTFPTEFUT",
+    "mimetype": "application/font-woff",
+    "statuscode": "200",
+    "wayback_url": "https://web.archive.org/web/20140306012722/https://www.ethereum.org/fonts/fontawesome-webfont.woff?v=4.0.3"
+  },
+  {
+    "original": "https://www.ethereum.org/fonts/fontawesome-webfont.woff?v=4.2.0",
+    "timestamp": "20150104195809",
+    "digest": "PVS6AIT5BV6NYFYYCGONFJ644BRY6FI4",
+    "mimetype": "application/octet-stream",
+    "statuscode": "200",
+    "wayback_url": "https://web.archive.org/web/20150104195809/https://www.ethereum.org/fonts/fontawesome-webfont.woff?v=4.2.0"
+  },
+  {
+    "original": "https://www.ethereum.org/fonts/glyphicons-halflings-regular.eot",
+    "timestamp": "20140306025035",
+    "digest": "LAPFUMRL24LKAHEWX5DOZAE5YYYNMLDL",
+    "mimetype": "text/html",
+    "statuscode": "404",
+    "wayback_url": "https://web.archive.org/web/20140306025035/https://www.ethereum.org/fonts/glyphicons-halflings-regular.eot"
+  },
+  {
+    "original": "https://www.ethereum.org/fonts/glyphicons-halflings-regular.eot",
+    "timestamp": "20150104195745",
+    "digest": "KZIE5BHYQ5O4BZSA5WAJWXDH267ZPBIE",
+    "mimetype": "text/html",
+    "statuscode": "200",
+    "wayback_url": "https://web.archive.org/web/20150104195745/https://www.ethereum.org/fonts/glyphicons-halflings-regular.eot"
+  },
+  {
+    "original": "https://www.ethereum.org/fonts/glyphicons-halflings-regular.eot",
+    "timestamp": "20160122160958",
+    "digest": "Q23PMK3YKPTH2PTDL5SRFJNF57CY5I6D",
+    "mimetype": "application/octet-stream",
+    "statuscode": "200",
+    "wayback_url": "https://web.archive.org/web/20160122160958/https://www.ethereum.org/fonts/glyphicons-halflings-regular.eot"
+  },
+  {
+    "original": "https://www.ethereum.org/fonts/glyphicons-halflings-regular.svg",
+    "timestamp": "20140306012845",
+    "digest": "LAPFUMRL24LKAHEWX5DOZAE5YYYNMLDL",
+    "mimetype": "text/html",
+    "statuscode": "404",
+    "wayback_url": "https://web.archive.org/web/20140306012845/https://www.ethereum.org/fonts/glyphicons-halflings-regular.svg"
+  },
+  {
+    "original": "https://www.ethereum.org/fonts/glyphicons-halflings-regular.svg",
+    "timestamp": "20150104195809",
+    "digest": "KZIE5BHYQ5O4BZSA5WAJWXDH267ZPBIE",
+    "mimetype": "text/html",
+    "statuscode": "200",
+    "wayback_url": "https://web.archive.org/web/20150104195809/https://www.ethereum.org/fonts/glyphicons-halflings-regular.svg"
+  },
+  {
+    "original": "https://www.ethereum.org/fonts/glyphicons-halflings-regular.svg",
+    "timestamp": "20160122161012",
+    "digest": "3ZI2QSKBQCTNWB2K6LPOEOB7BI3DYWYI",
+    "mimetype": "image/svg+xml",
+    "statuscode": "200",
+    "wayback_url": "https://web.archive.org/web/20160122161012/https://www.ethereum.org/fonts/glyphicons-halflings-regular.svg"
+  },
+  {
+    "original": "https://www.ethereum.org/fonts/glyphicons-halflings-regular.ttf",
+    "timestamp": "20140306025456",
+    "digest": "LAPFUMRL24LKAHEWX5DOZAE5YYYNMLDL",
+    "mimetype": "text/html",
+    "statuscode": "404",
+    "wayback_url": "https://web.archive.org/web/20140306025456/https://www.ethereum.org/fonts/glyphicons-halflings-regular.ttf"
+  },
+  {
+    "original": "https://www.ethereum.org/fonts/glyphicons-halflings-regular.ttf",
+    "timestamp": "20150104195823",
+    "digest": "KZIE5BHYQ5O4BZSA5WAJWXDH267ZPBIE",
+    "mimetype": "text/html",
+    "statuscode": "200",
+    "wayback_url": "https://web.archive.org/web/20150104195823/https://www.ethereum.org/fonts/glyphicons-halflings-regular.ttf"
+  },
+  {
+    "original": "https://www.ethereum.org/fonts/glyphicons-halflings-regular.ttf",
+    "timestamp": "20160122161009",
+    "digest": "IS6BQUHVOCLSEZ5RNGXBR4OLA23BD75C",
+    "mimetype": "application/octet-stream",
+    "statuscode": "200",
+    "wayback_url": "https://web.archive.org/web/20160122161009/https://www.ethereum.org/fonts/glyphicons-halflings-regular.ttf"
+  },
+  {
+    "original": "https://www.ethereum.org/fonts/glyphicons-halflings-regular.woff",
+    "timestamp": "20140306013115",
+    "digest": "LAPFUMRL24LKAHEWX5DOZAE5YYYNMLDL",
+    "mimetype": "text/html",
+    "statuscode": "404",
+    "wayback_url": "https://web.archive.org/web/20140306013115/https://www.ethereum.org/fonts/glyphicons-halflings-regular.woff"
+  },
+  {
+    "original": "https://www.ethereum.org/fonts/glyphicons-halflings-regular.woff",
+    "timestamp": "20150104195828",
+    "digest": "KZIE5BHYQ5O4BZSA5WAJWXDH267ZPBIE",
+    "mimetype": "text/html",
+    "statuscode": "200",
+    "wayback_url": "https://web.archive.org/web/20150104195828/https://www.ethereum.org/fonts/glyphicons-halflings-regular.woff"
+  },
+  {
+    "original": "https://www.ethereum.org/fonts/glyphicons-halflings-regular.woff",
+    "timestamp": "20160122161005",
+    "digest": "E6HETKDOMNG2N4VAF45UPXM5FKHSMIIP",
+    "mimetype": "application/octet-stream",
+    "statuscode": "200",
+    "wayback_url": "https://web.archive.org/web/20160122161005/https://www.ethereum.org/fonts/glyphicons-halflings-regular.woff"
+  },
+  {
+    "original": "https://www.ethereum.org/fonts/glyphicons-halflings-regular.woff2",
+    "timestamp": "20150805101309",
+    "digest": "ZI23NF6ZTSXE2G3A6LLA7TJXO4MYP2YH",
+    "mimetype": "application/octet-stream",
+    "statuscode": "200",
+    "wayback_url": "https://web.archive.org/web/20150805101309/https://www.ethereum.org/fonts/glyphicons-halflings-regular.woff2"
+  },
+  {
+    "original": "https://www.ethereum.org/fonts/glyphicons-halflings-regular.woff2",
+    "timestamp": "20160122161001",
+    "digest": "ZI23NF6ZTSXE2G3A6LLA7TJXO4MYP2YH",
+    "mimetype": "application/octet-stream",
+    "statuscode": "200",
+    "wayback_url": "https://web.archive.org/web/20160122161001/https://www.ethereum.org/fonts/glyphicons-halflings-regular.woff2"
+  },
+  {
+    "original": "https://www.ethereum.org/fonts/images/404bkgnd.jpg?20140807T144600Z",
+    "timestamp": "20140816075610",
+    "digest": "R3I6AVVPQXXE7RJDQKR4WHGK5Q2THSRB",
+    "mimetype": "text/html",
+    "statuscode": "200",
+    "wayback_url": "https://web.archive.org/web/20140816075610/https://www.ethereum.org/fonts/images/404bkgnd.jpg?20140807T144600Z"
+  },
+  {
+    "original": "https://www.ethereum.org/fonts/images/404bkgnd.jpg?20140807T144600Z",
+    "timestamp": "20150101112446",
+    "digest": "KZIE5BHYQ5O4BZSA5WAJWXDH267ZPBIE",
+    "mimetype": "text/html",
+    "statuscode": "200",
+    "wayback_url": "https://web.archive.org/web/20150101112446/https://www.ethereum.org/fonts/images/404bkgnd.jpg?20140807T144600Z"
+  },
+  {
+    "original": "https://www.ethereum.org/fonts/images/404bkgnd.png?20140310130500",
+    "timestamp": "20140723212638",
+    "digest": "236GBJT6RETWVVSHPAMLQR5KDPO2DUQR",
+    "mimetype": "text/html",
+    "statuscode": "200",
+    "wayback_url": "https://web.archive.org/web/20140723212638/https://www.ethereum.org/fonts/images/404bkgnd.png?20140310130500"
+  },
+  {
+    "original": "https://www.ethereum.org/fonts/images/logo.png?20140310130500",
+    "timestamp": "20150101112447",
+    "digest": "KZIE5BHYQ5O4BZSA5WAJWXDH267ZPBIE",
+    "mimetype": "text/html",
+    "statuscode": "200",
+    "wayback_url": "https://web.archive.org/web/20150101112447/https://www.ethereum.org/fonts/images/logo.png?20140310130500"
+  },
+  {
+    "original": "https://www.ethereum.org/fonts/images/loine.png?20140310130500",
+    "timestamp": "20140723212639",
+    "digest": "236GBJT6RETWVVSHPAMLQR5KDPO2DUQR",
+    "mimetype": "text/html",
+    "statuscode": "200",
+    "wayback_url": "https://web.archive.org/web/20140723212639/https://www.ethereum.org/fonts/images/loine.png?20140310130500"
+  },
+  {
+    "original": "https://www.ethereum.org/fonts/images/loine.png?20140310130500",
+    "timestamp": "20150101112447",
+    "digest": "KZIE5BHYQ5O4BZSA5WAJWXDH267ZPBIE",
+    "mimetype": "text/html",
+    "statuscode": "200",
+    "wayback_url": "https://web.archive.org/web/20150101112447/https://www.ethereum.org/fonts/images/loine.png?20140310130500"
+  },
+  {
+    "original": "https://ethereum.org/fonts/PRINC___.TTF",
+    "timestamp": "20140702113258",
+    "digest": "4CC2YGIFRW6ZAHIDHGKNRAPZCWFNFNVI",
+    "mimetype": "application/x-font-ttf",
+    "statuscode": "200",
+    "wayback_url": "https://web.archive.org/web/20140702113258/https://ethereum.org/fonts/PRINC___.TTF"
+  },
+  {
+    "original": "https://www.ethereum.org/fonts/PrintClearly-webfont.eot",
+    "timestamp": "20150104195801",
+    "digest": "FY6ZH735LKIN57IHMEZU6KI4GIEOM5HN",
+    "mimetype": "application/octet-stream",
+    "statuscode": "200",
+    "wayback_url": "https://web.archive.org/web/20150104195801/https://www.ethereum.org/fonts/PrintClearly-webfont.eot"
+  },
+  {
+    "original": "https://www.ethereum.org/fonts/PrintClearly-webfont.svg",
+    "timestamp": "20140723211128",
+    "digest": "TA3CBYT4WAIFYGMEGP7HDRZU27SVGUA6",
+    "mimetype": "image/svg+xml",
+    "statuscode": "200",
+    "wayback_url": "https://web.archive.org/web/20140723211128/https://www.ethereum.org/fonts/PrintClearly-webfont.svg"
+  },
+  {
+    "original": "https://www.ethereum.org/fonts/PrintClearly-webfont.svg",
+    "timestamp": "20150104195757",
+    "digest": "4QUXDOKGDNICRYX7FBTGX6H6Y636SQSM",
+    "mimetype": "image/svg+xml",
+    "statuscode": "200",
+    "wayback_url": "https://web.archive.org/web/20150104195757/https://www.ethereum.org/fonts/PrintClearly-webfont.svg"
+  },
+  {
+    "original": "https://www.ethereum.org/fonts/PrintClearly-webfont.ttf",
+    "timestamp": "20140723211116",
+    "digest": "UZHVWILCCBC4FMSOYPPVSFZIOTQQ55MR",
+    "mimetype": "application/octet-stream",
+    "statuscode": "200",
+    "wayback_url": "https://web.archive.org/web/20140723211116/https://www.ethereum.org/fonts/PrintClearly-webfont.ttf"
+  },
+  {
+    "original": "https://www.ethereum.org/fonts/PrintClearly-webfont.ttf",
+    "timestamp": "20150104195828",
+    "digest": "UZHVWILCCBC4FMSOYPPVSFZIOTQQ55MR",
+    "mimetype": "application/octet-stream",
+    "statuscode": "200",
+    "wayback_url": "https://web.archive.org/web/20150104195828/https://www.ethereum.org/fonts/PrintClearly-webfont.ttf"
+  },
+  {
+    "original": "https://www.ethereum.org/fonts/PrintClearly-webfont.woff",
+    "timestamp": "20140723211125",
+    "digest": "ISUQESQTT5L5W5CL36W27RVZW2WC7SFS",
+    "mimetype": "application/octet-stream",
+    "statuscode": "200",
+    "wayback_url": "https://web.archive.org/web/20140723211125/https://www.ethereum.org/fonts/PrintClearly-webfont.woff"
+  },
+  {
+    "original": "https://www.ethereum.org/fonts/PrintClearly-webfont.woff",
+    "timestamp": "20150104195747",
+    "digest": "ISUQESQTT5L5W5CL36W27RVZW2WC7SFS",
+    "mimetype": "application/octet-stream",
+    "statuscode": "200",
+    "wayback_url": "https://web.archive.org/web/20150104195747/https://www.ethereum.org/fonts/PrintClearly-webfont.woff"
+  },
+  {
+    "original": "https://www.ethereum.org/fonts/roboto-black-webfont.eot",
+    "timestamp": "20140306025502",
+    "digest": "4QVVNO35UT4QFQQGYXIDFNY6KABADT7F",
+    "mimetype": "application/vnd.ms-fontobject",
+    "statuscode": "200",
+    "wayback_url": "https://web.archive.org/web/20140306025502/https://www.ethereum.org/fonts/roboto-black-webfont.eot"
+  },
+  {
+    "original": "https://www.ethereum.org/fonts/roboto-black-webfont.eot",
+    "timestamp": "20150104195803",
+    "digest": "4QVVNO35UT4QFQQGYXIDFNY6KABADT7F",
+    "mimetype": "application/octet-stream",
+    "statuscode": "200",
+    "wayback_url": "https://web.archive.org/web/20150104195803/https://www.ethereum.org/fonts/roboto-black-webfont.eot"
+  },
+  {
+    "original": "https://www.ethereum.org/fonts/roboto-black-webfont.svg",
+    "timestamp": "20140306013006",
+    "digest": "WP7MIYFYZOTOFOZ4VZHCKT4FNRWQA2CM",
+    "mimetype": "image/svg+xml",
+    "statuscode": "200",
+    "wayback_url": "https://web.archive.org/web/20140306013006/https://www.ethereum.org/fonts/roboto-black-webfont.svg"
+  },
+  {
+    "original": "https://www.ethereum.org/fonts/roboto-black-webfont.svg",
+    "timestamp": "20150104195803",
+    "digest": "WP7MIYFYZOTOFOZ4VZHCKT4FNRWQA2CM",
+    "mimetype": "image/svg+xml",
+    "statuscode": "200",
+    "wayback_url": "https://web.archive.org/web/20150104195803/https://www.ethereum.org/fonts/roboto-black-webfont.svg"
+  },
+  {
+    "original": "https://www.ethereum.org/fonts/roboto-black-webfont.ttf",
+    "timestamp": "20140306025310",
+    "digest": "YPZP5TQONYZ7DTYF7RZ5TYGRHTALWWAK",
+    "mimetype": "application/x-font-ttf",
+    "statuscode": "200",
+    "wayback_url": "https://web.archive.org/web/20140306025310/https://www.ethereum.org/fonts/roboto-black-webfont.ttf"
+  },
+  {
+    "original": "https://www.ethereum.org/fonts/roboto-black-webfont.ttf",
+    "timestamp": "20150104195747",
+    "digest": "YPZP5TQONYZ7DTYF7RZ5TYGRHTALWWAK",
+    "mimetype": "application/octet-stream",
+    "statuscode": "200",
+    "wayback_url": "https://web.archive.org/web/20150104195747/https://www.ethereum.org/fonts/roboto-black-webfont.ttf"
+  }
+]
